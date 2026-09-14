@@ -1,0 +1,62 @@
+{
+  "base_id": "appYePRAI75PMbQNQ",
+  "pull_finished_utc": "2026-09-14T18:07:35Z",
+  "pull_started_utc": "2026-09-14T18:07:20Z",
+  "rate_limit_429s": 0,
+  "schema": {
+    "endpoint_status": 403,
+    "file": null,
+    "sha256": null
+  },
+  "tables": {
+    "Applications": {
+      "file": "applications.json",
+      "pages": 4,
+      "record_count": 350,
+      "sha256": "b7049597425900103fc9355d9cb6c1ed06d1a26329c5a341c2e16e3100369ac5"
+    },
+    "Candidates": {
+      "file": "candidates.json",
+      "pages": 3,
+      "record_count": 300,
+      "sha256": "1729da4405ad8d6d7fb166e0ab9f5c82ff852a4e27585b1aa2aac0d99671c8dc"
+    },
+    "Departments": {
+      "file": "departments.json",
+      "pages": 1,
+      "record_count": 8,
+      "sha256": "dec241af7446a4c14772abab7933b06e82bc22ef1c28d2a8189a51aeb7925a15"
+    },
+    "Findings": {
+      "file": "findings.json",
+      "pages": 1,
+      "record_count": 0,
+      "sha256": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570"
+    },
+    "Interviews": {
+      "file": "interviews.json",
+      "pages": 2,
+      "record_count": 160,
+      "sha256": "43706dcdf2b98acb6b0af2654fe91c9b33c1bcedb69833e34d35fcbc7dda53ca"
+    },
+    "Job Openings": {
+      "file": "job_openings.json",
+      "pages": 1,
+      "record_count": 24,
+      "sha256": "01203281c3fbe021e06acbb03858fe39e8057da301392157cd94c4e446db59c2"
+    },
+    "Offers": {
+      "file": "offers.json",
+      "pages": 1,
+      "record_count": 36,
+      "sha256": "84a17b385481dad4dc49eb9d78a6a6e6a9f9d828d1d09b5e927ea3f1bbfe1839"
+    },
+    "People": {
+      "file": "people.json",
+      "pages": 1,
+      "record_count": 14,
+      "sha256": "2d62f9f5efe417bce81dc787660919469d73f4f1370000ac12ef35d6393b9d17"
+    }
+  },
+  "total_api_requests": 15
+}

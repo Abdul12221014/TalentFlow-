@@ -1,0 +1,6589 @@
+[
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "recXmd9qCH1puDGaE"
+      ],
+      "Candidate ID": "CAND-00108",
+      "City": "Hyderabad",
+      "Created On": "2025-03-24",
+      "Current CTC": 2150000,
+      "Current Company": "Copperfield Bank",
+      "Email": "omar.weber107@example.com",
+      "Expected CTC": 2300000,
+      "Full Name": "Omar Weber",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9733405704",
+      "Source": "Agency",
+      "Years Experience": 8.4
+    },
+    "id": "rec025p5ExyDDgMqo"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "recCg355T7dWJq5wC"
+      ],
+      "Candidate ID": "CAND-00080",
+      "City": "Chennai",
+      "Created On": "2025-07-24",
+      "Current CTC": 1360000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "zoya.mishra79@example.com",
+      "Expected CTC": 1520000,
+      "Full Name": "Zoya Mishra",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9375857234",
+      "Source": "Agency",
+      "Years Experience": 8
+    },
+    "id": "rec0RmkT1oaf3v2IZ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "recShkIbK2nW4OAU1"
+      ],
+      "Candidate ID": "CAND-00258",
+      "City": "Noida",
+      "Created On": "2025-05-28",
+      "Current CTC": 600000,
+      "Current Company": "Marigold Foods",
+      "Email": "aarav.iyer257@example.com",
+      "Expected CTC": 670000,
+      "Full Name": "Aarav Iyer",
+      "Notice Period Days": 30,
+      "Phone": "+91 9596032111",
+      "Source": "LinkedIn",
+      "Years Experience": 1.5
+    },
+    "id": "rec0fsVrfn2FFP0cX"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "recVsaVVlqFDz06hx"
+      ],
+      "Candidate ID": "CAND-00288",
+      "City": "Chennai",
+      "Created On": "2025-03-19",
+      "Current CTC": 1670000,
+      "Current Company": "Meridian Health",
+      "Email": "rajesh.pillai287@example.com",
+      "Expected CTC": 2300000,
+      "Full Name": "Rajesh Pillai",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9338184227",
+      "Source": "Job Board",
+      "Years Experience": 4.9
+    },
+    "id": "rec0hawReCGXfRRK8"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "recIk3vpbSowGSQVI"
+      ],
+      "Candidate ID": "CAND-00096",
+      "City": "Pune",
+      "Created On": "2025-09-11",
+      "Current CTC": 2200000,
+      "Current Company": "Arcadia Retail",
+      "Email": "harsh.mishra95@example.com",
+      "Expected CTC": 2880000,
+      "Full Name": "Harsh Mishra",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9429027259",
+      "Source": "Agency",
+      "Years Experience": 6.5
+    },
+    "id": "rec0o9aI0EnMVBMro"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "recGLKpHZ7KVqssTG"
+      ],
+      "Candidate ID": "CAND-00219",
+      "City": "Remote",
+      "Created On": "2026-04-27",
+      "Current CTC": 860000,
+      "Current Company": "Zenlytics",
+      "Email": "ravi.dubey218@example.com",
+      "Expected CTC": 1160000,
+      "Full Name": "Ravi Dubey",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9117055292",
+      "Source": "LinkedIn",
+      "Years Experience": 3.2
+    },
+    "id": "rec0rfFyI6FUhGlWs"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:20.000Z",
+    "fields": {
+      "Applications": [
+        "receq8MaHCS7ccJ6p"
+      ],
+      "Candidate ID": "CAND-00129",
+      "City": "Mumbai",
+      "Created On": "2025-06-17",
+      "Current CTC": 1110000,
+      "Current Company": "Meridian Health",
+      "Email": "shreya.pandey128@example.com",
+      "Expected CTC": 1670000,
+      "Full Name": "Shreya Pandey",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9756236780",
+      "Source": "Job Board",
+      "Years Experience": 3.3
+    },
+    "id": "rec1ZO83Ql6dd29RL"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "recqNTRxap8Wr4Gm6"
+      ],
+      "Candidate ID": "CAND-00253",
+      "City": "Hyderabad",
+      "Created On": "2026-01-29",
+      "Current CTC": 740000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "rakesh.bansal252@example.com",
+      "Expected CTC": 1010000,
+      "Full Name": "Rakesh Bansal",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9271953913",
+      "Source": "LinkedIn",
+      "Years Experience": 2.9
+    },
+    "id": "rec21D0wtMApDTES6"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "recmQozSPHQsfsGLa"
+      ],
+      "Candidate ID": "CAND-00174",
+      "City": "Bengaluru",
+      "Created On": "2025-05-21",
+      "Current CTC": 1670000,
+      "Current Company": "Northwind Telecom",
+      "Email": "ishita.mishra173@example.com",
+      "Expected CTC": 2090000,
+      "Full Name": "Ishita Mishra",
+      "Notice Period Days": 60,
+      "Phone": "+91 9274779848",
+      "Source": "Career Site",
+      "Years Experience": 5.7
+    },
+    "id": "rec2NZD4mvzgDmOiN"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "recp4qmI5WoemWcKL"
+      ],
+      "Candidate ID": "CAND-00082",
+      "City": "Hyderabad",
+      "Created On": "2026-06-01",
+      "Current CTC": 1240000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "aditi.tiwari81@example.com",
+      "Expected CTC": 1390000,
+      "Full Name": "Aditi Tiwari",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9321003536",
+      "Source": "Agency",
+      "Years Experience": 3.2
+    },
+    "id": "rec2PoJK2uHkb5Fpe"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "reccFP4j1zyMydygx"
+      ],
+      "Candidate ID": "CAND-00063",
+      "City": "Hyderabad",
+      "Created On": "2026-08-29",
+      "Current CTC": 450000,
+      "Current Company": "Copperfield Bank",
+      "Email": "arjun.kaur62@example.com",
+      "Expected CTC": 530000,
+      "Full Name": "Arjun Kaur",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9985538119",
+      "Source": "Career Site",
+      "Years Experience": 0.7
+    },
+    "id": "rec2atIiA18GrFXjS"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "recBnvAesasu7ckJ8"
+      ],
+      "Candidate ID": "CAND-00276",
+      "City": "Chennai",
+      "Created On": "2026-03-19",
+      "Current CTC": 2440000,
+      "Current Company": "Kettle & Co",
+      "Email": "pooja.yadav275@example.com",
+      "Expected CTC": 3320000,
+      "Full Name": "Pooja Yadav",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9381382056",
+      "Source": "LinkedIn",
+      "Years Experience": 8.6
+    },
+    "id": "rec2bPXUI1noehNfU"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "rec62MQD4nY797Ajk"
+      ],
+      "Candidate ID": "CAND-00199",
+      "City": "Mumbai",
+      "Created On": "2026-01-11",
+      "Current CTC": 1420000,
+      "Current Company": "Larkspur Software",
+      "Email": "priya.shah198@example.com",
+      "Expected CTC": 1490000,
+      "Full Name": "Priya Shah",
+      "Notice Period Days": 60,
+      "Phone": "+91 9285993778",
+      "Source": "Job Board",
+      "Years Experience": 3.6
+    },
+    "id": "rec2xnNIqnkaijV7R"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "recGiyWJy2C8lOufo",
+        "recT3q7hCKZ3uIIFj"
+      ],
+      "Candidate ID": "CAND-00050",
+      "City": "Pune",
+      "Created On": "2025-03-07",
+      "Current CTC": 2300000,
+      "Current Company": "Copperfield Bank",
+      "Email": "meera.nair49@example.com",
+      "Expected CTC": 2460000,
+      "Full Name": "Meera Nair",
+      "Notice Period Days": 60,
+      "Phone": "+91 9756307361",
+      "Source": "Job Board",
+      "Years Experience": 7.4
+    },
+    "id": "rec3IukqDk7vMclQl"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:25.000Z",
+    "fields": {
+      "Applications": [
+        "recyX8935MkVr7qxt"
+      ],
+      "Candidate ID": "CAND-00212",
+      "City": "Pune",
+      "Created On": "2026-05-27",
+      "Current CTC": 1960000,
+      "Current Company": "Quillion",
+      "Email": "ravi.tiwari211@example.com",
+      "Expected CTC": 2330000,
+      "Full Name": "Ravi Tiwari",
+      "Notice Period Days": 60,
+      "Phone": "+91 9325405725",
+      "Source": "Job Board",
+      "Years Experience": 9.1
+    },
+    "id": "rec3L2pfrQwhV5QWE"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "recwtxdtzuuo5yxW6"
+      ],
+      "Candidate ID": "CAND-00140",
+      "City": "Mumbai",
+      "Created On": "2025-11-29",
+      "Current CTC": 580000,
+      "Current Company": "Larkspur Software",
+      "Email": "marcus.garcia139@example.com",
+      "Expected CTC": 800000,
+      "Full Name": "Marcus Garcia",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9480812699",
+      "Source": "Job Board",
+      "Years Experience": 1.6
+    },
+    "id": "rec3UGGnvgS4eHy1V"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "rec5arpfOsmmEwk3V"
+      ],
+      "Candidate ID": "CAND-00282",
+      "City": "Pune",
+      "Created On": "2026-01-02",
+      "Current CTC": 1060000,
+      "Current Company": "Parable Systems",
+      "Email": "elena.tanaka281@example.com",
+      "Expected CTC": 1310000,
+      "Full Name": "Elena Tanaka",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9746421586",
+      "Source": "Job Board",
+      "Years Experience": 3.4
+    },
+    "id": "rec3fhVn1WvgnFYY7"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "recceue60IpVHFgqR"
+      ],
+      "Candidate ID": "CAND-00291",
+      "City": "Mumbai",
+      "Created On": "2025-06-02",
+      "Current CTC": 420000,
+      "Current Company": "Kettle & Co",
+      "Email": "ravi.agarwal290@example.com",
+      "Expected CTC": 560000,
+      "Full Name": "Ravi Agarwal",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9765343468",
+      "Source": "Job Board",
+      "Years Experience": 0.8
+    },
+    "id": "rec3n6EdujMW1JHgw"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:12.000Z",
+    "fields": {
+      "Applications": [
+        "recxPVkspAJrZQp25",
+        "recOQKvwlqxac6vRX"
+      ],
+      "Candidate ID": "CAND-00010",
+      "City": "Hyderabad",
+      "Created On": "2025-07-27",
+      "Current CTC": 1780000,
+      "Current Company": "Marigold Foods",
+      "Email": "k.menon@example.com",
+      "Expected CTC": 2530000,
+      "Full Name": "Kavya Menon",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9391578501",
+      "Source": "Job Board",
+      "Years Experience": 5.1
+    },
+    "id": "rec40qlITVvfTqKUW"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Applications": [
+        "recrCOYOF6KWpUmqW",
+        "recF6Nq4dyCozd9Cs"
+      ],
+      "Candidate ID": "CAND-00035",
+      "City": "Remote",
+      "Created On": "2026-01-04",
+      "Current CTC": 300000,
+      "Current Company": "Northwind Telecom",
+      "Email": "vinay.khanna34@example.com",
+      "Expected CTC": 420000,
+      "Full Name": "Vinay Khanna",
+      "Notice Period Days": 60,
+      "Phone": "+91 9675602739",
+      "Source": "Referral",
+      "Years Experience": 1.2
+    },
+    "id": "rec4TPTco4kDfU2DJ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "recsXHlBWuLQDcVQC"
+      ],
+      "Candidate ID": "CAND-00145",
+      "City": "Bengaluru",
+      "Created On": "2025-12-02",
+      "Current CTC": 430000,
+      "Current Company": "Marigold Foods",
+      "Email": "deepak.khanna144@example.com",
+      "Expected CTC": 520000,
+      "Full Name": "Deepak Khanna",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9403200991",
+      "Source": "Job Board",
+      "Years Experience": 0.8
+    },
+    "id": "rec4XbLmQaQOU321E"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "recjFFqK9KHos3R03",
+        "recyxlSQULfaakULY"
+      ],
+      "Candidate ID": "CAND-00028",
+      "City": "Chennai",
+      "Created On": "2025-03-13",
+      "Current CTC": 1750000,
+      "Current Company": "Arcadia Retail",
+      "Email": "mohit.jain27@example.com",
+      "Expected CTC": 2150000,
+      "Full Name": "Mohit Jain",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9894439427",
+      "Source": "Job Board",
+      "Years Experience": 5.6
+    },
+    "id": "rec4hMBejUd6B3XJK"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "rectAG2A6SMPWH8Wk"
+      ],
+      "Candidate ID": "CAND-00163",
+      "City": "Remote",
+      "Created On": "2026-08-19",
+      "Current CTC": 1120000,
+      "Current Company": "Marigold Foods",
+      "Email": "ravi.joshi162@example.com",
+      "Expected CTC": 1560000,
+      "Full Name": "Ravi Joshi",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9123282080",
+      "Source": "Job Board",
+      "Years Experience": 3.9
+    },
+    "id": "rec5RdZfePRur7pC7"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "recVKZzX2XFyw8zOA"
+      ],
+      "Candidate ID": "CAND-00112",
+      "City": "Noida",
+      "Created On": "2026-03-17",
+      "Current CTC": 1100000,
+      "Current Company": "Bluestone Labs",
+      "Email": "zoya.verma111@example.com",
+      "Expected CTC": 1520000,
+      "Full Name": "Zoya Verma",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9494027449",
+      "Source": "Job Board",
+      "Years Experience": 2.9
+    },
+    "id": "rec5nO1RuHd5yjICb"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "recpKJZQnjVow01jU"
+      ],
+      "Candidate ID": "CAND-00286",
+      "City": "Mumbai",
+      "Created On": "2025-10-15",
+      "Current CTC": 3040000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "tomas.silva285@example.com",
+      "Expected CTC": 4350000,
+      "Full Name": "Tomas Silva",
+      "Notice Period Days": 0,
+      "Phone": "+91 9600034570",
+      "Source": "Job Board",
+      "Years Experience": 9.5
+    },
+    "id": "rec67yPYHVjNNI6i5"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:16.000Z",
+    "fields": {
+      "Applications": [
+        "recWW3UtH3mzTAYgU"
+      ],
+      "Candidate ID": "CAND-00068",
+      "City": "Chennai",
+      "Created On": "2026-03-05",
+      "Current CTC": 840000,
+      "Current Company": "Basalt Energy",
+      "Email": "aditi.patel67@example.com",
+      "Expected CTC": 1050000,
+      "Full Name": "Aditi Patel",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9470678450",
+      "Source": "Career Site",
+      "Years Experience": 2.8
+    },
+    "id": "rec6BKJZcBt830leX"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:20.000Z",
+    "fields": {
+      "Applications": [
+        "recwPtTP9SQOM03cl"
+      ],
+      "Candidate ID": "CAND-00126",
+      "City": "Hyderabad",
+      "Created On": "2025-04-21",
+      "Current CTC": 660000,
+      "Current Company": "Larkspur Software",
+      "Email": "lakshmi.bansal125@example.com",
+      "Expected CTC": 880000,
+      "Full Name": "Lakshmi Bansal",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9319770768",
+      "Source": "Job Board",
+      "Years Experience": 1.4
+    },
+    "id": "rec6JoPQEq6uZlR1E"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "recyET1rOj1gPmIkT"
+      ],
+      "Candidate ID": "CAND-00284",
+      "City": "Chennai",
+      "Created On": "2025-07-09",
+      "Current CTC": 2260000,
+      "Current Company": "Marigold Foods",
+      "Email": "rohit.verma283@example.com",
+      "Expected CTC": 3010000,
+      "Full Name": "Rohit Verma",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9354108387",
+      "Source": "Job Board",
+      "Years Experience": 9.8
+    },
+    "id": "rec6LXtDS09NTKZZr"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "rec8YT2zzqA4mIguO"
+      ],
+      "Candidate ID": "CAND-00058",
+      "City": "Mumbai",
+      "Created On": "2025-08-16",
+      "Current CTC": 300000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "vinay.iyer57@example.com",
+      "Expected CTC": 370000,
+      "Full Name": "Vinay Iyer",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9367167749",
+      "Source": "Career Site",
+      "Years Experience": 0
+    },
+    "id": "rec6wroezIrPNFObb"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "receDhoBOhG7nhCmz"
+      ],
+      "Candidate ID": "CAND-00109",
+      "City": "Mumbai",
+      "Created On": "2026-03-02",
+      "Current CTC": 2370000,
+      "Current Company": "Bluestone Labs",
+      "Email": "tomas.nguyen108@example.com",
+      "Expected CTC": 3480000,
+      "Full Name": "Tomas Nguyen",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9582761027",
+      "Source": "Job Board",
+      "Years Experience": 7.3
+    },
+    "id": "rec73LxWTkoeGkKyE"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "recaajg01IcH6IEZM"
+      ],
+      "Candidate ID": "CAND-00141",
+      "City": "Pune",
+      "Created On": "2025-10-08",
+      "Current CTC": 1610000,
+      "Current Company": "Northwind Telecom",
+      "Email": "chetan.reddy140@example.com",
+      "Expected CTC": 2510000,
+      "Full Name": "Chetan Reddy",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9503710207",
+      "Source": "Job Board",
+      "Years Experience": 5.8
+    },
+    "id": "rec760uqlzcXa3Pi0"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "reck4USSuCcjq355n"
+      ],
+      "Candidate ID": "CAND-00262",
+      "City": "Bengaluru",
+      "Created On": "2025-03-17",
+      "Current CTC": 1740000,
+      "Current Company": "Vantage Mobility",
+      "Email": "wei.fernandes261@example.com",
+      "Expected CTC": 2040000,
+      "Full Name": "Wei Fernandes",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9922011908",
+      "Source": "Job Board",
+      "Years Experience": 6
+    },
+    "id": "rec79pxVt8FKQKtVg"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:13.000Z",
+    "fields": {
+      "Applications": [
+        "recZyltYQdEnLuCjY",
+        "recLPgOyLL4AYm7cH"
+      ],
+      "Candidate ID": "CAND-00023",
+      "City": "Pune",
+      "Created On": "2025-05-13",
+      "Current CTC": 1510000,
+      "Current Company": "Basalt Energy",
+      "Email": "rakesh.singh22@example.com",
+      "Expected CTC": 1800000,
+      "Full Name": "Rakesh Singh",
+      "Notice Period Days": 90,
+      "Phone": "+91 9218819534",
+      "Source": "Job Board",
+      "Years Experience": 6
+    },
+    "id": "rec7C3vB3OK73xHPF"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:12.000Z",
+    "fields": {
+      "Applications": [
+        "recPKXgzmuoBaSLui",
+        "recOALDnO1WuE6WpN"
+      ],
+      "Candidate ID": "CAND-00009",
+      "City": "Hyderabad",
+      "Created On": "2025-04-28",
+      "Current CTC": 1640000,
+      "Current Company": "Marigold Foods",
+      "Email": "kavya.menon8@example.com",
+      "Expected CTC": 2430000,
+      "Full Name": "Kavya Menon",
+      "Notice Period Days": 15,
+      "Phone": "+91 9391578501",
+      "Source": "Job Board",
+      "Years Experience": 8.8
+    },
+    "id": "rec7Iz8z4Yub5PTlV"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "recZuz7sr2fpSPd5U"
+      ],
+      "Candidate ID": "CAND-00281",
+      "City": "Bengaluru",
+      "Created On": "2025-05-15",
+      "Current CTC": 1230000,
+      "Current Company": "Redthread",
+      "Email": "camila.chen280@example.com",
+      "Expected CTC": 1450000,
+      "Full Name": "Camila Chen",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9336882174",
+      "Source": "LinkedIn",
+      "Years Experience": 4.9
+    },
+    "id": "rec7X8gIFvgYkg8Yk"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "recuN0WgaKWYNJIrS"
+      ],
+      "Candidate ID": "CAND-00115",
+      "City": "Chennai",
+      "Created On": "2025-08-20",
+      "Current CTC": 1590000,
+      "Current Company": "Larkspur Software",
+      "Email": "grace.tanaka114@example.com",
+      "Expected CTC": 2190000,
+      "Full Name": "Grace Tanaka",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9331515036",
+      "Source": "Job Board",
+      "Years Experience": 5
+    },
+    "id": "rec7sZygp3FC0xTwc"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "recHCW92od1abvBX5",
+        "recCzw9CidMQTjaJ4"
+      ],
+      "Candidate ID": "CAND-00048",
+      "City": "Noida",
+      "Created On": "2025-09-09",
+      "Current CTC": 1550000,
+      "Current Company": "Tidewater Logistics",
+      "Email": "rahul.iyer47@example.com",
+      "Expected CTC": 1780000,
+      "Full Name": "Rahul Iyer",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9738367633",
+      "Source": "Job Board",
+      "Years Experience": 6.1
+    },
+    "id": "rec7ub2gLlx36RBCC"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "recAbEYagijPpEDEY"
+      ],
+      "Candidate ID": "CAND-00100",
+      "City": "Pune",
+      "Created On": "2026-07-30",
+      "Current CTC": 1710000,
+      "Current Company": "Marigold Foods",
+      "Email": "akash.kulkarni99@example.com",
+      "Expected CTC": 2240000,
+      "Full Name": "Akash Kulkarni",
+      "Notice Period Days": 15,
+      "Phone": "+91 9182625531",
+      "Source": "Agency",
+      "Years Experience": 7.3
+    },
+    "id": "rec7vIUDfUOndtXHZ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "recaTn55f9iTinexu"
+      ],
+      "Candidate ID": "CAND-00263",
+      "City": "Chennai",
+      "Created On": "2025-06-17",
+      "Current CTC": 2020000,
+      "Current Company": "Harbourline",
+      "Email": "neha.desai262@example.com",
+      "Expected CTC": 2590000,
+      "Full Name": "Neha Desai",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9589820013",
+      "Source": "Job Board",
+      "Years Experience": 8.6
+    },
+    "id": "rec82GFgzWiXgsVb4"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:20.000Z",
+    "fields": {
+      "Applications": [
+        "recaUIrW2aIU4QY0h"
+      ],
+      "Candidate ID": "CAND-00128",
+      "City": "Bengaluru",
+      "Created On": "2026-01-14",
+      "Current CTC": 1390000,
+      "Current Company": "Harbourline",
+      "Email": "swati.sethi127@example.com",
+      "Expected CTC": 2030000,
+      "Full Name": "Swati Sethi",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9318472692",
+      "Source": "Job Board",
+      "Years Experience": 4.7
+    },
+    "id": "rec82mTIakMaVnuj2"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "recGx1pbjZZ6qQkDI"
+      ],
+      "Candidate ID": "CAND-00203",
+      "City": "Noida",
+      "Created On": "2025-04-02",
+      "Current CTC": 1000000,
+      "Current Company": "Zenlytics",
+      "Email": "chetan.nair202@example.com",
+      "Expected CTC": 1400000,
+      "Full Name": "Chetan Nair",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9231324489",
+      "Source": "Job Board",
+      "Years Experience": 3
+    },
+    "id": "rec8KIOBM1v1qhXWi"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "reck8WjCRyGgD71rs"
+      ],
+      "Candidate ID": "CAND-00280",
+      "City": "Noida",
+      "Created On": "2025-10-29",
+      "Current CTC": 820000,
+      "Current Company": "Zenlytics",
+      "Email": "shreya.malhotra279@example.com",
+      "Expected CTC": 1170000,
+      "Full Name": "Shreya Malhotra",
+      "Notice Period Days": 90,
+      "Phone": "+91 9134652122",
+      "Source": "Job Board",
+      "Years Experience": 2.8
+    },
+    "id": "rec8Wm4NnZtqQyL9Y"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:19.000Z",
+    "fields": {
+      "Applications": [
+        "recLkeaaxIpCVp0oV"
+      ],
+      "Candidate ID": "CAND-00120",
+      "City": "Noida",
+      "Created On": "2025-10-10",
+      "Current CTC": 2100000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "sofia.kowalski119@example.com",
+      "Expected CTC": 3090000,
+      "Full Name": "Sofia Kowalski",
+      "Notice Period Days": 30,
+      "Phone": "+91 9258972126",
+      "Source": "Job Board",
+      "Years Experience": 6.7
+    },
+    "id": "rec8WvAKYiqpXuSyP"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "recii4XbhYCb37Hvn"
+      ],
+      "Candidate ID": "CAND-00164",
+      "City": "Pune",
+      "Created On": "2026-06-23",
+      "Current CTC": 750000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "bhavna.pandey163@example.com",
+      "Expected CTC": 990000,
+      "Full Name": "Bhavna Pandey",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9301887383",
+      "Source": "Job Board",
+      "Years Experience": 1.8
+    },
+    "id": "rec8bNWHWUZfVefeu"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:16.000Z",
+    "fields": {
+      "Applications": [
+        "reczWAGMInjJYvmsk"
+      ],
+      "Candidate ID": "CAND-00071",
+      "City": "Hyderabad",
+      "Created On": "2026-07-06",
+      "Current CTC": 1130000,
+      "Current Company": "Zenlytics",
+      "Email": "chetan.desai70@example.com",
+      "Expected CTC": 1630000,
+      "Full Name": "Chetan Desai",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9345299095",
+      "Source": "Agency",
+      "Years Experience": 3.4
+    },
+    "id": "rec8pnxW9hDaQii3U"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "recb3UBJcTBRHpdui"
+      ],
+      "Candidate ID": "CAND-00114",
+      "City": "Bengaluru",
+      "Created On": "2026-08-14",
+      "Current CTC": 2470000,
+      "Current Company": "Bluestone Labs",
+      "Email": "aditi.sinha113@example.com",
+      "Expected CTC": 3410000,
+      "Full Name": "Aditi Sinha",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9249383405",
+      "Source": "Agency",
+      "Years Experience": 7.7
+    },
+    "id": "rec8sR7XnX3ulgzPF"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:12.000Z",
+    "fields": {
+      "Applications": [
+        "receTg6LaCev39dRp",
+        "recYd9lQ2uQpvtNqo"
+      ],
+      "Candidate ID": "CAND-00012",
+      "City": "Mumbai",
+      "Created On": "2025-07-04",
+      "Current CTC": 3060000,
+      "Current Company": "Copperfield Bank",
+      "Email": "v.nair@example.com",
+      "Expected CTC": 3580000,
+      "Full Name": "Vinay Nair",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9955080086",
+      "Source": "Job Board",
+      "Years Experience": 8.7
+    },
+    "id": "rec8v1V35Qxg2qsjL"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "recBrVoPmb3lGS9RD"
+      ],
+      "Candidate ID": "CAND-00148",
+      "City": "Hyderabad",
+      "Created On": "2026-02-21",
+      "Current CTC": 500000,
+      "Current Company": "Zenlytics",
+      "Email": "neha.tiwari147@example.com",
+      "Expected CTC": 750000,
+      "Full Name": "Neha Tiwari",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9551182875",
+      "Source": "Job Board",
+      "Years Experience": 0.9
+    },
+    "id": "rec9EDFJJptB6Mu0a"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "recpFoECf76f8X1K3"
+      ],
+      "Candidate ID": "CAND-00171",
+      "City": "Remote",
+      "Created On": "2025-12-16",
+      "Current CTC": 2300000,
+      "Current Company": "Meridian Health",
+      "Email": "farhan.sethi170@example.com",
+      "Expected CTC": 3820000,
+      "Full Name": "Farhan Sethi",
+      "Notice Period Days": 0,
+      "Phone": "+91 9265213618",
+      "Source": "Job Board",
+      "Years Experience": 7.9
+    },
+    "id": "rec9Npcvp6PV9VZLe"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "recMQNh6TlP4ciHoT"
+      ],
+      "Candidate ID": "CAND-00153",
+      "City": "Noida",
+      "Created On": "2025-08-08",
+      "Current CTC": 920000,
+      "Current Company": "Copperfield Bank",
+      "Email": "chetan.shah152@example.com",
+      "Expected CTC": 1210000,
+      "Full Name": "Chetan Shah",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9195626981",
+      "Source": "Job Board",
+      "Years Experience": 3.5
+    },
+    "id": "rec9oVAVFxd5E6eth"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "recryJuaBpPNMp6I6",
+        "rec4iYmQoziFjJ9fL"
+      ],
+      "Candidate ID": "CAND-00049",
+      "City": "Pune",
+      "Created On": "2026-05-11",
+      "Current CTC": 1610000,
+      "Current Company": "Vantage Mobility",
+      "Email": "pranav.joshi48@example.com",
+      "Expected CTC": 2010000,
+      "Full Name": "Pranav Joshi",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9837038397",
+      "Source": "Job Board",
+      "Years Experience": 6.6
+    },
+    "id": "recA0eouL811yPUtC"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "rechzU39BX1VZbMQu"
+      ],
+      "Candidate ID": "CAND-00231",
+      "City": "Noida",
+      "Created On": "2025-11-09",
+      "Current CTC": 1440000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "rajesh.iyer230@example.com",
+      "Expected CTC": 1730000,
+      "Full Name": "Rajesh Iyer",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9987198875",
+      "Source": "LinkedIn",
+      "Years Experience": 4.6
+    },
+    "id": "recAOPmX5RBDvfRMQ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "recXD3bchspEJMPgF"
+      ],
+      "Candidate ID": "CAND-00162",
+      "City": "Bengaluru",
+      "Created On": "2025-04-30",
+      "Current CTC": 2230000,
+      "Current Company": "Zenlytics",
+      "Email": "gaurav.desai161@example.com",
+      "Expected CTC": 3080000,
+      "Full Name": "Gaurav Desai",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9921641103",
+      "Source": "Job Board",
+      "Years Experience": 6.3
+    },
+    "id": "recATg3241DKrWRa4"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "recrExbwNJXiaDN4b"
+      ],
+      "Candidate ID": "CAND-00221",
+      "City": "Pune",
+      "Created On": "2026-03-02",
+      "Current CTC": 970000,
+      "Current Company": "Kettle & Co",
+      "Email": "farhan.rao220@example.com",
+      "Expected CTC": 1350000,
+      "Full Name": "Farhan Rao",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9492856712",
+      "Source": "Job Board",
+      "Years Experience": 3.5
+    },
+    "id": "recAgC7aZIG2QqcLF"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:19.000Z",
+    "fields": {
+      "Applications": [
+        "reccN3z84lRYFX3HM"
+      ],
+      "Candidate ID": "CAND-00124",
+      "City": "Noida",
+      "Created On": "2026-07-16",
+      "Current CTC": 630000,
+      "Current Company": "Arcadia Retail",
+      "Email": "neha.kumar123@example.com",
+      "Expected CTC": 770000,
+      "Full Name": "Neha Kumar",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9275748325",
+      "Source": "Job Board",
+      "Years Experience": 1.4
+    },
+    "id": "recAlHbskpqKNTrlz"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "recR6FwMI5fDU7lxu"
+      ],
+      "Candidate ID": "CAND-00247",
+      "City": "Chennai",
+      "Created On": "2026-08-07",
+      "Current CTC": 1110000,
+      "Current Company": "Northwind Telecom",
+      "Email": "vinay.malhotra246@example.com",
+      "Expected CTC": 1700000,
+      "Full Name": "Vinay Malhotra",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9630806759",
+      "Source": "Job Board",
+      "Years Experience": 2.8
+    },
+    "id": "recAmgOyJ50cGhN5I"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:20.000Z",
+    "fields": {
+      "Applications": [
+        "recVDJutcT64hUFk4"
+      ],
+      "Candidate ID": "CAND-00130",
+      "City": "Noida",
+      "Created On": "2026-05-15",
+      "Current CTC": 980000,
+      "Current Company": "Basalt Energy",
+      "Email": "divya.tiwari129@example.com",
+      "Expected CTC": 1120000,
+      "Full Name": "Divya Tiwari",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9636876878",
+      "Source": "Job Board",
+      "Years Experience": 2.8
+    },
+    "id": "recArdofv6MKV33V6"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "recteo4spjSG5Kgwd",
+        "recUTm4vFe46Ns02w"
+      ],
+      "Candidate ID": "CAND-00027",
+      "City": "Bengaluru",
+      "Created On": "2026-03-09",
+      "Current CTC": 1180000,
+      "Current Company": "Redthread",
+      "Email": "arjun.bansal26@example.com",
+      "Expected CTC": 1510000,
+      "Full Name": "Arjun Bansal",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9500999787",
+      "Source": "Job Board",
+      "Years Experience": 3.5
+    },
+    "id": "recBDWWy4fF0Tp7ip"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:23.000Z",
+    "fields": {
+      "Applications": [
+        "recwQvsOOtVNFtfd6"
+      ],
+      "Candidate ID": "CAND-00177",
+      "City": "Pune",
+      "Created On": "2025-10-08",
+      "Current CTC": 1540000,
+      "Current Company": "Quillion",
+      "Email": "rajesh.khanna176@example.com",
+      "Expected CTC": 1860000,
+      "Full Name": "Rajesh Khanna",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9919862974",
+      "Source": "Job Board",
+      "Years Experience": 7.5
+    },
+    "id": "recBnBhx1k7YZn5k7"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "rec0PaJV3hGNinKGA"
+      ],
+      "Candidate ID": "CAND-00055",
+      "City": "Noida",
+      "Created On": "2025-09-15",
+      "Current CTC": 740000,
+      "Current Company": "Kettle & Co",
+      "Email": "aditi.kapoor54@example.com",
+      "Expected CTC": 860000,
+      "Full Name": "Aditi Kapoor",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9447413688",
+      "Source": "Career Site",
+      "Years Experience": 1.8
+    },
+    "id": "recBr13y8pvFyuYMG"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "recmpmJRqVU7AMHJ2"
+      ],
+      "Candidate ID": "CAND-00090",
+      "City": "Pune",
+      "Created On": "2026-05-04",
+      "Current CTC": 1480000,
+      "Current Company": "Arcadia Retail",
+      "Email": "pooja.gupta89@example.com",
+      "Expected CTC": 2260000,
+      "Full Name": "Pooja Gupta",
+      "Notice Period Days": 30,
+      "Phone": "+91 9101124862",
+      "Source": "Career Site",
+      "Years Experience": 5.7
+    },
+    "id": "recBtFP37UKEpj020"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "rec7fsjA7HOFYsxUr"
+      ],
+      "Candidate ID": "CAND-00086",
+      "City": "Pune",
+      "Created On": "2026-08-12",
+      "Current CTC": 780000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "arun.sharma85@example.com",
+      "Expected CTC": 980000,
+      "Full Name": "Arun Sharma",
+      "Notice Period Days": 60,
+      "Phone": "+91 9811760158",
+      "Source": "Agency",
+      "Years Experience": 2
+    },
+    "id": "recBzdFRivETxpjGz"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "rec6oxWqPzJRqyVdg",
+        "recaFt6waPJsgv4Ct"
+      ],
+      "Candidate ID": "CAND-00034",
+      "City": "Pune",
+      "Created On": "2025-12-01",
+      "Current CTC": 1030000,
+      "Current Company": "Bluestone Labs",
+      "Email": "sagar.bhat33@example.com",
+      "Expected CTC": 1410000,
+      "Full Name": "Sagar Bhat",
+      "Notice Period Days": 0,
+      "Phone": "+91 9261156114",
+      "Source": "Job Board",
+      "Years Experience": 5.6
+    },
+    "id": "recC5DkWhivR3MlEW"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:12.000Z",
+    "fields": {
+      "Applications": [
+        "receoLsZYU1qm4tPS",
+        "rec2boXJI2mO6NvdL"
+      ],
+      "Candidate ID": "CAND-00011",
+      "City": "Mumbai",
+      "Created On": "2025-10-26",
+      "Current CTC": 1570000,
+      "Current Company": "Copperfield Bank",
+      "Email": "vinay.nair10@example.com",
+      "Expected CTC": 2030000,
+      "Full Name": "Vinay Nair",
+      "Notice Period Days": 90,
+      "Phone": "+91 9955080086",
+      "Source": "Job Board",
+      "Years Experience": 5.3
+    },
+    "id": "recCHwuvmFEnREk0M"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "recmxYppqpVBvVxmV"
+      ],
+      "Candidate ID": "CAND-00297",
+      "City": "Chennai",
+      "Created On": "2026-06-11",
+      "Current CTC": 2340000,
+      "Current Company": "Quillion",
+      "Email": "tanvi.joshi296@example.com",
+      "Expected CTC": 3390000,
+      "Full Name": "Tanvi Joshi",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9102421025",
+      "Source": "LinkedIn",
+      "Years Experience": 10.1
+    },
+    "id": "recCRHQTvuz8ZXaBS"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "recd2eVyZHDSLJj2f"
+      ],
+      "Candidate ID": "CAND-00205",
+      "City": "Bengaluru",
+      "Created On": "2025-03-05",
+      "Current CTC": 2220000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "swati.dubey204@example.com",
+      "Expected CTC": 2710000,
+      "Full Name": "Swati Dubey",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9480851593",
+      "Source": "Job Board",
+      "Years Experience": 11.2
+    },
+    "id": "recCwFPGy8YHgmnzp"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:25.000Z",
+    "fields": {
+      "Applications": [
+        "recU7X60PAopuJfji"
+      ],
+      "Candidate ID": "CAND-00213",
+      "City": "Mumbai",
+      "Created On": "2025-03-28",
+      "Current CTC": 1560000,
+      "Current Company": "Foxglove Media",
+      "Email": "yash.joshi212@example.com",
+      "Expected CTC": 2060000,
+      "Full Name": "Yash Joshi",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9639803361",
+      "Source": "Job Board",
+      "Years Experience": 5.2
+    },
+    "id": "recDAjeMPvDy1TvLy"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "recTAML9ojeuFSdoF"
+      ],
+      "Candidate ID": "CAND-00238",
+      "City": "Remote",
+      "Created On": "2026-07-22",
+      "Current CTC": 300000,
+      "Current Company": "Copperfield Bank",
+      "Email": "ravi.sethi237@example.com",
+      "Expected CTC": 430000,
+      "Full Name": "Ravi Sethi",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9840105261",
+      "Source": "Job Board",
+      "Years Experience": 0
+    },
+    "id": "recDMsloHhdiI7n5E"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Applications": [
+        "recnbPvxEbyi8T3cy"
+      ],
+      "Candidate ID": "CAND-00242",
+      "City": "Mumbai",
+      "Created On": "2025-06-15",
+      "Current CTC": 510000,
+      "Current Company": "Vantage Mobility",
+      "Email": "varun.kumar241@example.com",
+      "Expected CTC": 720000,
+      "Full Name": "Varun Kumar",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9379758044",
+      "Source": "Referral",
+      "Years Experience": 0.8
+    },
+    "id": "recDUysdny9plc4sA"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "rec8Lca2OO74RaGOk"
+      ],
+      "Candidate ID": "CAND-00146",
+      "City": "Hyderabad",
+      "Created On": "2026-07-16",
+      "Current CTC": 1410000,
+      "Current Company": "Meridian Health",
+      "Email": "tanvi.pillai145@example.com",
+      "Expected CTC": 1860000,
+      "Full Name": "Tanvi Pillai",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9909416256",
+      "Source": "Job Board",
+      "Years Experience": 3.9
+    },
+    "id": "recDeKfSHY8kR3ys6"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:16.000Z",
+    "fields": {
+      "Applications": [
+        "rect4WxvR2TvMdhxV"
+      ],
+      "Candidate ID": "CAND-00075",
+      "City": "Mumbai",
+      "Created On": "2026-06-10",
+      "Current CTC": 300000,
+      "Current Company": "Redthread",
+      "Email": "bhavna.jain74@example.com",
+      "Expected CTC": 330000,
+      "Full Name": "Bhavna Jain",
+      "Notice Period Days": 0,
+      "Phone": "+91 9811116977",
+      "Source": "Career Site",
+      "Years Experience": 0
+    },
+    "id": "recDsMtXByPsQQY2P"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "recwCbFOqNVF09X1Y"
+      ],
+      "Candidate ID": "CAND-00094",
+      "City": "Chennai",
+      "Created On": "2026-02-22",
+      "Current CTC": 1240000,
+      "Current Company": "Foxglove Media",
+      "Email": "jatin.sharma93@example.com",
+      "Expected CTC": 1640000,
+      "Full Name": "Jatin Sharma",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9859896972",
+      "Source": "Agency",
+      "Years Experience": 5.5
+    },
+    "id": "recDxGM7ykDbgx96Q"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "recGdC91TC4ICTdyu"
+      ],
+      "Candidate ID": "CAND-00078",
+      "City": "Mumbai",
+      "Created On": "2026-05-26",
+      "Current CTC": 1150000,
+      "Current Company": "Larkspur Software",
+      "Email": "arun.yadav77@example.com",
+      "Expected CTC": 1460000,
+      "Full Name": "Arun Yadav",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9958735399",
+      "Source": "Agency",
+      "Years Experience": 3.1
+    },
+    "id": "recE3ct3XgoljNoAy"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "rec4TRT6skp8ob47R"
+      ],
+      "Candidate ID": "CAND-00198",
+      "City": "Chennai",
+      "Created On": "2026-06-12",
+      "Current CTC": 1190000,
+      "Current Company": "Basalt Energy",
+      "Email": "marcus.chen197@example.com",
+      "Expected CTC": 1250000,
+      "Full Name": "Marcus Chen",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9359012188",
+      "Source": "Job Board",
+      "Years Experience": 6.2
+    },
+    "id": "recEGM0inq9v8d0rY"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:19.000Z",
+    "fields": {
+      "Applications": [
+        "recKopXFAihwvSumv"
+      ],
+      "Candidate ID": "CAND-00116",
+      "City": "Hyderabad",
+      "Created On": "2026-01-27",
+      "Current CTC": 1200000,
+      "Current Company": "Copperfield Bank",
+      "Email": "varun.rao115@example.com",
+      "Expected CTC": 1620000,
+      "Full Name": "Varun Rao",
+      "Notice Period Days": 30,
+      "Phone": "+91 9851905480",
+      "Source": "Job Board",
+      "Years Experience": 4.6
+    },
+    "id": "recEJw9Lfc4aQ3ewI"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "recSviugwQ3oGfCf1"
+      ],
+      "Candidate ID": "CAND-00077",
+      "City": "Pune",
+      "Created On": "2025-09-10",
+      "Current CTC": 3150000,
+      "Current Company": "Parable Systems",
+      "Email": "aarav.chauhan76@example.com",
+      "Expected CTC": 3910000,
+      "Full Name": "Aarav Chauhan",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9677854296",
+      "Source": "Agency",
+      "Years Experience": 9.6
+    },
+    "id": "recEjNwF3LisTGR1Q"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "recgrME10OXKxRXqT"
+      ],
+      "Candidate ID": "CAND-00142",
+      "City": "Noida",
+      "Created On": "2025-08-21",
+      "Current CTC": 760000,
+      "Current Company": "Marigold Foods",
+      "Email": "meera.bhat141@example.com",
+      "Expected CTC": 910000,
+      "Full Name": "Meera Bhat",
+      "Notice Period Days": 30,
+      "Phone": "+91 9994666771",
+      "Source": "Job Board",
+      "Years Experience": 2.2
+    },
+    "id": "recEnWiKTmCGT90oS"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "rec03mm1CQItRpbin"
+      ],
+      "Candidate ID": "CAND-00222",
+      "City": "Mumbai",
+      "Created On": "2025-10-23",
+      "Current CTC": 300000,
+      "Current Company": "Kettle & Co",
+      "Email": "rajesh.jain221@example.com",
+      "Expected CTC": 360000,
+      "Full Name": "Rajesh Jain",
+      "Notice Period Days": 60,
+      "Phone": "+91 9746632627",
+      "Source": "Job Board",
+      "Years Experience": 0
+    },
+    "id": "recF8kNQraCKnPcn2"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "recUbsYKcVPEqayT9"
+      ],
+      "Candidate ID": "CAND-00085",
+      "City": "Noida",
+      "Created On": "2026-07-29",
+      "Current CTC": 1600000,
+      "Current Company": "Arcadia Retail",
+      "Email": "rahul.reddy84@example.com",
+      "Expected CTC": 2350000,
+      "Full Name": "Rahul Reddy",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9999313552",
+      "Source": "Agency",
+      "Years Experience": 6.2
+    },
+    "id": "recFIKVpKicnBvS0p"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "recKtJZtnIkqZ5GIc"
+      ],
+      "Candidate ID": "CAND-00110",
+      "City": "Hyderabad",
+      "Created On": "2026-01-22",
+      "Current CTC": 560000,
+      "Current Company": "Parable Systems",
+      "Email": "varun.pillai109@example.com",
+      "Expected CTC": 900000,
+      "Full Name": "Varun Pillai",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9394339006",
+      "Source": "Agency",
+      "Years Experience": 1
+    },
+    "id": "recFNTNmDysjsA498"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "recr9pwKyMqCoD9fm"
+      ],
+      "Candidate ID": "CAND-00188",
+      "City": "Mumbai",
+      "Created On": "2026-06-16",
+      "Current CTC": 1510000,
+      "Current Company": "Larkspur Software",
+      "Email": "yash.sethi187@example.com",
+      "Expected CTC": 2110000,
+      "Full Name": "Yash Sethi",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9972086474",
+      "Source": "Job Board",
+      "Years Experience": 6.6
+    },
+    "id": "recFVTgfFZtOY7uCL"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "recxk4AzL8ntHG13g"
+      ],
+      "Candidate ID": "CAND-00151",
+      "City": "Bengaluru",
+      "Created On": "2026-01-08",
+      "Current CTC": 2200000,
+      "Current Company": "Bluestone Labs",
+      "Email": "aditi.bansal150@example.com",
+      "Expected CTC": 2730000,
+      "Full Name": "Aditi Bansal",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9395130535",
+      "Source": "Job Board",
+      "Years Experience": 11.1
+    },
+    "id": "recFYIY5kHmEsG8GO"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "rechnInK82XF4MJmq",
+        "recpeZdjBUH64D1fV"
+      ],
+      "Candidate ID": "CAND-00029",
+      "City": "Hyderabad",
+      "Created On": "2026-02-14",
+      "Current CTC": 300000,
+      "Current Company": "Harbourline",
+      "Email": "omar.almeida28@example.com",
+      "Expected CTC": 320000,
+      "Full Name": "Omar Almeida",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9883498072",
+      "Source": "Job Board",
+      "Years Experience": 0
+    },
+    "id": "recFxocXQU3L60bwN"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "recOw5S3niDaulLoE"
+      ],
+      "Candidate ID": "CAND-00278",
+      "City": "Noida",
+      "Created On": "2025-12-05",
+      "Current CTC": 650000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "farhan.khanna277@example.com",
+      "Expected CTC": 910000,
+      "Full Name": "Farhan Khanna",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9360246495",
+      "Source": "Agency",
+      "Years Experience": 2.7
+    },
+    "id": "recG1wDJo01kpVk3C"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:20.000Z",
+    "fields": {
+      "Applications": [
+        "rec2o2XqwHfynJUAS"
+      ],
+      "Candidate ID": "CAND-00131",
+      "City": "Noida",
+      "Created On": "2026-02-04",
+      "Current CTC": 1770000,
+      "Current Company": "Arcadia Retail",
+      "Email": "chetan.tiwari130@example.com",
+      "Expected CTC": 2180000,
+      "Full Name": "Chetan Tiwari",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9222222945",
+      "Source": "Job Board",
+      "Years Experience": 5.6
+    },
+    "id": "recG3xkbALjw80QrM"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "recjENzuhpcxqL4ud"
+      ],
+      "Candidate ID": "CAND-00201",
+      "City": "Bengaluru",
+      "Created On": "2025-05-18",
+      "Current CTC": 1320000,
+      "Current Company": "Bluestone Labs",
+      "Email": "camila.fernandes200@example.com",
+      "Expected CTC": 1410000,
+      "Full Name": "Camila Fernandes",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9636484028",
+      "Source": "Job Board",
+      "Years Experience": 5.5
+    },
+    "id": "recG6UapbdgI4GK2W"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "recDYP2CZcx7nuGNm",
+        "recygkO8Y6gYVRXcj"
+      ],
+      "Candidate ID": "CAND-00041",
+      "City": "Bengaluru",
+      "Created On": "2025-08-25",
+      "Current CTC": 600000,
+      "Current Company": "Basalt Energy",
+      "Email": "meera.patel40@example.com",
+      "Expected CTC": 890000,
+      "Full Name": "Meera Patel",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9720209455",
+      "Source": "Job Board",
+      "Years Experience": 1.4
+    },
+    "id": "recGWvjruBnYbjrYa"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "rec8n7ktHYBuzeY1h",
+        "recCSHD8xCQBZ5QXA"
+      ],
+      "Candidate ID": "CAND-00039",
+      "City": "Noida",
+      "Created On": "2025-08-12",
+      "Current CTC": 1100000,
+      "Current Company": "Zenlytics",
+      "Email": "kavya.tiwari38@example.com",
+      "Expected CTC": 1520000,
+      "Full Name": "Kavya Tiwari",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9240531140",
+      "Source": "Job Board",
+      "Years Experience": 4.8
+    },
+    "id": "recGnS8OuDu3Q1GS1"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "recpTfLaxtqwd6Zml"
+      ],
+      "Candidate ID": "CAND-00087",
+      "City": "Noida",
+      "Created On": "2025-05-26",
+      "Current CTC": 2480000,
+      "Current Company": "Harbourline",
+      "Email": "arun.singh86@example.com",
+      "Expected CTC": 3500000,
+      "Full Name": "Arun Singh",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9938913677",
+      "Source": "Agency",
+      "Years Experience": 0.6
+    },
+    "id": "recGpKkvkARmT6S7s"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:23.000Z",
+    "fields": {
+      "Applications": [
+        "recvfUmmps3AJ0JXg"
+      ],
+      "Candidate ID": "CAND-00182",
+      "City": "Remote",
+      "Created On": "2026-03-27",
+      "Current CTC": 1960000,
+      "Current Company": "Meridian Health",
+      "Email": "vikram.kumar181@example.com",
+      "Expected CTC": 2410000,
+      "Full Name": "Vikram Kumar",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9242187040",
+      "Source": "Job Board",
+      "Years Experience": 6.6
+    },
+    "id": "recHKTSDos43PZesn"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "recmyjffFgYrNv4aR"
+      ],
+      "Candidate ID": "CAND-00101",
+      "City": "Noida",
+      "Created On": "2026-01-19",
+      "Current CTC": 2670000,
+      "Current Company": "Meridian Health",
+      "Email": "james.silva100@example.com",
+      "Expected CTC": 3310000,
+      "Full Name": "James Silva",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9721041861",
+      "Source": "Agency",
+      "Years Experience": 6.5
+    },
+    "id": "recI8Nx3KwHJzrGGR"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Applications": [
+        "recCBinek7jNABwCa"
+      ],
+      "Candidate ID": "CAND-00256",
+      "City": "Hyderabad",
+      "Created On": "2025-07-27",
+      "Current CTC": 1140000,
+      "Current Company": "Vantage Mobility",
+      "Email": "shreya.nair255@example.com",
+      "Expected CTC": 1430000,
+      "Full Name": "Shreya Nair",
+      "Notice Period Days": 90,
+      "Phone": "+91 9899433003",
+      "Source": "Referral",
+      "Years Experience": 2.9
+    },
+    "id": "recIBdfI6BsGjK0o5"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:13.000Z",
+    "fields": {
+      "Applications": [
+        "recRAyDBrdQqQOVyP",
+        "recCeQ8EDYbkRp312"
+      ],
+      "Candidate ID": "CAND-00019",
+      "City": "Chennai",
+      "Created On": "2025-03-25",
+      "Current CTC": 1130000,
+      "Current Company": "Zenlytics",
+      "Email": "pooja.khanna18@example.com",
+      "Expected CTC": 1660000,
+      "Full Name": "Pooja Khanna",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9798238196",
+      "Source": "Job Board",
+      "Years Experience": 6.4
+    },
+    "id": "recIPZ2h6RA4Asws8"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "recfIzMbPJUFmMG8U"
+      ],
+      "Candidate ID": "CAND-00237",
+      "City": "Mumbai",
+      "Created On": "2026-04-12",
+      "Current CTC": 2180000,
+      "Current Company": "Parable Systems",
+      "Email": "vinay.mishra236@example.com",
+      "Expected CTC": 2990000,
+      "Full Name": "Vinay Mishra",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9839787676",
+      "Source": "Job Board",
+      "Years Experience": 9.2
+    },
+    "id": "recITTx52LUc6H3Zw"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:19.000Z",
+    "fields": {
+      "Applications": [
+        "recrctja21PuZSaCN"
+      ],
+      "Candidate ID": "CAND-00121",
+      "City": "Mumbai",
+      "Created On": "2025-10-29",
+      "Current CTC": 1640000,
+      "Current Company": "Vantage Mobility",
+      "Email": "mohit.mishra120@example.com",
+      "Expected CTC": 1950000,
+      "Full Name": "Mohit Mishra",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9298826282",
+      "Source": "Job Board",
+      "Years Experience": 5.5
+    },
+    "id": "recIiTgeWZQAic5tA"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:25.000Z",
+    "fields": {
+      "Applications": [
+        "rec42NcT9OGY8NOQC"
+      ],
+      "Candidate ID": "CAND-00206",
+      "City": "Bengaluru",
+      "Created On": "2026-01-04",
+      "Current CTC": 1660000,
+      "Current Company": "Parable Systems",
+      "Email": "aarav.sharma205@example.com",
+      "Expected CTC": 2170000,
+      "Full Name": "Aarav Sharma",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9944361760",
+      "Source": "Job Board",
+      "Years Experience": 6.7
+    },
+    "id": "recIj7jXiHfRK6CpF"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "rec0W4wqiME84NbOB"
+      ],
+      "Candidate ID": "CAND-00249",
+      "City": "Chennai",
+      "Created On": "2026-08-23",
+      "Current CTC": 530000,
+      "Current Company": "Vantage Mobility",
+      "Email": "varun.reddy248@example.com",
+      "Expected CTC": 770000,
+      "Full Name": "Varun Reddy",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9291783398",
+      "Source": "LinkedIn",
+      "Years Experience": 1.1
+    },
+    "id": "recIl5pjcw3kTbUDq"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:25.000Z",
+    "fields": {
+      "Applications": [
+        "recpvsRrkR3AdZL76"
+      ],
+      "Candidate ID": "CAND-00211",
+      "City": "Bengaluru",
+      "Created On": "2026-03-01",
+      "Current CTC": 1640000,
+      "Current Company": "Quillion",
+      "Email": "rakesh.menon210@example.com",
+      "Expected CTC": 2000000,
+      "Full Name": "Rakesh Menon",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9432092938",
+      "Source": "Job Board",
+      "Years Experience": 6.4
+    },
+    "id": "recJ7uFoEAJZaLzG6"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "recj7PAXWCs9DN0f7"
+      ],
+      "Candidate ID": "CAND-00228",
+      "City": "Mumbai",
+      "Created On": "2026-07-09",
+      "Current CTC": 1490000,
+      "Current Company": "Redthread",
+      "Email": "rajesh.gupta227@example.com",
+      "Expected CTC": 2120000,
+      "Full Name": "Rajesh Gupta",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9672415730",
+      "Source": "LinkedIn",
+      "Years Experience": 7.5
+    },
+    "id": "recJKUw4NSV0PeEhA"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:12.000Z",
+    "fields": {
+      "Applications": [
+        "recsWENinZHkh9BBS",
+        "recNgih4faJbKDtQE"
+      ],
+      "Candidate ID": "CAND-00001",
+      "City": "Noida",
+      "Created On": "2025-04-08",
+      "Current CTC": 1030000,
+      "Current Company": "Parable Systems",
+      "Email": "varun.sharma0@example.com",
+      "Expected CTC": 718566,
+      "Full Name": "Varun Sharma",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9390171253",
+      "Source": "Job Board",
+      "Years Experience": 3.2
+    },
+    "id": "recJYEsd93C0FgfMW"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "rec5jKN0CODSFEjKe"
+      ],
+      "Candidate ID": "CAND-00196",
+      "City": "Pune",
+      "Created On": "2025-08-21",
+      "Current CTC": 2680000,
+      "Current Company": "Marigold Foods",
+      "Email": "wei.okonkwo195@example.com",
+      "Expected CTC": 3560000,
+      "Full Name": "Wei Okonkwo",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9837081022",
+      "Source": "Job Board",
+      "Years Experience": 10.1
+    },
+    "id": "recK1fmW5G0tZYzy7"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "recoQ4eljmgHiNlaT"
+      ],
+      "Candidate ID": "CAND-00137",
+      "City": "Remote",
+      "Created On": "2026-02-04",
+      "Current CTC": 1540000,
+      "Current Company": "Copperfield Bank",
+      "Email": "arun.dubey136@example.com",
+      "Expected CTC": 1710000,
+      "Full Name": "Arun Dubey",
+      "Notice Period Days": 30,
+      "Phone": "+91 9489887545",
+      "Source": "Job Board",
+      "Years Experience": 6.4
+    },
+    "id": "recKaHu52gOXysW0I"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "recVRICfbNWTgRfnw"
+      ],
+      "Candidate ID": "CAND-00295",
+      "City": "Mumbai",
+      "Created On": "2026-01-23",
+      "Current CTC": 300000,
+      "Current Company": "Kettle & Co",
+      "Email": "vikram.khanna294@example.com",
+      "Expected CTC": 330000,
+      "Full Name": "Vikram Khanna",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9374745110",
+      "Source": "Job Board",
+      "Years Experience": 0
+    },
+    "id": "recL1XYqkcLaRjd5X"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:23.000Z",
+    "fields": {
+      "Applications": [
+        "reckKPw0f6RVy2xyO"
+      ],
+      "Candidate ID": "CAND-00181",
+      "City": "Noida",
+      "Created On": "2026-04-22",
+      "Current CTC": 2500000,
+      "Current Company": "Marigold Foods",
+      "Email": "sagar.mehta180@example.com",
+      "Expected CTC": 3280000,
+      "Full Name": "Sagar Mehta",
+      "Notice Period Days": 30,
+      "Phone": "+91 9715912114",
+      "Source": "Job Board",
+      "Years Experience": 8
+    },
+    "id": "recLHXvTmYzrhFWfw"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "rech4jLUzvzTgROFK"
+      ],
+      "Candidate ID": "CAND-00159",
+      "City": "Hyderabad",
+      "Created On": "2026-05-15",
+      "Current CTC": 1720000,
+      "Current Company": "Bluestone Labs",
+      "Email": "swati.reddy158@example.com",
+      "Expected CTC": 2370000,
+      "Full Name": "Swati Reddy",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9210018391",
+      "Source": "Job Board",
+      "Years Experience": 4.8
+    },
+    "id": "recLIQcoNTWz9SwEA"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:19.000Z",
+    "fields": {
+      "Applications": [
+        "recv6eHiU4xrWC2zh"
+      ],
+      "Candidate ID": "CAND-00118",
+      "City": "Hyderabad",
+      "Created On": "2025-09-22",
+      "Current CTC": 300000,
+      "Current Company": "Basalt Energy",
+      "Email": "ananya.agarwal117@example.com",
+      "Expected CTC": 410000,
+      "Full Name": "Ananya Agarwal",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9775107568",
+      "Source": "Job Board",
+      "Years Experience": 0
+    },
+    "id": "recLJKZuIVoD6SMBb"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:19.000Z",
+    "fields": {
+      "Applications": [
+        "recpGNJZsc5f2jetO"
+      ],
+      "Candidate ID": "CAND-00119",
+      "City": "Pune",
+      "Created On": "2025-11-28",
+      "Current CTC": 1590000,
+      "Current Company": "Vantage Mobility",
+      "Email": "sneha.chauhan118@example.com",
+      "Expected CTC": 2180000,
+      "Full Name": "Sneha Chauhan",
+      "Notice Period Days": 30,
+      "Phone": "+91 9177983600",
+      "Source": "Job Board",
+      "Years Experience": 4.9
+    },
+    "id": "recLYN9bj62e8NvKh"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "rech159sdjSC54aSA"
+      ],
+      "Candidate ID": "CAND-00197",
+      "City": "Remote",
+      "Created On": "2025-04-26",
+      "Current CTC": 380000,
+      "Current Company": "Zenlytics",
+      "Email": "varun.kapoor196@example.com",
+      "Expected CTC": 470000,
+      "Full Name": "Varun Kapoor",
+      "Notice Period Days": 30,
+      "Phone": "+91 9790606171",
+      "Source": "Job Board",
+      "Years Experience": 0.3
+    },
+    "id": "recLd4fUMpXZ0K6Mv"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:12.000Z",
+    "fields": {
+      "Applications": [
+        "recwwFHgFJVvqXjbl",
+        "recjqevDefQTd1YgU"
+      ],
+      "Candidate ID": "CAND-00005",
+      "City": "Remote",
+      "Created On": "2025-08-13",
+      "Current CTC": 2420000,
+      "Current Company": "Arcadia Retail",
+      "Email": "anjali.jain4@example.com",
+      "Expected CTC": 2540000,
+      "Full Name": "Anjali Jain",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9700250691",
+      "Source": "Job Board",
+      "Years Experience": 7.9
+    },
+    "id": "recLgLkua5p2iEjnU"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:16.000Z",
+    "fields": {
+      "Applications": [
+        "rec2Pe5ybeqwR9GMi"
+      ],
+      "Candidate ID": "CAND-00066",
+      "City": "Pune",
+      "Created On": "2025-06-14",
+      "Current CTC": 1950000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "lakshmi.jain65@example.com",
+      "Expected CTC": 2050000,
+      "Full Name": "Lakshmi Jain",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9688242859",
+      "Source": "Career Site",
+      "Years Experience": 6
+    },
+    "id": "recLhZ9e1CQmGUwo9"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:12.000Z",
+    "fields": {
+      "Applications": [
+        "recsR2Y6HZo9GiSb7",
+        "rec7RSA6x0xeuO3o2"
+      ],
+      "Candidate ID": "CAND-00007",
+      "City": "Remote",
+      "Created On": "2026-06-26",
+      "Current CTC": 2200000,
+      "Current Company": "Basalt Energy",
+      "Email": "sagar.agarwal6@example.com",
+      "Expected CTC": 3100000,
+      "Full Name": "Sagar Agarwal",
+      "Notice Period Days": 60,
+      "Phone": "+91 9971006712",
+      "Source": "Job Board",
+      "Years Experience": 8.4
+    },
+    "id": "recLjmGxXiilpV6n8"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "reclvmFsKkhQ8xGyW"
+      ],
+      "Candidate ID": "CAND-00103",
+      "City": "Chennai",
+      "Created On": "2025-05-08",
+      "Current CTC": 1070000,
+      "Current Company": "Larkspur Software",
+      "Email": "sanjay.singh102@example.com",
+      "Expected CTC": 1400000,
+      "Full Name": "Sanjay Singh",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9128399625",
+      "Source": "Career Site",
+      "Years Experience": 6.6
+    },
+    "id": "recLkpYNu60AzLEmk"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "rec0Niixi0wuN3K1M"
+      ],
+      "Candidate ID": "CAND-00287",
+      "City": "Chennai",
+      "Created On": "2026-07-29",
+      "Current CTC": 2360000,
+      "Current Company": "Northwind Telecom",
+      "Email": "omar.tanaka286@example.com",
+      "Expected CTC": 3070000,
+      "Full Name": "Omar Tanaka",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9140242903",
+      "Source": "Job Board",
+      "Years Experience": 8.2
+    },
+    "id": "recME9wyuFKIpcTSU"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:19.000Z",
+    "fields": {
+      "Applications": [
+        "recw9UmkHJe1DeHAY"
+      ],
+      "Candidate ID": "CAND-00125",
+      "City": "Hyderabad",
+      "Created On": "2025-11-20",
+      "Current CTC": 1060000,
+      "Current Company": "Redthread",
+      "Email": "nadia.garcia124@example.com",
+      "Expected CTC": 1390000,
+      "Full Name": "Nadia Garcia",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9163345426",
+      "Source": "Job Board",
+      "Years Experience": 3.4
+    },
+    "id": "recMKqNeqZ8TSywGX"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:23.000Z",
+    "fields": {
+      "Applications": [
+        "recCi3OfSgp7XgpUP"
+      ],
+      "Candidate ID": "CAND-00183",
+      "City": "Chennai",
+      "Created On": "2025-09-10",
+      "Current CTC": 300000,
+      "Current Company": "Bluestone Labs",
+      "Email": "pooja.iyer182@example.com",
+      "Expected CTC": 390000,
+      "Full Name": "Pooja Iyer",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9196499383",
+      "Source": "Job Board",
+      "Years Experience": 0
+    },
+    "id": "recMagSODTEZLQJte"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "recEVH7oDto8NcjXa"
+      ],
+      "Candidate ID": "CAND-00166",
+      "City": "Pune",
+      "Created On": "2025-09-16",
+      "Current CTC": 2380000,
+      "Current Company": "Larkspur Software",
+      "Email": "arun.bansal165@example.com",
+      "Expected CTC": 3280000,
+      "Full Name": "Arun Bansal",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9152534940",
+      "Source": "Job Board",
+      "Years Experience": 10.5
+    },
+    "id": "recMhNK7BT2gNPDJw"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Applications": [
+        "recR1niNYMyJyqA66"
+      ],
+      "Candidate ID": "CAND-00300",
+      "City": "Chennai",
+      "Created On": "2025-03-15",
+      "Current CTC": 950000,
+      "Current Company": "Northwind Telecom",
+      "Email": "swati.nair299@example.com",
+      "Expected CTC": 1070000,
+      "Full Name": "Swati Nair",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9450986735",
+      "Source": "Job Board",
+      "Years Experience": 3.2
+    },
+    "id": "recMuNTnatijrhaTz"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "recxsYtqn7jeurtz2"
+      ],
+      "Candidate ID": "CAND-00257",
+      "City": "Remote",
+      "Created On": "2025-12-07",
+      "Current CTC": 1510000,
+      "Current Company": "Marigold Foods",
+      "Email": "divya.singh256@example.com",
+      "Expected CTC": 1920000,
+      "Full Name": "Divya Singh",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9767501388",
+      "Source": "LinkedIn",
+      "Years Experience": 11
+    },
+    "id": "recN5xLuy31S2cIod"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "reckCcrFYbLgERpDO"
+      ],
+      "Candidate ID": "CAND-00277",
+      "City": "Mumbai",
+      "Created On": "2025-07-02",
+      "Current CTC": 1270000,
+      "Current Company": "Kettle & Co",
+      "Email": "sagar.chauhan276@example.com",
+      "Expected CTC": 1560000,
+      "Full Name": "Sagar Chauhan",
+      "Notice Period Days": 90,
+      "Phone": "+91 9727993734",
+      "Source": "Job Board",
+      "Years Experience": 6.1
+    },
+    "id": "recNXTPBeW9ai2snZ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:16.000Z",
+    "fields": {
+      "Applications": [
+        "rec4ll7eaOYuZhPak"
+      ],
+      "Candidate ID": "CAND-00074",
+      "City": "Remote",
+      "Created On": "2026-01-01",
+      "Current CTC": 1080000,
+      "Current Company": "Tidewater Logistics",
+      "Email": "anjali.kumar73@example.com",
+      "Expected CTC": 1320000,
+      "Full Name": "Anjali Kumar",
+      "Notice Period Days": 15,
+      "Phone": "+91 9108756543",
+      "Source": "Career Site",
+      "Years Experience": 4.4
+    },
+    "id": "recNga2QqJYToEVkh"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "recq2BWf9QUTLKL72",
+        "recfTaOlRbflMgEDZ"
+      ],
+      "Candidate ID": "CAND-00030",
+      "City": "Noida",
+      "Created On": "2026-08-21",
+      "Current CTC": 930000,
+      "Current Company": "Harbourline",
+      "Email": "sunil.kaur29@example.com",
+      "Expected CTC": 1120000,
+      "Full Name": "Sunil Kaur",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9812548148",
+      "Source": "Job Board",
+      "Years Experience": 2.2
+    },
+    "id": "recNvqjP4AafZ4qeN"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:23.000Z",
+    "fields": {
+      "Applications": [
+        "recFWL62cHiMjCN1w"
+      ],
+      "Candidate ID": "CAND-00179",
+      "City": "Bengaluru",
+      "Created On": "2026-02-07",
+      "Current CTC": 2060000,
+      "Current Company": "Parable Systems",
+      "Email": "deepak.joshi178@example.com",
+      "Expected CTC": 2350000,
+      "Full Name": "Deepak Joshi",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9585051345",
+      "Source": "Job Board",
+      "Years Experience": 6.4
+    },
+    "id": "recO7Cwk0okwcrvnC"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:25.000Z",
+    "fields": {
+      "Applications": [
+        "recdU1YZ0aiKIlL0K"
+      ],
+      "Candidate ID": "CAND-00208",
+      "City": "Remote",
+      "Created On": "2025-07-19",
+      "Current CTC": 1640000,
+      "Current Company": "Tidewater Logistics",
+      "Email": "sofia.silva207@example.com",
+      "Expected CTC": 1870000,
+      "Full Name": "Sofia Silva",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9219010330",
+      "Source": "Job Board",
+      "Years Experience": 5.3
+    },
+    "id": "recO7pPRq3YBvA1ad"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "reck6Q8cKZCFcG1dx"
+      ],
+      "Candidate ID": "CAND-00051",
+      "City": "Pune",
+      "Created On": "2025-08-23",
+      "Current CTC": 1210000,
+      "Current Company": "Basalt Energy",
+      "Email": "pooja.jain50@example.com",
+      "Expected CTC": 1790000,
+      "Full Name": "Pooja Jain",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9698274219",
+      "Source": "Career Site",
+      "Years Experience": 4
+    },
+    "id": "recOm8aEdGPpTCnFJ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "recJ9qRWl1tCTNUjR"
+      ],
+      "Candidate ID": "CAND-00244",
+      "City": "Remote",
+      "Created On": "2026-04-09",
+      "Current CTC": 300000,
+      "Current Company": "Bluestone Labs",
+      "Email": "neha.patel243@example.com",
+      "Expected CTC": 360000,
+      "Full Name": "Neha Patel",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9805620754",
+      "Source": "LinkedIn",
+      "Years Experience": 0
+    },
+    "id": "recOsspjU4Dn0xoKA"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "rec7YBqlMxYExhaB2"
+      ],
+      "Candidate ID": "CAND-00243",
+      "City": "Chennai",
+      "Created On": "2026-07-20",
+      "Current CTC": 2680000,
+      "Current Company": "Northwind Telecom",
+      "Email": "aarav.sinha242@example.com",
+      "Expected CTC": 3640000,
+      "Full Name": "Aarav Sinha",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9254480229",
+      "Source": "Job Board",
+      "Years Experience": 12.3
+    },
+    "id": "recOz2Uy1scxkY0Ir"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "recRmWbRbxcPOUxrC"
+      ],
+      "Candidate ID": "CAND-00170",
+      "City": "Remote",
+      "Created On": "2026-08-30",
+      "Current CTC": 1960000,
+      "Current Company": "Meridian Health",
+      "Email": "arjun.reddy169@example.com",
+      "Expected CTC": 2350000,
+      "Full Name": "Arjun Reddy",
+      "Notice Period Days": 30,
+      "Phone": "+91 9301094803",
+      "Source": "Job Board",
+      "Years Experience": 8.9
+    },
+    "id": "recP0qvR3N6gMwKYI"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "recpHm6CNOw9qgIfd"
+      ],
+      "Candidate ID": "CAND-00296",
+      "City": "Pune",
+      "Created On": "2025-05-20",
+      "Current CTC": 1430000,
+      "Current Company": "Redthread",
+      "Email": "vikram.verma295@example.com",
+      "Expected CTC": 1560000,
+      "Full Name": "Vikram Verma",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9444237901",
+      "Source": "Job Board",
+      "Years Experience": 4.7
+    },
+    "id": "recPBdVM9GCZx0Fh0"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:25.000Z",
+    "fields": {
+      "Applications": [
+        "recbNY3B2mWPRFPdB"
+      ],
+      "Candidate ID": "CAND-00210",
+      "City": "Pune",
+      "Created On": "2025-10-10",
+      "Current CTC": 1890000,
+      "Current Company": "Copperfield Bank",
+      "Email": "gaurav.pandey209@example.com",
+      "Expected CTC": 2460000,
+      "Full Name": "Gaurav Pandey",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9349694903",
+      "Source": "Career Site",
+      "Years Experience": 9.4
+    },
+    "id": "recPEQLypTKqQ9X9n"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "recx0Lu59vy664xAT"
+      ],
+      "Candidate ID": "CAND-00265",
+      "City": "Remote",
+      "Created On": "2025-11-30",
+      "Current CTC": 970000,
+      "Current Company": "Meridian Health",
+      "Email": "wei.weber264@example.com",
+      "Expected CTC": 1460000,
+      "Full Name": "Wei Weber",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9518435481",
+      "Source": "LinkedIn",
+      "Years Experience": 2.2
+    },
+    "id": "recPJJKpsfH3P2pGX"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:12.000Z",
+    "fields": {
+      "Applications": [
+        "recGSUwByKNRw5ugN",
+        "reco35zsSjc2VUwWd"
+      ],
+      "Candidate ID": "CAND-00006",
+      "City": "Remote",
+      "Created On": "2025-03-11",
+      "Current CTC": 2420000,
+      "Current Company": "Arcadia Retail",
+      "Email": "a.jain@example.com",
+      "Expected CTC": 2660000,
+      "Full Name": "Anjali Jain",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9700250691",
+      "Source": "Job Board",
+      "Years Experience": 7.4
+    },
+    "id": "recPesXb2MJfzC0vQ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "recwP2FumcSYmnZP8"
+      ],
+      "Candidate ID": "CAND-00223",
+      "City": "Pune",
+      "Created On": "2025-09-17",
+      "Current CTC": 1630000,
+      "Current Company": "Basalt Energy",
+      "Email": "harsh.tiwari222@example.com",
+      "Expected CTC": 2350000,
+      "Full Name": "Harsh Tiwari",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9403150471",
+      "Source": "LinkedIn",
+      "Years Experience": 8.2
+    },
+    "id": "recPitDIC9NYV2oaP"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:13.000Z",
+    "fields": {
+      "Applications": [
+        "recnLNeX29cpXbGAQ",
+        "recEuaFfA6nJGwXel"
+      ],
+      "Candidate ID": "CAND-00020",
+      "City": "Mumbai",
+      "Created On": "2025-07-20",
+      "Current CTC": 1430000,
+      "Current Company": "Bluestone Labs",
+      "Email": "aarav.reddy19@example.com",
+      "Expected CTC": 1960000,
+      "Full Name": "Aarav Reddy",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9719738902",
+      "Source": "Job Board",
+      "Years Experience": 5.2
+    },
+    "id": "recQjaHutWos14npj"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "recuAEYSg32syGYNn"
+      ],
+      "Candidate ID": "CAND-00298",
+      "City": "Hyderabad",
+      "Created On": "2026-08-02",
+      "Current CTC": 1570000,
+      "Current Company": "Quillion",
+      "Email": "adaeze.almeida297@example.com",
+      "Expected CTC": 1980000,
+      "Full Name": "Adaeze Almeida",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9128502764",
+      "Source": "LinkedIn",
+      "Years Experience": 5.2
+    },
+    "id": "recR18yjOkFM8Ub8A"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "rec6W1jdOjlvcdpG5"
+      ],
+      "Candidate ID": "CAND-00136",
+      "City": "Bengaluru",
+      "Created On": "2026-07-11",
+      "Current CTC": 970000,
+      "Current Company": "Larkspur Software",
+      "Email": "sneha.pillai135@example.com",
+      "Expected CTC": 1550000,
+      "Full Name": "Sneha Pillai",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9375569641",
+      "Source": "Job Board",
+      "Years Experience": 3
+    },
+    "id": "recRW51QFFNlPtskK"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "rec7TW2biYaaoP5nW"
+      ],
+      "Candidate ID": "CAND-00057",
+      "City": "Pune",
+      "Created On": "2025-05-19",
+      "Current CTC": 300000,
+      "Current Company": "Quillion",
+      "Email": "rajesh.patel56@example.com",
+      "Expected CTC": 390000,
+      "Full Name": "Rajesh Patel",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9346159543",
+      "Source": "Career Site",
+      "Years Experience": 0
+    },
+    "id": "recRds38G21c5cqmC"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "recAJ4UHBf4E69J8q"
+      ],
+      "Candidate ID": "CAND-00065",
+      "City": "Chennai",
+      "Created On": "2025-05-27",
+      "Current CTC": 610000,
+      "Current Company": "Vantage Mobility",
+      "Email": "anjali.saxena64@example.com",
+      "Expected CTC": 730000,
+      "Full Name": "Anjali Saxena",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9476498565",
+      "Source": "Career Site",
+      "Years Experience": 1.3
+    },
+    "id": "recSCYqvaz5HoCVAq"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "recr1FjDoXlTNKcpl"
+      ],
+      "Candidate ID": "CAND-00192",
+      "City": "Pune",
+      "Created On": "2026-06-12",
+      "Current CTC": 610000,
+      "Current Company": "Meridian Health",
+      "Email": "daniel.nguyen191@example.com",
+      "Expected CTC": 640000,
+      "Full Name": "Daniel Nguyen",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9589826886",
+      "Source": "Job Board",
+      "Years Experience": 1.5
+    },
+    "id": "recSGb4GDdVqeUtdu"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "reclcw4IRlbRnh0j2"
+      ],
+      "Candidate ID": "CAND-00279",
+      "City": "Chennai",
+      "Created On": "2026-03-28",
+      "Current CTC": 2120000,
+      "Current Company": "Northwind Telecom",
+      "Email": "rakesh.pillai278@example.com",
+      "Expected CTC": 2760000,
+      "Full Name": "Rakesh Pillai",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9715762485",
+      "Source": "Job Board",
+      "Years Experience": 7.8
+    },
+    "id": "recSGwZ0YGfSdpOjx"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:20.000Z",
+    "fields": {
+      "Applications": [
+        "recL8moeE29ECbYtl"
+      ],
+      "Candidate ID": "CAND-00133",
+      "City": "Hyderabad",
+      "Created On": "2026-06-22",
+      "Current CTC": 1570000,
+      "Current Company": "Arcadia Retail",
+      "Email": "arjun.saxena132@example.com",
+      "Expected CTC": 2010000,
+      "Full Name": "Arjun Saxena",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9863269946",
+      "Source": "Job Board",
+      "Years Experience": 9.5
+    },
+    "id": "recSQDwl6FwnU1krS"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "recAPXttrVNTlnYZm"
+      ],
+      "Candidate ID": "CAND-00285",
+      "City": "Mumbai",
+      "Created On": "2025-10-01",
+      "Current CTC": 2520000,
+      "Current Company": "Meridian Health",
+      "Email": "priya.bhat284@example.com",
+      "Expected CTC": 3250000,
+      "Full Name": "Priya Bhat",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9176087418",
+      "Source": "Job Board",
+      "Years Experience": 7.9
+    },
+    "id": "recSTLfKla13lc5dt"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "recwPtZ7oX9IMA4xq"
+      ],
+      "Candidate ID": "CAND-00091",
+      "City": "Chennai",
+      "Created On": "2026-01-09",
+      "Current CTC": 1070000,
+      "Current Company": "Foxglove Media",
+      "Email": "anjali.dubey90@example.com",
+      "Expected CTC": 1380000,
+      "Full Name": "Anjali Dubey",
+      "Notice Period Days": 30,
+      "Phone": "+91 9268986298",
+      "Source": "Agency",
+      "Years Experience": 3
+    },
+    "id": "recSyTs8GZqk3F4VG"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:16.000Z",
+    "fields": {
+      "Applications": [
+        "recyfzPZDXEhRDbzu"
+      ],
+      "Candidate ID": "CAND-00072",
+      "City": "Noida",
+      "Created On": "2025-09-14",
+      "Current CTC": 1080000,
+      "Current Company": "Parable Systems",
+      "Email": "mohit.dubey71@example.com",
+      "Expected CTC": 1660000,
+      "Full Name": "Mohit Dubey",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9442829209",
+      "Source": "Career Site",
+      "Years Experience": 5.6
+    },
+    "id": "recTBQ9WqlRXZZ1uB"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "rece8czyn8bH6nvZO"
+      ],
+      "Candidate ID": "CAND-00172",
+      "City": "Mumbai",
+      "Created On": "2026-05-02",
+      "Current CTC": 1710000,
+      "Current Company": "Zenlytics",
+      "Email": "rakesh.patel171@example.com",
+      "Expected CTC": 2220000,
+      "Full Name": "Rakesh Patel",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9820264775",
+      "Source": "Job Board",
+      "Years Experience": 5.1
+    },
+    "id": "recTEmrGQU75jVxBo"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "rec60lCyiFJIdOumn"
+      ],
+      "Candidate ID": "CAND-00290",
+      "City": "Noida",
+      "Created On": "2025-12-13",
+      "Current CTC": 820000,
+      "Current Company": "Copperfield Bank",
+      "Email": "sneha.saxena289@example.com",
+      "Expected CTC": 1240000,
+      "Full Name": "Sneha Saxena",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9858785324",
+      "Source": "LinkedIn",
+      "Years Experience": 1.7
+    },
+    "id": "recTJcOAIH7pOkFdh"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "recMgwlyGZU1qnkFh"
+      ],
+      "Candidate ID": "CAND-00062",
+      "City": "Pune",
+      "Created On": "2026-06-07",
+      "Current CTC": 2660000,
+      "Current Company": "Tidewater Logistics",
+      "Email": "meera.sinha61@example.com",
+      "Expected CTC": 3590000,
+      "Full Name": "Meera Sinha",
+      "Notice Period Days": 60,
+      "Phone": "+91 9556585487",
+      "Source": "Career Site",
+      "Years Experience": 11.3
+    },
+    "id": "recTSco1YA0ce37A3"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "rec1r2xysZJTTbjhM",
+        "recWmki3TDt0I68sB"
+      ],
+      "Candidate ID": "CAND-00032",
+      "City": "Noida",
+      "Created On": "2025-06-09",
+      "Current CTC": 1030000,
+      "Current Company": "Meridian Health",
+      "Email": "pranav.saxena31@example.com",
+      "Expected CTC": 1300000,
+      "Full Name": "Pranav Saxena",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9656963805",
+      "Source": "Job Board",
+      "Years Experience": 4.1
+    },
+    "id": "recTf2aBxzPWT6zXB"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "recehLHHRQFMedbRJ"
+      ],
+      "Candidate ID": "CAND-00218",
+      "City": "Hyderabad",
+      "Created On": "2025-10-10",
+      "Current CTC": 830000,
+      "Current Company": "Quillion",
+      "Email": "rajesh.dubey217@example.com",
+      "Expected CTC": 870000,
+      "Full Name": "Rajesh Dubey",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9532858024",
+      "Source": "Job Board",
+      "Years Experience": 2.7
+    },
+    "id": "recTfb93bpDVzDEI5"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "recY5fy2hGQT06YVz"
+      ],
+      "Candidate ID": "CAND-00053",
+      "City": "Bengaluru",
+      "Created On": "2026-03-31",
+      "Current CTC": 2940000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "vinay.kapoor52@example.com",
+      "Expected CTC": 4650000,
+      "Full Name": "Vinay Kapoor",
+      "Notice Period Days": 15,
+      "Phone": "+91 9380153719",
+      "Source": "Career Site",
+      "Years Experience": 10.9
+    },
+    "id": "recToarU1uUOzeyvv"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:23.000Z",
+    "fields": {
+      "Applications": [
+        "recpgUKDzHrCaSRdv"
+      ],
+      "Candidate ID": "CAND-00176",
+      "City": "Chennai",
+      "Created On": "2025-05-26",
+      "Current CTC": 730000,
+      "Current Company": "Basalt Energy",
+      "Email": "aditi.gupta175@example.com",
+      "Expected CTC": 890000,
+      "Full Name": "Aditi Gupta",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9458227460",
+      "Source": "Job Board",
+      "Years Experience": 2.2
+    },
+    "id": "recU38Erki4M21mfC"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "recRwuf2cADpE3C96"
+      ],
+      "Candidate ID": "CAND-00156",
+      "City": "Pune",
+      "Created On": "2025-10-23",
+      "Current CTC": 2770000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "marcus.rossi155@example.com",
+      "Expected CTC": 4160000,
+      "Full Name": "Marcus Rossi",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9527608367",
+      "Source": "Job Board",
+      "Years Experience": 10.5
+    },
+    "id": "recU4nMoPspKrplf7"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "recjfFVstbeasHk24"
+      ],
+      "Candidate ID": "CAND-00216",
+      "City": "Hyderabad",
+      "Created On": "2026-01-27",
+      "Current CTC": 890000,
+      "Current Company": "Marigold Foods",
+      "Email": "kiran.saxena215@example.com",
+      "Expected CTC": 1120000,
+      "Full Name": "Kiran Saxena",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9768672353",
+      "Source": "Job Board",
+      "Years Experience": 3.3
+    },
+    "id": "recUMQJ3oTbpO4suM"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "recafuUSU75bcGv78"
+      ],
+      "Candidate ID": "CAND-00155",
+      "City": "Remote",
+      "Created On": "2025-05-11",
+      "Current CTC": 900000,
+      "Current Company": "Tidewater Logistics",
+      "Email": "deepak.chauhan154@example.com",
+      "Expected CTC": 1230000,
+      "Full Name": "Deepak Chauhan",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9903284339",
+      "Source": "Job Board",
+      "Years Experience": 3.2
+    },
+    "id": "recUW6Au1j53Q8bo5"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "recEJYlOyPBSjZb3p"
+      ],
+      "Candidate ID": "CAND-00264",
+      "City": "Bengaluru",
+      "Created On": "2026-03-09",
+      "Current CTC": 1730000,
+      "Current Company": "Northwind Telecom",
+      "Email": "meera.menon263@example.com",
+      "Expected CTC": 2320000,
+      "Full Name": "Meera Menon",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9253438601",
+      "Source": "Job Board",
+      "Years Experience": 6.7
+    },
+    "id": "recUYZFwLvkOQcZub"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "recFik2u72cHAviXt"
+      ],
+      "Candidate ID": "CAND-00144",
+      "City": "Remote",
+      "Created On": "2025-06-06",
+      "Current CTC": 320000,
+      "Current Company": "Harbourline",
+      "Email": "vinay.dubey143@example.com",
+      "Expected CTC": 380000,
+      "Full Name": "Vinay Dubey",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9204959277",
+      "Source": "Job Board",
+      "Years Experience": 0.1
+    },
+    "id": "recUgIRmCTh5MvQQx"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "recMHJDflYx9jlHv8",
+        "recWSyX6zpp2z2jeU"
+      ],
+      "Candidate ID": "CAND-00046",
+      "City": "Noida",
+      "Created On": "2025-07-02",
+      "Current CTC": 1000000,
+      "Current Company": "Larkspur Software",
+      "Email": "ravi.patel45@example.com",
+      "Expected CTC": 1260000,
+      "Full Name": "Ravi Patel",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9877698187",
+      "Source": "Job Board",
+      "Years Experience": 2.4
+    },
+    "id": "recUpRtC3AE49van8"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "recTHBLAPFfk9476y"
+      ],
+      "Candidate ID": "CAND-00084",
+      "City": "Mumbai",
+      "Created On": "2026-08-12",
+      "Current CTC": 1230000,
+      "Current Company": "Quillion",
+      "Email": "mohit.bansal83@example.com",
+      "Expected CTC": 1530000,
+      "Full Name": "Mohit Bansal",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9391002213",
+      "Source": "Agency",
+      "Years Experience": 6.1
+    },
+    "id": "recUxiOWDe1JS6ZOe"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "reccPhC7vgbocR943",
+        "recZhULRett5ltIvH"
+      ],
+      "Candidate ID": "CAND-00047",
+      "City": "Bengaluru",
+      "Created On": "2026-04-06",
+      "Current CTC": 1350000,
+      "Current Company": "Harbourline",
+      "Email": "tanvi.mishra46@example.com",
+      "Expected CTC": 1660000,
+      "Full Name": "Tanvi Mishra",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9669357407",
+      "Source": "Job Board",
+      "Years Experience": 5.8
+    },
+    "id": "recVJAKq9esFSYRnG"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:20.000Z",
+    "fields": {
+      "Applications": [
+        "recr6RgGJM6mh14gM"
+      ],
+      "Candidate ID": "CAND-00134",
+      "City": "Mumbai",
+      "Created On": "2026-08-28",
+      "Current CTC": 660000,
+      "Current Company": "Bluestone Labs",
+      "Email": "akash.sharma133@example.com",
+      "Expected CTC": 690000,
+      "Full Name": "Akash Sharma",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9432572558",
+      "Source": "Career Site",
+      "Years Experience": 1.5
+    },
+    "id": "recVTaw5IGcdhvygu"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "recCPGIfZwJpFdhnM",
+        "recWkQURRyBHR5rjj"
+      ],
+      "Candidate ID": "CAND-00043",
+      "City": "Noida",
+      "Created On": "2026-02-09",
+      "Current CTC": 300000,
+      "Current Company": "Marigold Foods",
+      "Email": "varun.mishra42@example.com",
+      "Expected CTC": 410000,
+      "Full Name": "Varun Mishra",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9284247852",
+      "Source": "Job Board",
+      "Years Experience": 0
+    },
+    "id": "recViHlqNtpFnokLM"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "recrNeLrrH4vGNQAe"
+      ],
+      "Candidate ID": "CAND-00239",
+      "City": "Chennai",
+      "Created On": "2026-04-04",
+      "Current CTC": 390000,
+      "Current Company": "Kettle & Co",
+      "Email": "ishita.kaur238@example.com",
+      "Expected CTC": 440000,
+      "Full Name": "Ishita Kaur",
+      "Notice Period Days": 0,
+      "Phone": "+91 9484780534",
+      "Source": "Job Board",
+      "Years Experience": 0.4
+    },
+    "id": "recW5nAJXOu7dQtfi"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:13.000Z",
+    "fields": {
+      "Applications": [
+        "recvrpsc9DxJc1Aem",
+        "rec0jKr0UStsg9iLQ"
+      ],
+      "Candidate ID": "CAND-00013",
+      "City": "Chennai",
+      "Created On": "2026-05-27",
+      "Current CTC": 1120000,
+      "Current Company": "Zenlytics",
+      "Email": "tomas.ibrahim12@example.com",
+      "Expected CTC": 1670000,
+      "Full Name": "Tomas Ibrahim",
+      "Notice Period Days": 60,
+      "Phone": "+91 9655267758",
+      "Source": "Job Board",
+      "Years Experience": 4.4
+    },
+    "id": "recWEvwyjqwO73vq6"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "recApf5fwVoDJ3yJb"
+      ],
+      "Candidate ID": "CAND-00092",
+      "City": "Hyderabad",
+      "Created On": "2026-07-05",
+      "Current CTC": 1260000,
+      "Current Company": "Zenlytics",
+      "Email": "shreya.kapoor91@example.com",
+      "Expected CTC": 1320000,
+      "Full Name": "Shreya Kapoor",
+      "Notice Period Days": 90,
+      "Phone": "+91 9423704410",
+      "Source": "Agency",
+      "Years Experience": 4
+    },
+    "id": "recWfb5tzK3WGJ5QR"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "recsdeVhzRIUksTkR"
+      ],
+      "Candidate ID": "CAND-00152",
+      "City": "Noida",
+      "Created On": "2026-02-19",
+      "Current CTC": 930000,
+      "Current Company": "Quillion",
+      "Email": "aarav.shah151@example.com",
+      "Expected CTC": 1400000,
+      "Full Name": "Aarav Shah",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9562207495",
+      "Source": "Job Board",
+      "Years Experience": 3.6
+    },
+    "id": "recXBtCKTpFAeuYZS"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "recHDyuTBwroN2WBm"
+      ],
+      "Candidate ID": "CAND-00105",
+      "City": "Mumbai",
+      "Created On": "2025-09-06",
+      "Current CTC": 1410000,
+      "Current Company": "Northwind Telecom",
+      "Email": "nadia.chen104@example.com",
+      "Expected CTC": 1970000,
+      "Full Name": "Nadia Chen",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9132254537",
+      "Source": "Agency",
+      "Years Experience": 6.4
+    },
+    "id": "recXDguoCrQwBMvgW"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "recJfZ72KW3jKtN1F"
+      ],
+      "Candidate ID": "CAND-00227",
+      "City": "Chennai",
+      "Created On": "2025-07-06",
+      "Current CTC": 1120000,
+      "Current Company": "Bluestone Labs",
+      "Email": "james.garcia226@example.com",
+      "Expected CTC": 1510000,
+      "Full Name": "James Garcia",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9927963286",
+      "Source": "Campus",
+      "Years Experience": 3
+    },
+    "id": "recXHGObVomLpteuM"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "recCO5yevFXWAyTBW"
+      ],
+      "Candidate ID": "CAND-00191",
+      "City": "Bengaluru",
+      "Created On": "2026-02-26",
+      "Current CTC": 300000,
+      "Current Company": "Zenlytics",
+      "Email": "neha.bhat190@example.com",
+      "Expected CTC": 430000,
+      "Full Name": "Neha Bhat",
+      "Notice Period Days": 15,
+      "Phone": "+91 9347495973",
+      "Source": "Job Board",
+      "Years Experience": 0
+    },
+    "id": "recXIYqIXMiDyNdBF"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "recdrBzbvcakTvKmH",
+        "recMBzp7YysYXWeKE"
+      ],
+      "Candidate ID": "CAND-00036",
+      "City": "Mumbai",
+      "Created On": "2025-10-01",
+      "Current CTC": 2160000,
+      "Current Company": "Marigold Foods",
+      "Email": "farhan.pandey35@example.com",
+      "Expected CTC": 3070000,
+      "Full Name": "Farhan Pandey",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9306044878",
+      "Source": "Job Board",
+      "Years Experience": 5.5
+    },
+    "id": "recXeM9SooZOkEOac"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:16.000Z",
+    "fields": {
+      "Applications": [
+        "rec0rE99hlKy4ijv9"
+      ],
+      "Candidate ID": "CAND-00070",
+      "City": "Noida",
+      "Created On": "2025-07-20",
+      "Current CTC": 2690000,
+      "Current Company": "Bluestone Labs",
+      "Email": "meera.yadav69@example.com",
+      "Expected CTC": 3310000,
+      "Full Name": "Meera Yadav",
+      "Notice Period Days": 60,
+      "Phone": "+91 9214924821",
+      "Source": "Career Site",
+      "Years Experience": 6.1
+    },
+    "id": "recXfA6s09PybHU5N"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "rec2JLvjQ4AD5wtZb"
+      ],
+      "Candidate ID": "CAND-00097",
+      "City": "Chennai",
+      "Created On": "2026-03-18",
+      "Current CTC": 1880000,
+      "Current Company": "Basalt Energy",
+      "Email": "rajesh.sharma96@example.com",
+      "Expected CTC": 2780000,
+      "Full Name": "Rajesh Sharma",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9593862063",
+      "Source": "Agency",
+      "Years Experience": 5.9
+    },
+    "id": "recXsWYtVNtweYWqg"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "recLnQGV8yGxclzmQ"
+      ],
+      "Candidate ID": "CAND-00061",
+      "City": "Bengaluru",
+      "Created On": "2025-04-22",
+      "Current CTC": 630000,
+      "Current Company": "Parable Systems",
+      "Email": "nikhil.chauhan60@example.com",
+      "Expected CTC": 830000,
+      "Full Name": "Nikhil Chauhan",
+      "Notice Period Days": 60,
+      "Phone": "+91 9831678540",
+      "Source": "Career Site",
+      "Years Experience": 2
+    },
+    "id": "recXyASGjLq4Ik0DU"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Applications": [
+        "recsf6EmTqvMtB5m9",
+        "recdRVWLR1wpfKcGW"
+      ],
+      "Candidate ID": "CAND-00004",
+      "City": "Pune",
+      "Created On": "2026-04-14",
+      "Current CTC": 2470000,
+      "Current Company": "Meridian Health",
+      "Email": "a.menon@example.com",
+      "Expected CTC": 1532972,
+      "Full Name": "Aarav Menon",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9179627814",
+      "Source": "Referral",
+      "Years Experience": 7.6
+    },
+    "id": "recY2oL9jE7i5hCgV"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:13.000Z",
+    "fields": {
+      "Applications": [
+        "rec5dBaXOqisOsG0J",
+        "rec1ssUJMqmmaxhpZ"
+      ],
+      "Candidate ID": "CAND-00022",
+      "City": "Noida",
+      "Created On": "2025-11-25",
+      "Current CTC": 1590000,
+      "Current Company": "Basalt Energy",
+      "Email": "ishita.singh21@example.com",
+      "Expected CTC": 2110000,
+      "Full Name": "Ishita Singh",
+      "Notice Period Days": 90,
+      "Phone": "+91 9500661616",
+      "Source": "Job Board",
+      "Years Experience": 6
+    },
+    "id": "recY7EDMfEJM8NrJq"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:12.000Z",
+    "fields": {
+      "Applications": [
+        "recGmP6tLajPeKMGj",
+        "rec0BoZNmntCLQMr2"
+      ],
+      "Candidate ID": "CAND-00008",
+      "City": "Remote",
+      "Created On": "2025-04-13",
+      "Current CTC": 500000,
+      "Current Company": "Basalt Energy",
+      "Email": "s.agarwal@example.com",
+      "Expected CTC": 640000,
+      "Full Name": "Sagar Agarwal",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9971006712",
+      "Source": "Job Board",
+      "Years Experience": 0.9
+    },
+    "id": "recYBZ7f5H1rG3LzK"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "recupenJ77lfvWBqr"
+      ],
+      "Candidate ID": "CAND-00224",
+      "City": "Mumbai",
+      "Created On": "2026-01-05",
+      "Current CTC": 820000,
+      "Current Company": "Foxglove Media",
+      "Email": "rajesh.bansal223@example.com",
+      "Expected CTC": 890000,
+      "Full Name": "Rajesh Bansal",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9333657696",
+      "Source": "Job Board",
+      "Years Experience": 2.2
+    },
+    "id": "recYW1jmmvmcqSyJp"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "recstdMclxUXIqGEF"
+      ],
+      "Candidate ID": "CAND-00266",
+      "City": "Bengaluru",
+      "Created On": "2025-03-11",
+      "Current CTC": 570000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "sanjay.agarwal265@example.com",
+      "Expected CTC": 710000,
+      "Full Name": "Sanjay Agarwal",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9611646335",
+      "Source": "Job Board",
+      "Years Experience": 1.3
+    },
+    "id": "recYf0svx5DddsZE1"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "recWxgJFdyMJoe101"
+      ],
+      "Candidate ID": "CAND-00220",
+      "City": "Noida",
+      "Created On": "2026-01-17",
+      "Current CTC": 1280000,
+      "Current Company": "Foxglove Media",
+      "Email": "kiran.chauhan219@example.com",
+      "Expected CTC": 1660000,
+      "Full Name": "Kiran Chauhan",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9993357838",
+      "Source": "Job Board",
+      "Years Experience": 5.2
+    },
+    "id": "recYnqNBEdf0MCRdN"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "recVOaqH7l4n3vlCj"
+      ],
+      "Candidate ID": "CAND-00255",
+      "City": "Mumbai",
+      "Created On": "2025-10-13",
+      "Current CTC": 510000,
+      "Current Company": "Kettle & Co",
+      "Email": "sneha.pandey254@example.com",
+      "Expected CTC": 700000,
+      "Full Name": "Sneha Pandey",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9742676572",
+      "Source": "Job Board",
+      "Years Experience": 1.1
+    },
+    "id": "recZ8tbv9ppph2Vv5"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "reciuG6OiDYMSnuRd"
+      ],
+      "Candidate ID": "CAND-00200",
+      "City": "Chennai",
+      "Created On": "2025-10-15",
+      "Current CTC": 510000,
+      "Current Company": "Meridian Health",
+      "Email": "jatin.bhat199@example.com",
+      "Expected CTC": 640000,
+      "Full Name": "Jatin Bhat",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9954796116",
+      "Source": "Job Board",
+      "Years Experience": 0.8
+    },
+    "id": "recZF1Rljz6e3U3Ik"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "recrrfZqvvgi2GjpB",
+        "recJApodnyMN0npnS"
+      ],
+      "Candidate ID": "CAND-00044",
+      "City": "Mumbai",
+      "Created On": "2026-01-11",
+      "Current CTC": 1560000,
+      "Current Company": "Meridian Health",
+      "Email": "kavya.kaur43@example.com",
+      "Expected CTC": 2030000,
+      "Full Name": "Kavya Kaur",
+      "Notice Period Days": 30,
+      "Phone": "+91 9278408145",
+      "Source": "Job Board",
+      "Years Experience": 6.1
+    },
+    "id": "recZKXCKVGO1SN75y"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "rec9fiFjA17ZXZmlT"
+      ],
+      "Candidate ID": "CAND-00139",
+      "City": "Bengaluru",
+      "Created On": "2025-07-13",
+      "Current CTC": 1510000,
+      "Current Company": "Meridian Health",
+      "Email": "ishita.sinha138@example.com",
+      "Expected CTC": 1980000,
+      "Full Name": "Ishita Sinha",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9762440946",
+      "Source": "Job Board",
+      "Years Experience": 5.5
+    },
+    "id": "recZQS8UHuJgYLrsF"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "rec7I3mPH5xXVdXgH"
+      ],
+      "Candidate ID": "CAND-00081",
+      "City": "Remote",
+      "Created On": "2025-04-23",
+      "Current CTC": 1350000,
+      "Current Company": "Bluestone Labs",
+      "Email": "ankit.saxena80@example.com",
+      "Expected CTC": 1570000,
+      "Full Name": "Ankit Saxena",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9213847231",
+      "Source": "Agency",
+      "Years Experience": 5.5
+    },
+    "id": "recZeR11jymYXvbQb"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "recwAXxaCZ1UKt60k"
+      ],
+      "Candidate ID": "CAND-00272",
+      "City": "Hyderabad",
+      "Created On": "2026-05-27",
+      "Current CTC": 2830000,
+      "Current Company": "Arcadia Retail",
+      "Email": "harsh.patel271@example.com",
+      "Expected CTC": 3680000,
+      "Full Name": "Harsh Patel",
+      "Notice Period Days": 60,
+      "Phone": "+91 9706820031",
+      "Source": "Job Board",
+      "Years Experience": 9.5
+    },
+    "id": "reca2NmQ13YhRfZn9"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:25.000Z",
+    "fields": {
+      "Applications": [
+        "rec6M0WIvxnaajd9e"
+      ],
+      "Candidate ID": "CAND-00215",
+      "City": "Remote",
+      "Created On": "2026-05-30",
+      "Current CTC": 2460000,
+      "Current Company": "Parable Systems",
+      "Email": "bhavna.nair214@example.com",
+      "Expected CTC": 3420000,
+      "Full Name": "Bhavna Nair",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9942086071",
+      "Source": "Job Board",
+      "Years Experience": 8.4
+    },
+    "id": "reca31rlA75FqTTqK"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:25.000Z",
+    "fields": {
+      "Applications": [
+        "recuxyKz0iwJXR7pB"
+      ],
+      "Candidate ID": "CAND-00214",
+      "City": "Noida",
+      "Created On": "2025-05-28",
+      "Current CTC": 980000,
+      "Current Company": "Redthread",
+      "Email": "rohit.jain213@example.com",
+      "Expected CTC": 1340000,
+      "Full Name": "Rohit Jain",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9929564572",
+      "Source": "Job Board",
+      "Years Experience": 2.8
+    },
+    "id": "reca6mVOj1B07Dbmq"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "rect8WSJg6q077Ujw"
+      ],
+      "Candidate ID": "CAND-00158",
+      "City": "Hyderabad",
+      "Created On": "2026-08-01",
+      "Current CTC": 1360000,
+      "Current Company": "Zenlytics",
+      "Email": "pranav.bhat157@example.com",
+      "Expected CTC": 1710000,
+      "Full Name": "Pranav Bhat",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9834344051",
+      "Source": "Job Board",
+      "Years Experience": 7.4
+    },
+    "id": "recafWdebWSNlORMB"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:20.000Z",
+    "fields": {
+      "Applications": [
+        "recVYakzO3k2eH1q8"
+      ],
+      "Candidate ID": "CAND-00132",
+      "City": "Pune",
+      "Created On": "2026-02-13",
+      "Current CTC": 520000,
+      "Current Company": "Basalt Energy",
+      "Email": "vikram.sinha131@example.com",
+      "Expected CTC": 750000,
+      "Full Name": "Vikram Sinha",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9836474385",
+      "Source": "Job Board",
+      "Years Experience": 0.9
+    },
+    "id": "recapW8scP5EncYWq"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "recXJEKMnH7RABgyV",
+        "recEGvJIm1pJTL2sQ"
+      ],
+      "Candidate ID": "CAND-00026",
+      "City": "Pune",
+      "Created On": "2026-01-22",
+      "Current CTC": 300000,
+      "Current Company": "Basalt Energy",
+      "Email": "nikhil.nair25@example.com",
+      "Expected CTC": 440000,
+      "Full Name": "Nikhil Nair",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9374592618",
+      "Source": "Job Board",
+      "Years Experience": 0
+    },
+    "id": "recaqZqEsFF2ghvn5"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "recALxp1paVzlSzaX"
+      ],
+      "Candidate ID": "CAND-00259",
+      "City": "Noida",
+      "Created On": "2026-01-03",
+      "Current CTC": 3840000,
+      "Current Company": "Quillion",
+      "Email": "nikhil.mishra258@example.com",
+      "Expected CTC": 4800000,
+      "Full Name": "Nikhil Mishra",
+      "Notice Period Days": 30,
+      "Phone": "+91 9593104711",
+      "Source": "LinkedIn",
+      "Years Experience": 10.8
+    },
+    "id": "recaxkFJswhdCN6Tp"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "reclcNbf9SnO98Vbi"
+      ],
+      "Candidate ID": "CAND-00106",
+      "City": "Hyderabad",
+      "Created On": "2025-06-01",
+      "Current CTC": 1300000,
+      "Current Company": "Parable Systems",
+      "Email": "shreya.jain105@example.com",
+      "Expected CTC": 1630000,
+      "Full Name": "Shreya Jain",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9170686499",
+      "Source": "Agency",
+      "Years Experience": 2.8
+    },
+    "id": "recazi5Qo7Js85Uza"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "recmXb8MbeTw1s5yg"
+      ],
+      "Candidate ID": "CAND-00235",
+      "City": "Remote",
+      "Created On": "2025-12-22",
+      "Current CTC": 300000,
+      "Current Company": "Kettle & Co",
+      "Email": "manish.singh234@example.com",
+      "Expected CTC": 390000,
+      "Full Name": "Manish Singh",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9728689784",
+      "Source": "Job Board",
+      "Years Experience": 0
+    },
+    "id": "recbE4DZoIPbZO6np"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "recrBwdVmntyzIwtK"
+      ],
+      "Candidate ID": "CAND-00187",
+      "City": "Pune",
+      "Created On": "2025-07-27",
+      "Current CTC": 4510000,
+      "Current Company": "Parable Systems",
+      "Email": "farhan.agarwal186@example.com",
+      "Expected CTC": 5230000,
+      "Full Name": "Farhan Agarwal",
+      "Notice Period Days": 30,
+      "Phone": "+91 9418959746",
+      "Source": "Job Board",
+      "Years Experience": 17.1
+    },
+    "id": "recbQPq5iB15kcS4x"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Applications": [
+        "rec3do5Lr0vNEt35R",
+        "recLNdKwi9zNyzj65"
+      ],
+      "Candidate ID": "CAND-00014",
+      "City": "Remote",
+      "Created On": "2025-08-02",
+      "Current CTC": 1820000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "aarav.kapoor13@example.com",
+      "Expected CTC": 2290000,
+      "Full Name": "Aarav Kapoor",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9650324821",
+      "Source": "Referral",
+      "Years Experience": 1.5
+    },
+    "id": "recbcICkKL6Tyqt1h"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "recGTDvp2zzBM7qHY"
+      ],
+      "Candidate ID": "CAND-00294",
+      "City": "Hyderabad",
+      "Created On": "2026-05-21",
+      "Current CTC": 1920000,
+      "Current Company": "Basalt Energy",
+      "Email": "ishita.khanna293@example.com",
+      "Expected CTC": 2270000,
+      "Full Name": "Ishita Khanna",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9918695955",
+      "Source": "Job Board",
+      "Years Experience": 6.1
+    },
+    "id": "recbf7UE5ZefYBkno"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:13.000Z",
+    "fields": {
+      "Applications": [
+        "recP47ZJ2xJ54FFWg",
+        "recgQKatztTQFAtLe"
+      ],
+      "Candidate ID": "CAND-00016",
+      "City": "Hyderabad",
+      "Created On": "2026-04-27",
+      "Current CTC": 1380000,
+      "Current Company": "Vantage Mobility",
+      "Email": "harsh.khanna15@example.com",
+      "Expected CTC": 1860000,
+      "Full Name": "Harsh Khanna",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9407207838",
+      "Source": "Job Board",
+      "Years Experience": 3.6
+    },
+    "id": "recbfiRDcPwB95vOk"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:23.000Z",
+    "fields": {
+      "Applications": [
+        "recu5mYbm4uMVFE2O"
+      ],
+      "Candidate ID": "CAND-00184",
+      "City": "Chennai",
+      "Created On": "2025-05-22",
+      "Current CTC": 1540000,
+      "Current Company": "Copperfield Bank",
+      "Email": "omar.kowalski183@example.com",
+      "Expected CTC": 2020000,
+      "Full Name": "Omar Kowalski",
+      "Notice Period Days": 60,
+      "Phone": "+91 9704630903",
+      "Source": "Job Board",
+      "Years Experience": 6.4
+    },
+    "id": "recbqaoIUEoSBopjD"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "recaH7FTE4qfk0vtR"
+      ],
+      "Candidate ID": "CAND-00079",
+      "City": "Bengaluru",
+      "Created On": "2026-08-26",
+      "Current CTC": 600000,
+      "Current Company": "Vantage Mobility",
+      "Email": "swati.khanna78@example.com",
+      "Expected CTC": 790000,
+      "Full Name": "Swati Khanna",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9313677382",
+      "Source": "Career Site",
+      "Years Experience": 1.4
+    },
+    "id": "recc0FxztoQmgSkGA"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "reco1dBPY3V06iepx"
+      ],
+      "Candidate ID": "CAND-00195",
+      "City": "Remote",
+      "Created On": "2026-06-26",
+      "Current CTC": 1070000,
+      "Current Company": "Marigold Foods",
+      "Email": "farhan.yadav194@example.com",
+      "Expected CTC": 1480000,
+      "Full Name": "Farhan Yadav",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9517332221",
+      "Source": "Job Board",
+      "Years Experience": 3.6
+    },
+    "id": "reccXDSS3RZhUIm5d"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:16.000Z",
+    "fields": {
+      "Applications": [
+        "recxs6FshN7Ughb5b"
+      ],
+      "Candidate ID": "CAND-00067",
+      "City": "Remote",
+      "Created On": "2026-08-18",
+      "Current CTC": 1660000,
+      "Current Company": "Harbourline",
+      "Email": "sagar.tiwari66@example.com",
+      "Expected CTC": 1840000,
+      "Full Name": "Sagar Tiwari",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9909910462",
+      "Source": "Career Site",
+      "Years Experience": 1
+    },
+    "id": "reccs2Ql8Q5G4KgEq"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "reczMtSCSFBNKrqB5"
+      ],
+      "Candidate ID": "CAND-00173",
+      "City": "Remote",
+      "Created On": "2025-05-17",
+      "Current CTC": 640000,
+      "Current Company": "Parable Systems",
+      "Email": "priya.chauhan172@example.com",
+      "Expected CTC": 920000,
+      "Full Name": "Priya Chauhan",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9818720531",
+      "Source": "Job Board",
+      "Years Experience": 2.2
+    },
+    "id": "recctPo5MuFDsjhjc"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "recWIthKyUBxG1Iw2"
+      ],
+      "Candidate ID": "CAND-00143",
+      "City": "Pune",
+      "Created On": "2025-11-03",
+      "Current CTC": 300000,
+      "Current Company": "Harbourline",
+      "Email": "varun.yadav142@example.com",
+      "Expected CTC": 370000,
+      "Full Name": "Varun Yadav",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9794217612",
+      "Source": "Job Board",
+      "Years Experience": 0
+    },
+    "id": "recd3Bn1Ss5F3Pn8v"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "recDfVyRO74zcRaUv"
+      ],
+      "Candidate ID": "CAND-00138",
+      "City": "Pune",
+      "Created On": "2025-11-30",
+      "Current CTC": 1540000,
+      "Current Company": "Bluestone Labs",
+      "Email": "rahul.dubey137@example.com",
+      "Expected CTC": 2140000,
+      "Full Name": "Rahul Dubey",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9721759266",
+      "Source": "Job Board",
+      "Years Experience": 4.9
+    },
+    "id": "recdmoj0xteekxiaX"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "recfdsNqShSkDpMw7"
+      ],
+      "Candidate ID": "CAND-00089",
+      "City": "Hyderabad",
+      "Created On": "2025-05-09",
+      "Current CTC": 2930000,
+      "Current Company": "Arcadia Retail",
+      "Email": "kiran.kaur88@example.com",
+      "Expected CTC": 3810000,
+      "Full Name": "Kiran Kaur",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9206459669",
+      "Source": "Career Site",
+      "Years Experience": 8.2
+    },
+    "id": "recdsqbUXYAaTVImF"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "recpBfTMRAETV6Oxa"
+      ],
+      "Candidate ID": "CAND-00283",
+      "City": "Bengaluru",
+      "Created On": "2025-05-06",
+      "Current CTC": 1640000,
+      "Current Company": "Northwind Telecom",
+      "Email": "nikhil.yadav282@example.com",
+      "Expected CTC": 2410000,
+      "Full Name": "Nikhil Yadav",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9915784220",
+      "Source": "Job Board",
+      "Years Experience": 4.4
+    },
+    "id": "recdtwjcu9H2PLP3g"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "recWi8p4AWAdYNPYQ"
+      ],
+      "Candidate ID": "CAND-00270",
+      "City": "Pune",
+      "Created On": "2025-06-28",
+      "Current CTC": 3850000,
+      "Current Company": "Larkspur Software",
+      "Email": "rakesh.nair269@example.com",
+      "Expected CTC": 5310000,
+      "Full Name": "Rakesh Nair",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9198201932",
+      "Source": "LinkedIn",
+      "Years Experience": 12.7
+    },
+    "id": "recdvATjI7fTpH3AJ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "recUG5BEPoPgyzx34"
+      ],
+      "Candidate ID": "CAND-00083",
+      "City": "Bengaluru",
+      "Created On": "2026-03-28",
+      "Current CTC": 1430000,
+      "Current Company": "Parable Systems",
+      "Email": "kavya.yadav82@example.com",
+      "Expected CTC": 1760000,
+      "Full Name": "Kavya Yadav",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9978380325",
+      "Source": "Agency",
+      "Years Experience": 6.5
+    },
+    "id": "receDJXANx2sv0IOJ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:13.000Z",
+    "fields": {
+      "Applications": [
+        "recspd5m3Ua7jScMR",
+        "rec7P8n64xirmpzen"
+      ],
+      "Candidate ID": "CAND-00018",
+      "City": "Pune",
+      "Created On": "2025-03-29",
+      "Current CTC": 3540000,
+      "Current Company": "Basalt Energy",
+      "Email": "arjun.agarwal17@example.com",
+      "Expected CTC": 4070000,
+      "Full Name": "Arjun Agarwal",
+      "Notice Period Days": 30,
+      "Phone": "+91 9770397245",
+      "Source": "Job Board",
+      "Years Experience": 10.1
+    },
+    "id": "receRD4gcMlpZEG0W"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "recwpRyd6IVVpmjpL"
+      ],
+      "Candidate ID": "CAND-00107",
+      "City": "Pune",
+      "Created On": "2025-09-10",
+      "Current CTC": 3080000,
+      "Current Company": "Parable Systems",
+      "Email": "akash.mishra106@example.com",
+      "Expected CTC": 4530000,
+      "Full Name": "Akash Mishra",
+      "Notice Period Days": 0,
+      "Phone": "+91 9589093677",
+      "Source": "Job Board",
+      "Years Experience": 11.5
+    },
+    "id": "receYnK8ffesTY0rx"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "recCdljIHamvPiU2p",
+        "recjFOcJfpRHNvxTY"
+      ],
+      "Candidate ID": "CAND-00045",
+      "City": "Bengaluru",
+      "Created On": "2025-03-10",
+      "Current CTC": 2220000,
+      "Current Company": "Redthread",
+      "Email": "ankit.gupta44@example.com",
+      "Expected CTC": 2550000,
+      "Full Name": "Ankit Gupta",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9538938900",
+      "Source": "Job Board",
+      "Years Experience": 9.1
+    },
+    "id": "recee1S9HfzJwmhxp"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "recnwsgD6X7kfOw6F"
+      ],
+      "Candidate ID": "CAND-00267",
+      "City": "Mumbai",
+      "Created On": "2026-02-01",
+      "Current CTC": 1860000,
+      "Current Company": "Harbourline",
+      "Email": "jatin.mishra266@example.com",
+      "Expected CTC": 2210000,
+      "Full Name": "Jatin Mishra",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9235702726",
+      "Source": "LinkedIn",
+      "Years Experience": 6.5
+    },
+    "id": "recerJ6UCrZGJ3C6O"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "recUmLNLg8ijNksvd"
+      ],
+      "Candidate ID": "CAND-00271",
+      "City": "Pune",
+      "Created On": "2026-01-20",
+      "Current CTC": 840000,
+      "Current Company": "Parable Systems",
+      "Email": "vikram.malhotra270@example.com",
+      "Expected CTC": 1260000,
+      "Full Name": "Vikram Malhotra",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9437409826",
+      "Source": "LinkedIn",
+      "Years Experience": 4.4
+    },
+    "id": "recfBXdNAJZj2sYRD"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:19.000Z",
+    "fields": {
+      "Applications": [
+        "rec3SdIWP8PRb7Yi9"
+      ],
+      "Candidate ID": "CAND-00117",
+      "City": "Pune",
+      "Created On": "2025-07-03",
+      "Current CTC": 1330000,
+      "Current Company": "Harbourline",
+      "Email": "daniel.fernandes116@example.com",
+      "Expected CTC": 1720000,
+      "Full Name": "Daniel Fernandes",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9438407574",
+      "Source": "Job Board",
+      "Years Experience": 4.3
+    },
+    "id": "recfNgxyVjZtrWPdC"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "reckSqJuXoisAAC9h"
+      ],
+      "Candidate ID": "CAND-00240",
+      "City": "Remote",
+      "Created On": "2026-04-13",
+      "Current CTC": 1550000,
+      "Current Company": "Northwind Telecom",
+      "Email": "ankit.sethi239@example.com",
+      "Expected CTC": 2200000,
+      "Full Name": "Ankit Sethi",
+      "Notice Period Days": 30,
+      "Phone": "+91 9979962085",
+      "Source": "LinkedIn",
+      "Years Experience": 7.9
+    },
+    "id": "recfQvJuQGaNmWdfD"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:16.000Z",
+    "fields": {
+      "Applications": [
+        "reckvX05sMDvHHmGd"
+      ],
+      "Candidate ID": "CAND-00073",
+      "City": "Bengaluru",
+      "Created On": "2025-08-07",
+      "Current CTC": 690000,
+      "Current Company": "Harbourline",
+      "Email": "aditi.bhat72@example.com",
+      "Expected CTC": 950000,
+      "Full Name": "Aditi Bhat",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9229957966",
+      "Source": "Career Site",
+      "Years Experience": 2.9
+    },
+    "id": "recfTlyWkJLMACX5x"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "recMLNhmKjNLJiJ2F"
+      ],
+      "Candidate ID": "CAND-00225",
+      "City": "Remote",
+      "Created On": "2026-08-06",
+      "Current CTC": 1470000,
+      "Current Company": "Basalt Energy",
+      "Email": "deepak.menon224@example.com",
+      "Expected CTC": 2190000,
+      "Full Name": "Deepak Menon",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9371188820",
+      "Source": "Job Board",
+      "Years Experience": 5
+    },
+    "id": "recfTxyb76x3rY2U3"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "recxWAKEkpJ1IL4qg"
+      ],
+      "Candidate ID": "CAND-00104",
+      "City": "Remote",
+      "Created On": "2025-12-14",
+      "Current CTC": 1090000,
+      "Current Company": "Redthread",
+      "Email": "bhavna.sethi103@example.com",
+      "Expected CTC": 1360000,
+      "Full Name": "Bhavna Sethi",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9276527800",
+      "Source": "Job Board",
+      "Years Experience": 4.3
+    },
+    "id": "recfWIizV71sChyEP"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "rec3i7ITN6mp8GS8P"
+      ],
+      "Candidate ID": "CAND-00268",
+      "City": "Remote",
+      "Created On": "2025-03-27",
+      "Current CTC": 450000,
+      "Current Company": "Basalt Energy",
+      "Email": "neha.kulkarni267@example.com",
+      "Expected CTC": 500000,
+      "Full Name": "Neha Kulkarni",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9224584081",
+      "Source": "LinkedIn",
+      "Years Experience": 0.7
+    },
+    "id": "recffWhyVekA2kiUh"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "recpM4mTuHZO6rsoO"
+      ],
+      "Candidate ID": "CAND-00217",
+      "City": "Remote",
+      "Created On": "2026-05-13",
+      "Current CTC": 950000,
+      "Current Company": "Foxglove Media",
+      "Email": "arun.pandey216@example.com",
+      "Expected CTC": 1520000,
+      "Full Name": "Arun Pandey",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9378691072",
+      "Source": "Job Board",
+      "Years Experience": 3.1
+    },
+    "id": "recg8Y7triAB8hQIP"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "recCUNIerZyc7XBWv"
+      ],
+      "Candidate ID": "CAND-00260",
+      "City": "Chennai",
+      "Created On": "2025-06-27",
+      "Current CTC": 2250000,
+      "Current Company": "Meridian Health",
+      "Email": "aditi.rao259@example.com",
+      "Expected CTC": 2390000,
+      "Full Name": "Aditi Rao",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9702378262",
+      "Source": "Job Board",
+      "Years Experience": 8.2
+    },
+    "id": "rech6QlyZjjFPXZji"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "recnPKdhvQjakaFXo"
+      ],
+      "Candidate ID": "CAND-00056",
+      "City": "Pune",
+      "Created On": "2025-08-27",
+      "Current CTC": 2190000,
+      "Current Company": "Tidewater Logistics",
+      "Email": "kiran.pandey55@example.com",
+      "Expected CTC": 2540000,
+      "Full Name": "Kiran Pandey",
+      "Notice Period Days": 0,
+      "Phone": "+91 9204381722",
+      "Source": "Career Site",
+      "Years Experience": 12.8
+    },
+    "id": "rechpPXb9HiGwrynB"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "recyxSeDwnDBZoxrI"
+      ],
+      "Candidate ID": "CAND-00250",
+      "City": "Hyderabad",
+      "Created On": "2026-06-03",
+      "Current CTC": 2030000,
+      "Current Company": "Marigold Foods",
+      "Email": "sneha.patel249@example.com",
+      "Expected CTC": 2460000,
+      "Full Name": "Sneha Patel",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9626082061",
+      "Source": "Campus",
+      "Years Experience": 7.2
+    },
+    "id": "rechrbkjS6PTgJnh6"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "rechzVTcYuPj1B76S"
+      ],
+      "Candidate ID": "CAND-00275",
+      "City": "Bengaluru",
+      "Created On": "2025-03-07",
+      "Current CTC": 1940000,
+      "Current Company": "Harbourline",
+      "Email": "adaeze.tanaka274@example.com",
+      "Expected CTC": 2930000,
+      "Full Name": "Adaeze Tanaka",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9970419920",
+      "Source": "Job Board",
+      "Years Experience": 8
+    },
+    "id": "rechxOV0nyLq18M5Y"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "rec67UuualnJrrfMz"
+      ],
+      "Candidate ID": "CAND-00252",
+      "City": "Chennai",
+      "Created On": "2026-06-16",
+      "Current CTC": 2260000,
+      "Current Company": "Zenlytics",
+      "Email": "priya.sethi251@example.com",
+      "Expected CTC": 3120000,
+      "Full Name": "Priya Sethi",
+      "Notice Period Days": 60,
+      "Phone": "+91 9314508302",
+      "Source": "Job Board",
+      "Years Experience": 9.8
+    },
+    "id": "rechzN7w6LBurc3lY"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "recPA80lrTW7Zbfa4"
+      ],
+      "Candidate ID": "CAND-00111",
+      "City": "Pune",
+      "Created On": "2025-07-06",
+      "Current CTC": 2640000,
+      "Current Company": "Zenlytics",
+      "Email": "harsh.shah110@example.com",
+      "Expected CTC": 3700000,
+      "Full Name": "Harsh Shah",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9561873067",
+      "Source": "Job Board",
+      "Years Experience": 8.5
+    },
+    "id": "recipOp6z8LvuMPE2"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "recf8O1BQgvvjHp8D"
+      ],
+      "Candidate ID": "CAND-00254",
+      "City": "Noida",
+      "Created On": "2025-10-15",
+      "Current CTC": 300000,
+      "Current Company": "Copperfield Bank",
+      "Email": "ravi.kumar253@example.com",
+      "Expected CTC": 380000,
+      "Full Name": "Ravi Kumar",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9517553873",
+      "Source": "Campus",
+      "Years Experience": 0
+    },
+    "id": "recjEcNg6D8lJwiOA"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:23.000Z",
+    "fields": {
+      "Applications": [
+        "rec9LySCYvRL5UsNU"
+      ],
+      "Candidate ID": "CAND-00185",
+      "City": "Hyderabad",
+      "Created On": "2026-01-20",
+      "Current CTC": 300000,
+      "Current Company": "Parable Systems",
+      "Email": "tanvi.sethi184@example.com",
+      "Expected CTC": 440000,
+      "Full Name": "Tanvi Sethi",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9500219439",
+      "Source": "Job Board",
+      "Years Experience": 0
+    },
+    "id": "recjMF8nSQCJWFGBo"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "recvSPJU1KTV2Ym79"
+      ],
+      "Candidate ID": "CAND-00076",
+      "City": "Hyderabad",
+      "Created On": "2025-06-08",
+      "Current CTC": 1520000,
+      "Current Company": "Arcadia Retail",
+      "Email": "ravi.singh75@example.com",
+      "Expected CTC": 1670000,
+      "Full Name": "Ravi Singh",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9655196525",
+      "Source": "Agency",
+      "Years Experience": 4.8
+    },
+    "id": "recjPb9ry1jNjKani"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "rechjveyMBOFeKDr3"
+      ],
+      "Candidate ID": "CAND-00088",
+      "City": "Bengaluru",
+      "Created On": "2025-04-17",
+      "Current CTC": 880000,
+      "Current Company": "Basalt Energy",
+      "Email": "elena.okonkwo87@example.com",
+      "Expected CTC": 940000,
+      "Full Name": "Elena Okonkwo",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9214150570",
+      "Source": "Agency",
+      "Years Experience": 5.3
+    },
+    "id": "recjTxsd6y3HYrPha"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "recKf6QR0hCR0JH7k"
+      ],
+      "Candidate ID": "CAND-00113",
+      "City": "Hyderabad",
+      "Created On": "2025-09-21",
+      "Current CTC": 980000,
+      "Current Company": "Foxglove Media",
+      "Email": "varun.jain112@example.com",
+      "Expected CTC": 1130000,
+      "Full Name": "Varun Jain",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9575906020",
+      "Source": "Agency",
+      "Years Experience": 3.2
+    },
+    "id": "recjaxoh87oMOUvzI"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "recOhPAo3U9UBylfw"
+      ],
+      "Candidate ID": "CAND-00248",
+      "City": "Pune",
+      "Created On": "2025-12-09",
+      "Current CTC": 800000,
+      "Current Company": "Basalt Energy",
+      "Email": "varun.tiwari247@example.com",
+      "Expected CTC": 950000,
+      "Full Name": "Varun Tiwari",
+      "Notice Period Days": 30,
+      "Phone": "+91 9902019839",
+      "Source": "Agency",
+      "Years Experience": 4.1
+    },
+    "id": "reck25zU2aLRSqvjI"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "recF1jRC5ahg9RccD"
+      ],
+      "Candidate ID": "CAND-00093",
+      "City": "Chennai",
+      "Created On": "2025-03-18",
+      "Current CTC": 2210000,
+      "Current Company": "Redthread",
+      "Email": "varun.chauhan92@example.com",
+      "Expected CTC": 3050000,
+      "Full Name": "Varun Chauhan",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9150268361",
+      "Source": "Agency",
+      "Years Experience": 7.1
+    },
+    "id": "reckJqoEcTZKr1ctL"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "rec83d2sSp0QjaeWt"
+      ],
+      "Candidate ID": "CAND-00234",
+      "City": "Mumbai",
+      "Created On": "2025-06-21",
+      "Current CTC": 1880000,
+      "Current Company": "Arcadia Retail",
+      "Email": "harsh.reddy233@example.com",
+      "Expected CTC": 2390000,
+      "Full Name": "Harsh Reddy",
+      "Notice Period Days": 60,
+      "Phone": "+91 9415186739",
+      "Source": "LinkedIn",
+      "Years Experience": 6.7
+    },
+    "id": "reckaU4Q3ZEKyjvtH"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:20.000Z",
+    "fields": {
+      "Applications": [
+        "rec3HAogsxyQTaTQ9"
+      ],
+      "Candidate ID": "CAND-00135",
+      "City": "Pune",
+      "Created On": "2025-08-13",
+      "Current CTC": 1920000,
+      "Current Company": "Harbourline",
+      "Email": "daniel.tanaka134@example.com",
+      "Expected CTC": 2020000,
+      "Full Name": "Daniel Tanaka",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9834116856",
+      "Source": "Job Board",
+      "Years Experience": 6.1
+    },
+    "id": "reckmNpPYVFeWtDBZ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "recpQl3R8bicv29dH"
+      ],
+      "Candidate ID": "CAND-00064",
+      "City": "Hyderabad",
+      "Created On": "2025-06-03",
+      "Current CTC": 510000,
+      "Current Company": "Marigold Foods",
+      "Email": "tomas.kowalski63@example.com",
+      "Expected CTC": 690000,
+      "Full Name": "Tomas Kowalski",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9845648662",
+      "Source": "Career Site",
+      "Years Experience": 1.6
+    },
+    "id": "recksgfX3vlh1FSyY"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "recAZDvBQUn2kFZGn"
+      ],
+      "Candidate ID": "CAND-00233",
+      "City": "Bengaluru",
+      "Created On": "2026-06-05",
+      "Current CTC": 720000,
+      "Current Company": "Quillion",
+      "Email": "kavya.nair232@example.com",
+      "Expected CTC": 960000,
+      "Full Name": "Kavya Nair",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9718157311",
+      "Source": "LinkedIn",
+      "Years Experience": 1.5
+    },
+    "id": "reckwmMYk3bA7LhP7"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "recxHugnjgy4jtR0H"
+      ],
+      "Candidate ID": "CAND-00102",
+      "City": "Hyderabad",
+      "Created On": "2025-11-08",
+      "Current CTC": 1640000,
+      "Current Company": "Parable Systems",
+      "Email": "ankit.malhotra101@example.com",
+      "Expected CTC": 2150000,
+      "Full Name": "Ankit Malhotra",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9196288823",
+      "Source": "Agency",
+      "Years Experience": 7.6
+    },
+    "id": "reclHDuDsLZoCX9Pz"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:23.000Z",
+    "fields": {
+      "Applications": [
+        "recY65PmkuY7qx3uA"
+      ],
+      "Candidate ID": "CAND-00180",
+      "City": "Bengaluru",
+      "Created On": "2026-02-18",
+      "Current CTC": 1450000,
+      "Current Company": "Vantage Mobility",
+      "Email": "aditi.pillai179@example.com",
+      "Expected CTC": 2230000,
+      "Full Name": "Aditi Pillai",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9816577837",
+      "Source": "Job Board",
+      "Years Experience": 6.4
+    },
+    "id": "recm2RXSL7iivNTpi"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:23.000Z",
+    "fields": {
+      "Applications": [
+        "recOzmo9c4MVbxT7E"
+      ],
+      "Candidate ID": "CAND-00178",
+      "City": "Chennai",
+      "Created On": "2025-04-08",
+      "Current CTC": 300000,
+      "Current Company": "Kettle & Co",
+      "Email": "divya.mishra177@example.com",
+      "Expected CTC": 420000,
+      "Full Name": "Divya Mishra",
+      "Notice Period Days": 60,
+      "Phone": "+91 9158172303",
+      "Source": "Job Board",
+      "Years Experience": 0
+    },
+    "id": "recmlwhriKbrFnIqy"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "recpZYuX5EuNkP6KX"
+      ],
+      "Candidate ID": "CAND-00251",
+      "City": "Remote",
+      "Created On": "2026-07-29",
+      "Current CTC": 570000,
+      "Current Company": "Copperfield Bank",
+      "Email": "rohit.singh250@example.com",
+      "Expected CTC": 780000,
+      "Full Name": "Rohit Singh",
+      "Notice Period Days": 30,
+      "Phone": "+91 9405597591",
+      "Source": "LinkedIn",
+      "Years Experience": 0.9
+    },
+    "id": "recmzwiMr3HPRBJ6B"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "recJlSS5dXchVubxO"
+      ],
+      "Candidate ID": "CAND-00289",
+      "City": "Pune",
+      "Created On": "2025-03-07",
+      "Current CTC": 550000,
+      "Current Company": "Quillion",
+      "Email": "vinay.yadav288@example.com",
+      "Expected CTC": 580000,
+      "Full Name": "Vinay Yadav",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9556007027",
+      "Source": "LinkedIn",
+      "Years Experience": 1
+    },
+    "id": "recn67JUtfLFSUmiU"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:13.000Z",
+    "fields": {
+      "Applications": [
+        "recKWSoAgLTGK1MB1",
+        "recGWXPKFf1e4y3wV"
+      ],
+      "Candidate ID": "CAND-00017",
+      "City": "Chennai",
+      "Created On": "2025-11-13",
+      "Current CTC": 1860000,
+      "Current Company": "Redthread",
+      "Email": "elena.fernandes16@example.com",
+      "Expected CTC": 2460000,
+      "Full Name": "Elena Fernandes",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9783200943",
+      "Source": "Job Board",
+      "Years Experience": 10.6
+    },
+    "id": "recn6hRZXXzj7bdoF"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "reclRucrAH5sJJpTb"
+      ],
+      "Candidate ID": "CAND-00098",
+      "City": "Mumbai",
+      "Created On": "2025-05-21",
+      "Current CTC": 2140000,
+      "Current Company": "Marigold Foods",
+      "Email": "arjun.menon97@example.com",
+      "Expected CTC": 3190000,
+      "Full Name": "Arjun Menon",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9415011673",
+      "Source": "Agency",
+      "Years Experience": 5.7
+    },
+    "id": "recnPLysjbYkJeEbx"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "recaG6zbaZR0e3cG1"
+      ],
+      "Candidate ID": "CAND-00154",
+      "City": "Bengaluru",
+      "Created On": "2025-03-01",
+      "Current CTC": 2730000,
+      "Current Company": "Arcadia Retail",
+      "Email": "camila.okonkwo153@example.com",
+      "Expected CTC": 2920000,
+      "Full Name": "Camila Okonkwo",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9354062332",
+      "Source": "Job Board",
+      "Years Experience": 8.5
+    },
+    "id": "recnSdGG87uhc4mR3"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "rec5EuZuQoEcDIkEd"
+      ],
+      "Candidate ID": "CAND-00241",
+      "City": "Remote",
+      "Created On": "2025-09-07",
+      "Current CTC": 1230000,
+      "Current Company": "Zenlytics",
+      "Email": "vinay.saxena240@example.com",
+      "Expected CTC": 1500000,
+      "Full Name": "Vinay Saxena",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9521498546",
+      "Source": "Job Board",
+      "Years Experience": 3.7
+    },
+    "id": "recoMW2fBxE9WaqG3"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:19.000Z",
+    "fields": {
+      "Applications": [
+        "recjYDboyd1p56Gx1"
+      ],
+      "Candidate ID": "CAND-00122",
+      "City": "Bengaluru",
+      "Created On": "2025-08-17",
+      "Current CTC": 1670000,
+      "Current Company": "Harbourline",
+      "Email": "kavya.joshi121@example.com",
+      "Expected CTC": 2620000,
+      "Full Name": "Kavya Joshi",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9669096939",
+      "Source": "Job Board",
+      "Years Experience": 9.7
+    },
+    "id": "recoPfQtFFbwNOhC6"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "recLDjEcOw0gL5Ew0"
+      ],
+      "Candidate ID": "CAND-00193",
+      "City": "Pune",
+      "Created On": "2025-03-10",
+      "Current CTC": 1260000,
+      "Current Company": "Marigold Foods",
+      "Email": "sunil.yadav192@example.com",
+      "Expected CTC": 1450000,
+      "Full Name": "Sunil Yadav",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9610444605",
+      "Source": "Agency",
+      "Years Experience": 8.7
+    },
+    "id": "recoPkAT011ZUNBx2"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "recMioqGRdCfPs4jI"
+      ],
+      "Candidate ID": "CAND-00246",
+      "City": "Mumbai",
+      "Created On": "2025-08-16",
+      "Current CTC": 700000,
+      "Current Company": "Bluestone Labs",
+      "Email": "rohit.kulkarni245@example.com",
+      "Expected CTC": 1060000,
+      "Full Name": "Rohit Kulkarni",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9342709436",
+      "Source": "Campus",
+      "Years Experience": 1.5
+    },
+    "id": "recoPrEjTApeJWUnl"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "recQp4f5XGxaRr4JX"
+      ],
+      "Candidate ID": "CAND-00186",
+      "City": "Pune",
+      "Created On": "2025-07-28",
+      "Current CTC": 450000,
+      "Current Company": "Basalt Energy",
+      "Email": "omar.okonkwo185@example.com",
+      "Expected CTC": 720000,
+      "Full Name": "Omar Okonkwo",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9964826472",
+      "Source": "Job Board",
+      "Years Experience": 1.2
+    },
+    "id": "recohvue9eLXnuBir"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "recWuMiP1az688KUe"
+      ],
+      "Candidate ID": "CAND-00169",
+      "City": "Mumbai",
+      "Created On": "2026-06-30",
+      "Current CTC": 300000,
+      "Current Company": "Harbourline",
+      "Email": "zoya.singh168@example.com",
+      "Expected CTC": 440000,
+      "Full Name": "Zoya Singh",
+      "Notice Period Days": 15,
+      "Phone": "+91 9452856504",
+      "Source": "Job Board",
+      "Years Experience": 0
+    },
+    "id": "recom4UxNexPHqMdO"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:13.000Z",
+    "fields": {
+      "Applications": [
+        "recRzgmLBhnZfiQgx",
+        "recMqSRAMZjteipsn"
+      ],
+      "Candidate ID": "CAND-00024",
+      "City": "Hyderabad",
+      "Created On": "2026-07-09",
+      "Current CTC": 1790000,
+      "Current Company": "Larkspur Software",
+      "Email": "linh.kowalski23@example.com",
+      "Expected CTC": 2420000,
+      "Full Name": "Linh Kowalski",
+      "Notice Period Days": 60,
+      "Phone": "+91 9832640113",
+      "Source": "Job Board",
+      "Years Experience": 5.3
+    },
+    "id": "recoxIkl0QHAOgvKl"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "recvYxw0fYaudKGlO"
+      ],
+      "Candidate ID": "CAND-00149",
+      "City": "Remote",
+      "Created On": "2026-05-09",
+      "Current CTC": 300000,
+      "Current Company": "Bluestone Labs",
+      "Email": "sanjay.joshi148@example.com",
+      "Expected CTC": 350000,
+      "Full Name": "Sanjay Joshi",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9631157289",
+      "Source": "Job Board",
+      "Years Experience": 0
+    },
+    "id": "recp1L9Sm1SDuEhc0"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "rec2c4sgybwf7r9Xy"
+      ],
+      "Candidate ID": "CAND-00157",
+      "City": "Chennai",
+      "Created On": "2025-11-10",
+      "Current CTC": 970000,
+      "Current Company": "Vantage Mobility",
+      "Email": "james.chen156@example.com",
+      "Expected CTC": 1470000,
+      "Full Name": "James Chen",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9750297854",
+      "Source": "Job Board",
+      "Years Experience": 4.6
+    },
+    "id": "recp2CUbik2DsAwNu"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "rec7aXx5LQEHZqz2w",
+        "reclMghrkElLbrFAk"
+      ],
+      "Candidate ID": "CAND-00037",
+      "City": "Hyderabad",
+      "Created On": "2026-04-26",
+      "Current CTC": 650000,
+      "Current Company": "Basalt Energy",
+      "Email": "divya.nair36@example.com",
+      "Expected CTC": 780000,
+      "Full Name": "Divya Nair",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9508284487",
+      "Source": "Job Board",
+      "Years Experience": 1.8
+    },
+    "id": "recp3mu35HkRrtqeK"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "recEeu1ygTcF6jkNl"
+      ],
+      "Candidate ID": "CAND-00261",
+      "City": "Pune",
+      "Created On": "2026-04-28",
+      "Current CTC": 920000,
+      "Current Company": "Meridian Health",
+      "Email": "mohit.malhotra260@example.com",
+      "Expected CTC": 1210000,
+      "Full Name": "Mohit Malhotra",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9829452120",
+      "Source": "LinkedIn",
+      "Years Experience": 5.2
+    },
+    "id": "recp6Ez9dlOduiEPr"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "recVtnBaKjmrOhGtm"
+      ],
+      "Candidate ID": "CAND-00189",
+      "City": "Mumbai",
+      "Created On": "2026-08-11",
+      "Current CTC": 1050000,
+      "Current Company": "Basalt Energy",
+      "Email": "ananya.shah188@example.com",
+      "Expected CTC": 1380000,
+      "Full Name": "Ananya Shah",
+      "Notice Period Days": 30,
+      "Phone": "+91 9170695782",
+      "Source": "Job Board",
+      "Years Experience": 3.5
+    },
+    "id": "recp7rsnyEO2PpMKk"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "recsaQK77orZxyElt"
+      ],
+      "Candidate ID": "CAND-00160",
+      "City": "Remote",
+      "Created On": "2026-06-24",
+      "Current CTC": 1240000,
+      "Current Company": "Foxglove Media",
+      "Email": "priya.kaur159@example.com",
+      "Expected CTC": 1350000,
+      "Full Name": "Priya Kaur",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9789727210",
+      "Source": "Job Board",
+      "Years Experience": 5.7
+    },
+    "id": "recpAYo6Ftk5BiwHh"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "recgpzPd3FeSLRSpw"
+      ],
+      "Candidate ID": "CAND-00194",
+      "City": "Noida",
+      "Created On": "2025-04-15",
+      "Current CTC": 2660000,
+      "Current Company": "Larkspur Software",
+      "Email": "ankit.yadav193@example.com",
+      "Expected CTC": 3540000,
+      "Full Name": "Ankit Yadav",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9680468153",
+      "Source": "Job Board",
+      "Years Experience": 7.5
+    },
+    "id": "recpFTHWI2gqQz0XG"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "rec8S8GRWVL3TNIfA",
+        "rectkjxsh4uGWNykj"
+      ],
+      "Candidate ID": "CAND-00040",
+      "City": "Hyderabad",
+      "Created On": "2025-10-29",
+      "Current CTC": 2180000,
+      "Current Company": "Foxglove Media",
+      "Email": "akash.shah39@example.com",
+      "Expected CTC": 2510000,
+      "Full Name": "Akash Shah",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9181135449",
+      "Source": "Job Board",
+      "Years Experience": 9.5
+    },
+    "id": "recpKr9uys7j0KSm8"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "recwWJd2EICQGDxSK",
+        "recPbK7TgsHhA1YyW"
+      ],
+      "Candidate ID": "CAND-00025",
+      "City": "Hyderabad",
+      "Created On": "2026-04-26",
+      "Current CTC": 320000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "ishita.kulkarni24@example.com",
+      "Expected CTC": 520000,
+      "Full Name": "Ishita Kulkarni",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9132914840",
+      "Source": "Job Board",
+      "Years Experience": 0.1
+    },
+    "id": "recpNzgE290RTLKU2"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "rechMutCGiow0kYsV"
+      ],
+      "Candidate ID": "CAND-00204",
+      "City": "Mumbai",
+      "Created On": "2025-10-07",
+      "Current CTC": 2650000,
+      "Current Company": "Basalt Energy",
+      "Email": "pranav.bansal203@example.com",
+      "Expected CTC": 3210000,
+      "Full Name": "Pranav Bansal",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9631712731",
+      "Source": "Job Board",
+      "Years Experience": 8.1
+    },
+    "id": "recphk7ka4nT4Wtvd"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "recs01tp6SviaKp8S"
+      ],
+      "Candidate ID": "CAND-00054",
+      "City": "Remote",
+      "Created On": "2026-07-18",
+      "Current CTC": 1290000,
+      "Current Company": "Arcadia Retail",
+      "Email": "rohit.bansal53@example.com",
+      "Expected CTC": 1550000,
+      "Full Name": "Rohit Bansal",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9512861777",
+      "Source": "Career Site",
+      "Years Experience": 4.9
+    },
+    "id": "recpuz1BTtiNaBgsh"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Applications": [
+        "recRJlOzMRsQxa9lV"
+      ],
+      "Candidate ID": "CAND-00232",
+      "City": "Hyderabad",
+      "Created On": "2025-09-22",
+      "Current CTC": 1770000,
+      "Current Company": "Redthread",
+      "Email": "chetan.kulkarni231@example.com",
+      "Expected CTC": 2190000,
+      "Full Name": "Chetan Kulkarni",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9342947388",
+      "Source": "Referral",
+      "Years Experience": 5.3
+    },
+    "id": "recq2zqNF0hNQ1xBE"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "rec5EHcqYRoWmEZKL"
+      ],
+      "Candidate ID": "CAND-00293",
+      "City": "Mumbai",
+      "Created On": "2026-01-06",
+      "Current CTC": 1180000,
+      "Current Company": "Arcadia Retail",
+      "Email": "anjali.mishra292@example.com",
+      "Expected CTC": 1240000,
+      "Full Name": "Anjali Mishra",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9782594008",
+      "Source": "Agency",
+      "Years Experience": 3
+    },
+    "id": "recq8SyrXVa88Ac0Z"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "recY4SWOsQMbijTsg"
+      ],
+      "Candidate ID": "CAND-00168",
+      "City": "Remote",
+      "Created On": "2025-11-11",
+      "Current CTC": 1480000,
+      "Current Company": "Vantage Mobility",
+      "Email": "kavya.iyer167@example.com",
+      "Expected CTC": 1690000,
+      "Full Name": "Kavya Iyer",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9395059159",
+      "Source": "Job Board",
+      "Years Experience": 6.7
+    },
+    "id": "recqoSEs5xb3PkAqb"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "recRH8DAS5RSerTzr"
+      ],
+      "Candidate ID": "CAND-00060",
+      "City": "Hyderabad",
+      "Created On": "2025-05-24",
+      "Current CTC": 1960000,
+      "Current Company": "Parable Systems",
+      "Email": "swati.patel59@example.com",
+      "Expected CTC": 2160000,
+      "Full Name": "Swati Patel",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9550310474",
+      "Source": "Career Site",
+      "Years Experience": 7.2
+    },
+    "id": "recqsp2odNDIN0AFu"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:25.000Z",
+    "fields": {
+      "Applications": [
+        "recUGi7o6GyGhSDwG"
+      ],
+      "Candidate ID": "CAND-00207",
+      "City": "Remote",
+      "Created On": "2025-04-23",
+      "Current CTC": 980000,
+      "Current Company": "Arcadia Retail",
+      "Email": "ankit.agarwal206@example.com",
+      "Expected CTC": 1570000,
+      "Full Name": "Ankit Agarwal",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9322689593",
+      "Source": "Job Board",
+      "Years Experience": 2.5
+    },
+    "id": "recr4UPkoROOmZ1Vk"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "rec4tIAjfR9uo9mk7"
+      ],
+      "Candidate ID": "CAND-00226",
+      "City": "Noida",
+      "Created On": "2025-09-02",
+      "Current CTC": 300000,
+      "Current Company": "Basalt Energy",
+      "Email": "daniel.almeida225@example.com",
+      "Expected CTC": 360000,
+      "Full Name": "Daniel Almeida",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9632155080",
+      "Source": "LinkedIn",
+      "Years Experience": 0
+    },
+    "id": "recrk9H0JNl8TO3Ro"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:17.000Z",
+    "fields": {
+      "Applications": [
+        "recZKgvnqrieblhZ8"
+      ],
+      "Candidate ID": "CAND-00095",
+      "City": "Hyderabad",
+      "Created On": "2025-12-16",
+      "Current CTC": 2100000,
+      "Current Company": "Basalt Energy",
+      "Email": "rakesh.mehta94@example.com",
+      "Expected CTC": 2960000,
+      "Full Name": "Rakesh Mehta",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9165441946",
+      "Source": "Agency",
+      "Years Experience": 8.7
+    },
+    "id": "recrqpPSjRQbNAmoJ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "recmdsFvBgi2bOtiB"
+      ],
+      "Candidate ID": "CAND-00230",
+      "City": "Chennai",
+      "Created On": "2025-11-29",
+      "Current CTC": 3050000,
+      "Current Company": "Basalt Energy",
+      "Email": "aditi.mehta229@example.com",
+      "Expected CTC": 4030000,
+      "Full Name": "Aditi Mehta",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9941248629",
+      "Source": "LinkedIn",
+      "Years Experience": 10.6
+    },
+    "id": "recsG7FETOlQ8IzQ5"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "reckINb6DMDSmbe2Y"
+      ],
+      "Candidate ID": "CAND-00269",
+      "City": "Pune",
+      "Created On": "2025-06-02",
+      "Current CTC": 370000,
+      "Current Company": "Basalt Energy",
+      "Email": "bhavna.singh268@example.com",
+      "Expected CTC": 470000,
+      "Full Name": "Bhavna Singh",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9129798174",
+      "Source": "LinkedIn",
+      "Years Experience": 0.3
+    },
+    "id": "recsvqHLLOYW2OxCG"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "reclknN0dV51IQY7K"
+      ],
+      "Candidate ID": "CAND-00274",
+      "City": "Mumbai",
+      "Created On": "2025-06-16",
+      "Current CTC": 300000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "kiran.bhat273@example.com",
+      "Expected CTC": 330000,
+      "Full Name": "Kiran Bhat",
+      "Notice Period Days": 60,
+      "Phone": "+91 9584446070",
+      "Source": "Job Board",
+      "Years Experience": 0
+    },
+    "id": "rectTKjKbRDr2x5W4"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:27.000Z",
+    "fields": {
+      "Applications": [
+        "rectk8gojzZ37ZG0g"
+      ],
+      "Candidate ID": "CAND-00245",
+      "City": "Noida",
+      "Created On": "2025-08-17",
+      "Current CTC": 890000,
+      "Current Company": "Tidewater Logistics",
+      "Email": "ananya.jain244@example.com",
+      "Expected CTC": 1380000,
+      "Full Name": "Ananya Jain",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9716224725",
+      "Source": "Job Board",
+      "Years Experience": 3.6
+    },
+    "id": "rectUos8ugEMQpmxf"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:20.000Z",
+    "fields": {
+      "Applications": [
+        "rec3EfhNQoL3td1wH"
+      ],
+      "Candidate ID": "CAND-00127",
+      "City": "Remote",
+      "Created On": "2026-02-05",
+      "Current CTC": 320000,
+      "Current Company": "Arcadia Retail",
+      "Email": "priya.kapoor126@example.com",
+      "Expected CTC": 390000,
+      "Full Name": "Priya Kapoor",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9126819388",
+      "Source": "Job Board",
+      "Years Experience": 0.2
+    },
+    "id": "rectZj8LAjj9jzTch"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "recg6iNZK2tnZpzPv"
+      ],
+      "Candidate ID": "CAND-00236",
+      "City": "Pune",
+      "Created On": "2026-02-22",
+      "Current CTC": 1350000,
+      "Current Company": "Marigold Foods",
+      "Email": "farhan.iyer235@example.com",
+      "Expected CTC": 1500000,
+      "Full Name": "Farhan Iyer",
+      "Notes": "Referred internally. Available for a call after 6pm.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9156652537",
+      "Source": "LinkedIn",
+      "Years Experience": 5.4
+    },
+    "id": "rectbmWOpjzwbPdN3"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "recH5dTJ9BzdKYvc1",
+        "recMPnksVuLfh6zI6"
+      ],
+      "Candidate ID": "CAND-00038",
+      "City": "Mumbai",
+      "Created On": "2025-08-04",
+      "Current CTC": 1320000,
+      "Current Company": "Silverpine Analytics",
+      "Email": "deepak.kulkarni37@example.com",
+      "Expected CTC": 1660000,
+      "Full Name": "Deepak Kulkarni",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9864293973",
+      "Source": "Job Board",
+      "Years Experience": 6.5
+    },
+    "id": "recuSMtMxT2H9SIuQ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "recYRQvQj9F8HaAxC"
+      ],
+      "Candidate ID": "CAND-00175",
+      "City": "Bengaluru",
+      "Created On": "2025-04-03",
+      "Current CTC": 3240000,
+      "Current Company": "Basalt Energy",
+      "Email": "neha.gupta174@example.com",
+      "Expected CTC": 4540000,
+      "Full Name": "Neha Gupta",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9485090673",
+      "Source": "Job Board",
+      "Years Experience": 7.9
+    },
+    "id": "recuXSFp8W63Vaxki"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "rec6peHh5DoungjGv"
+      ],
+      "Candidate ID": "CAND-00202",
+      "City": "Pune",
+      "Created On": "2025-06-02",
+      "Current CTC": 1560000,
+      "Current Company": "Tidewater Logistics",
+      "Email": "aditi.menon201@example.com",
+      "Expected CTC": 1750000,
+      "Full Name": "Aditi Menon",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9173826942",
+      "Source": "Job Board",
+      "Years Experience": 4.8
+    },
+    "id": "recueJ1H8RmdcFUTx"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:28.000Z",
+    "fields": {
+      "Applications": [
+        "recTvWfsyXelUDsiC"
+      ],
+      "Candidate ID": "CAND-00273",
+      "City": "Noida",
+      "Created On": "2026-07-19",
+      "Current CTC": 300000,
+      "Current Company": "Kettle & Co",
+      "Email": "simran.jain272@example.com",
+      "Expected CTC": 430000,
+      "Full Name": "Simran Jain",
+      "Notice Period Days": 30,
+      "Phone": "+91 9532811925",
+      "Source": "Job Board",
+      "Years Experience": 0
+    },
+    "id": "recv7uOyRrigld7Fd"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:13.000Z",
+    "fields": {
+      "Applications": [
+        "recwtKmNj2n1Xe36T",
+        "recM987VNlQ0cKbu3"
+      ],
+      "Candidate ID": "CAND-00021",
+      "City": "Noida",
+      "Created On": "2025-09-17",
+      "Current CTC": 610000,
+      "Current Company": "Meridian Health",
+      "Email": "yash.singh20@example.com",
+      "Expected CTC": 790000,
+      "Full Name": "Yash Singh",
+      "Notice Period Days": 30,
+      "Phone": "+91 9416167596",
+      "Source": "Job Board",
+      "Years Experience": 1.6
+    },
+    "id": "recv9CDLQUvl5XERG"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "rec1VdEJeKJcPDrha"
+      ],
+      "Candidate ID": "CAND-00147",
+      "City": "Mumbai",
+      "Created On": "2025-06-01",
+      "Current CTC": 2220000,
+      "Current Company": "Quillion",
+      "Email": "chetan.mishra146@example.com",
+      "Expected CTC": 2710000,
+      "Full Name": "Chetan Mishra",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9256957920",
+      "Source": "Job Board",
+      "Years Experience": 10.5
+    },
+    "id": "recvKErLUjJgR7sY4"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:25.000Z",
+    "fields": {
+      "Applications": [
+        "recHlHHOMl1lKNj9P"
+      ],
+      "Candidate ID": "CAND-00209",
+      "City": "Chennai",
+      "Created On": "2026-07-03",
+      "Current CTC": 970000,
+      "Current Company": "Meridian Health",
+      "Email": "shreya.iyer208@example.com",
+      "Expected CTC": 1250000,
+      "Full Name": "Shreya Iyer",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 15,
+      "Phone": "+91 9117167836",
+      "Source": "Job Board",
+      "Years Experience": 4.2
+    },
+    "id": "recw2f4WLBjYTLjpC"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "recT8sPMEmWR2Jw3h"
+      ],
+      "Candidate ID": "CAND-00059",
+      "City": "Pune",
+      "Created On": "2025-10-21",
+      "Current CTC": 1740000,
+      "Current Company": "Zenlytics",
+      "Email": "rakesh.shah58@example.com",
+      "Expected CTC": 2090000,
+      "Full Name": "Rakesh Shah",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9406647284",
+      "Source": "Career Site",
+      "Years Experience": 4.8
+    },
+    "id": "recwn8RRuADmW6k0k"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:15.000Z",
+    "fields": {
+      "Applications": [
+        "recf4k6ym9Cl8Cz6O"
+      ],
+      "Candidate ID": "CAND-00052",
+      "City": "Bengaluru",
+      "Created On": "2025-12-15",
+      "Current CTC": 1850000,
+      "Current Company": "Meridian Health",
+      "Email": "marcus.kowalski51@example.com",
+      "Expected CTC": 2790000,
+      "Full Name": "Marcus Kowalski",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9343467434",
+      "Source": "Career Site",
+      "Years Experience": 7.2
+    },
+    "id": "recx16izKMDD3St88"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:12.000Z",
+    "fields": {
+      "Applications": [
+        "reckLPXA8xRgWsC1l",
+        "recbREVW4oalJ8QXB"
+      ],
+      "Candidate ID": "CAND-00003",
+      "City": "Pune",
+      "Created On": "2026-05-30",
+      "Current CTC": 2120000,
+      "Current Company": "Meridian Health",
+      "Email": "aarav.menon2@example.com",
+      "Expected CTC": 1395659,
+      "Full Name": "Aarav Menon",
+      "Notes": "Currently on a notice period; flexible on start date.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9179627814",
+      "Source": "Job Board",
+      "Years Experience": 7.6
+    },
+    "id": "recx4ndA3SWBtMoEL"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "rec3yWsIrN6Fqqidv",
+        "recGBuBnWhJkCTNIm"
+      ],
+      "Candidate ID": "CAND-00031",
+      "City": "Mumbai",
+      "Created On": "2025-04-29",
+      "Current CTC": 2530000,
+      "Current Company": "Marigold Foods",
+      "Email": "ankit.bansal30@example.com",
+      "Expected CTC": 3010000,
+      "Full Name": "Ankit Bansal",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9852248396",
+      "Source": "Job Board",
+      "Years Experience": 12.2
+    },
+    "id": "recxIC0hGD9S3tgpO"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "recPpd93vTUyron7j"
+      ],
+      "Candidate ID": "CAND-00167",
+      "City": "Bengaluru",
+      "Created On": "2026-03-30",
+      "Current CTC": 630000,
+      "Current Company": "Quillion",
+      "Email": "anjali.pandey166@example.com",
+      "Expected CTC": 790000,
+      "Full Name": "Anjali Pandey",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9560833518",
+      "Source": "Job Board",
+      "Years Experience": 1.6
+    },
+    "id": "recxVqJ1Fm4rYwzyC"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:16.000Z",
+    "fields": {
+      "Applications": [
+        "recQNbHZfvfDfzy1U"
+      ],
+      "Candidate ID": "CAND-00069",
+      "City": "Bengaluru",
+      "Created On": "2025-05-07",
+      "Current CTC": 920000,
+      "Current Company": "Redthread",
+      "Email": "neha.kapoor68@example.com",
+      "Expected CTC": 1480000,
+      "Full Name": "Neha Kapoor",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9584998291",
+      "Source": "Career Site",
+      "Years Experience": 3.2
+    },
+    "id": "recxyn8S4bK5KktOu"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "recZtyzN0mSmVl67k",
+        "recTv8A8ZyAHi3TAa"
+      ],
+      "Candidate ID": "CAND-00033",
+      "City": "Mumbai",
+      "Created On": "2026-01-18",
+      "Current CTC": 1320000,
+      "Current Company": "Harbourline",
+      "Email": "pranav.tiwari32@example.com",
+      "Expected CTC": 1610000,
+      "Full Name": "Pranav Tiwari",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9365880497",
+      "Source": "Job Board",
+      "Years Experience": 4.8
+    },
+    "id": "recy0CPdctsgCLZA7"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:24.000Z",
+    "fields": {
+      "Applications": [
+        "recmp9OGqDBkzjCDx"
+      ],
+      "Candidate ID": "CAND-00190",
+      "City": "Pune",
+      "Created On": "2025-08-03",
+      "Current CTC": 300000,
+      "Current Company": "Kettle & Co",
+      "Email": "shreya.menon189@example.com",
+      "Expected CTC": 370000,
+      "Full Name": "Shreya Menon",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 0,
+      "Phone": "+91 9716546779",
+      "Source": "Job Board",
+      "Years Experience": 0
+    },
+    "id": "recy18LPKdvnmNGcG"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:18.000Z",
+    "fields": {
+      "Applications": [
+        "recBa6uZPp6qFpub1"
+      ],
+      "Candidate ID": "CAND-00099",
+      "City": "Remote",
+      "Created On": "2026-05-05",
+      "Current CTC": 1380000,
+      "Current Company": "Kettle & Co",
+      "Email": "akash.singh98@example.com",
+      "Expected CTC": 1770000,
+      "Full Name": "Akash Singh",
+      "Notice Period Days": 30,
+      "Phone": "+91 9565474697",
+      "Source": "Agency",
+      "Years Experience": 5
+    },
+    "id": "recy5urd3WnYOBfkd"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:26.000Z",
+    "fields": {
+      "Applications": [
+        "recFnaFpEhCywsWwl"
+      ],
+      "Candidate ID": "CAND-00229",
+      "City": "Remote",
+      "Created On": "2026-06-26",
+      "Current CTC": 630000,
+      "Current Company": "Vantage Mobility",
+      "Email": "deepak.saxena228@example.com",
+      "Expected CTC": 710000,
+      "Full Name": "Deepak Saxena",
+      "Notes": "Reached out again after an earlier rejection.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9738986449",
+      "Source": "Job Board",
+      "Years Experience": 1.6
+    },
+    "id": "recyK7H1fZiP9Z1Yi"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Applications": [
+        "recgBIfd9Cs8a3WsD"
+      ],
+      "Candidate ID": "CAND-00299",
+      "City": "Pune",
+      "Created On": "2025-11-10",
+      "Current CTC": 1090000,
+      "Current Company": "Copperfield Bank",
+      "Email": "deepak.shah298@example.com",
+      "Expected CTC": 1260000,
+      "Full Name": "Deepak Shah",
+      "Notice Period Days": 15,
+      "Phone": "+91 9780779874",
+      "Source": "Job Board",
+      "Years Experience": 4
+    },
+    "id": "recyLHo5Dz0x6HKZS"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Applications": [
+        "reciNqlMlx5mYgt5N",
+        "rec5wIXqujmTJTRDz"
+      ],
+      "Candidate ID": "CAND-00002",
+      "City": "Noida",
+      "Created On": "2026-06-07",
+      "Current CTC": 420000,
+      "Current Company": "Parable Systems",
+      "Email": "v.sharma@example.com",
+      "Expected CTC": 286858,
+      "Full Name": "Varun Sharma",
+      "Notice Period Days": 30,
+      "Phone": "+91 9390171253",
+      "Source": "Referral",
+      "Years Experience": 1.1
+    },
+    "id": "recyRCSer7xBH1pe3"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "recWZy57TjJYkmsOT"
+      ],
+      "Candidate ID": "CAND-00161",
+      "City": "Chennai",
+      "Created On": "2025-05-15",
+      "Current CTC": 1730000,
+      "Current Company": "Basalt Energy",
+      "Email": "mohit.menon160@example.com",
+      "Expected CTC": 2580000,
+      "Full Name": "Mohit Menon",
+      "Notes": "Asked about remote policy in the first call.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9831571567",
+      "Source": "Job Board",
+      "Years Experience": 8.2
+    },
+    "id": "recyWVk3xu2xFxIxC"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:30.000Z",
+    "fields": {
+      "Applications": [
+        "rec0yM3MdyWBDkjXA",
+        "reclkeeZCve9HMAWx"
+      ],
+      "Candidate ID": "CAND-00015",
+      "City": "Bengaluru",
+      "Created On": "2026-01-06",
+      "Current CTC": 300000,
+      "Current Company": "Parable Systems",
+      "Email": "sneha.shah14@example.com",
+      "Expected CTC": 320000,
+      "Full Name": "Sneha Shah",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9127290442",
+      "Source": "Referral",
+      "Years Experience": 0
+    },
+    "id": "recykIELP765EIWgr"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:22.000Z",
+    "fields": {
+      "Applications": [
+        "recZX0JdwUU14z5kJ"
+      ],
+      "Candidate ID": "CAND-00165",
+      "City": "Hyderabad",
+      "Created On": "2026-08-24",
+      "Current CTC": 630000,
+      "Current Company": "Harbourline",
+      "Email": "rakesh.tiwari164@example.com",
+      "Expected CTC": 910000,
+      "Full Name": "Rakesh Tiwari",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9328573803",
+      "Source": "Job Board",
+      "Years Experience": 1.7
+    },
+    "id": "recyqM8A81lOfPFNg"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:14.000Z",
+    "fields": {
+      "Applications": [
+        "recMJeC1woaF55azF",
+        "recTuo7BwM8gORZ7a"
+      ],
+      "Candidate ID": "CAND-00042",
+      "City": "Chennai",
+      "Created On": "2026-04-09",
+      "Current CTC": 2360000,
+      "Current Company": "Kettle & Co",
+      "Email": "anjali.desai41@example.com",
+      "Expected CTC": 2950000,
+      "Full Name": "Anjali Desai",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9203473518",
+      "Source": "Job Board",
+      "Years Experience": 5.2
+    },
+    "id": "recz1vUl2BPha8i30"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:19.000Z",
+    "fields": {
+      "Applications": [
+        "recGT7c3ISkPwUCXK"
+      ],
+      "Candidate ID": "CAND-00123",
+      "City": "Remote",
+      "Created On": "2025-10-12",
+      "Current CTC": 1010000,
+      "Current Company": "Bluestone Labs",
+      "Email": "aarav.saxena122@example.com",
+      "Expected CTC": 1200000,
+      "Full Name": "Aarav Saxena",
+      "Notes": "Applied to two openings; consolidated onto the more senior one.",
+      "Notice Period Days": 90,
+      "Phone": "+91 9918674119",
+      "Source": "Job Board",
+      "Years Experience": 2.9
+    },
+    "id": "recz38B0e1RnuUfJf"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:29.000Z",
+    "fields": {
+      "Applications": [
+        "rec6towTNzRkmKpCB"
+      ],
+      "Candidate ID": "CAND-00292",
+      "City": "Chennai",
+      "Created On": "2025-05-09",
+      "Current CTC": 2040000,
+      "Current Company": "Tidewater Logistics",
+      "Email": "marcus.nguyen291@example.com",
+      "Expected CTC": 3080000,
+      "Full Name": "Marcus Nguyen",
+      "Notes": "Strong portfolio, thin on formal experience.",
+      "Notice Period Days": 30,
+      "Phone": "+91 9577811016",
+      "Source": "LinkedIn",
+      "Years Experience": 6.8
+    },
+    "id": "reczXCXFHFKSTMfFg"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:21.000Z",
+    "fields": {
+      "Applications": [
+        "recZYhkHKu9pWgPhM"
+      ],
+      "Candidate ID": "CAND-00150",
+      "City": "Bengaluru",
+      "Created On": "2025-07-06",
+      "Current CTC": 1100000,
+      "Current Company": "Quillion",
+      "Email": "arun.pillai149@example.com",
+      "Expected CTC": 1410000,
+      "Full Name": "Arun Pillai",
+      "Notes": "Sourced from a conference list. Responsive over email.",
+      "Notice Period Days": 60,
+      "Phone": "+91 9499673641",
+      "Source": "Job Board",
+      "Years Experience": 5.9
+    },
+    "id": "reczsReFqnRS35O6T"
+  }
+]

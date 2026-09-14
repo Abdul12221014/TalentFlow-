@@ -1,0 +1,3130 @@
+[
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "recWSyX6zpp2z2jeU"
+      ],
+      "Completed On": "2026-07-30",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00140",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-07-30",
+      "Score": 2
+    },
+    "id": "rec056WQB9R3OBalD"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "recsaQK77orZxyElt"
+      ],
+      "Completed On": "2026-07-16",
+      "Feedback": "Could not complete the exercise. Defensive when given a hint.",
+      "Interview ID": "INT-00063",
+      "Interviewer": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-07-16",
+      "Score": 1
+    },
+    "id": "rec07mjPeN9h2vpHU"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "rec6M0WIvxnaajd9e"
+      ],
+      "Completed On": "2026-03-31",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00087",
+      "Interviewer": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-03-31",
+      "Score": 2.8
+    },
+    "id": "rec0sok5dEvDk8RXw"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "rec3yWsIrN6Fqqidv"
+      ],
+      "Completed On": "2026-06-10",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00016",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-06-10",
+      "Score": 1.6
+    },
+    "id": "rec0vt56b6EWNplhN"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "recShkIbK2nW4OAU1"
+      ],
+      "Completed On": "2026-05-24",
+      "Feedback": "Solid fundamentals. Needed a hint on the follow-up but recovered well.",
+      "Interview ID": "INT-00105",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-05-24",
+      "Score": 3.9
+    },
+    "id": "rec0yYjYwNgfxH1Bg"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "reczMtSCSFBNKrqB5"
+      ],
+      "Completed On": "2025-09-05",
+      "Feedback": "Answers stayed surface level even after probing.",
+      "Interview ID": "INT-00069",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2025-09-05",
+      "Score": 2.6
+    },
+    "id": "rec1kwpwPw7wBOLmV"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "recUTm4vFe46Ns02w"
+      ],
+      "Completed On": "2025-10-20",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00128",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2025-10-20",
+      "Score": 1.8
+    },
+    "id": "rec20altZurBKlPm8"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "recgrME10OXKxRXqT"
+      ],
+      "Completed On": "2026-06-05",
+      "Feedback": "Excellent depth on system design. Explained trade-offs without prompting.",
+      "Interview ID": "INT-00055",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-05",
+      "Score": 4.8
+    },
+    "id": "rec2H0X11D99A2N0W"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "recCdljIHamvPiU2p"
+      ],
+      "Completed On": "2025-12-31",
+      "Feedback": "Significant gaps against the level. Not close on the fundamentals.",
+      "Interview ID": "INT-00023",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2025-12-31",
+      "Score": 1.5
+    },
+    "id": "rec2ZE3AbCeLUHXwP"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:59.000Z",
+    "fields": {
+      "Application": [
+        "recr1FjDoXlTNKcpl"
+      ],
+      "Completed On": "2026-06-12",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00148",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Bar Raiser",
+      "Scheduled On": "2026-06-12",
+      "Score": 2.2
+    },
+    "id": "rec2gpiVrsvM5vGCu"
+  },
+  {
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Application": [
+        "recbREVW4oalJ8QXB"
+      ],
+      "Completed On": "2025-10-09",
+      "Feedback": "Could not complete the exercise. Defensive when given a hint.",
+      "Interview ID": "INT-00157",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Hiring Manager",
+      "Scheduled On": "2025-10-09",
+      "Score": 1
+    },
+    "id": "rec2mRYMmurdljSLU"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:55.000Z",
+    "fields": {
+      "Application": [
+        "recu5mYbm4uMVFE2O"
+      ],
+      "Completed On": "2026-04-30",
+      "Feedback": "Good practical experience. Some gaps in scale but coachable.",
+      "Interview ID": "INT-00076",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-04-30",
+      "Score": 4
+    },
+    "id": "rec3QaiKrE9r17ufJ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "rechMutCGiow0kYsV"
+      ],
+      "Interview ID": "INT-00083",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "No Show",
+      "Round": "Screen",
+      "Scheduled On": "2026-07-03"
+    },
+    "id": "rec3ot9nNVBv0TIKh"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "recEuaFfA6nJGwXel"
+      ],
+      "Completed On": "2026-07-02",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00125",
+      "Interviewer": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-07-02",
+      "Score": 2
+    },
+    "id": "rec3rhEiv7h1tIiTd"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "recKtJZtnIkqZ5GIc"
+      ],
+      "Interview ID": "INT-00049",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Rescheduled",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-04-26"
+    },
+    "id": "rec3ziD2BAPJxC0o6"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "recAbEYagijPpEDEY"
+      ],
+      "Completed On": "2026-07-14",
+      "Feedback": "Clear communicator, solved the problem two ways and compared them.",
+      "Interview ID": "INT-00044",
+      "Interviewer": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-07-14",
+      "Score": 4.7
+    },
+    "id": "rec4FG9GzQviyNErb"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "recTAML9ojeuFSdoF"
+      ],
+      "Completed On": "2026-06-09",
+      "Feedback": "Reasonable answers throughout. No red flags.",
+      "Interview ID": "INT-00097",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-06-09",
+      "Score": 3.2
+    },
+    "id": "rec4LubWi3xgMrVHc"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "recaFt6waPJsgv4Ct"
+      ],
+      "Completed On": "2025-09-25",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00132",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2025-09-25",
+      "Score": 1.4
+    },
+    "id": "rec4g73EmVlGgvWVe"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Application": [
+        "reckLPXA8xRgWsC1l"
+      ],
+      "Completed On": "2025-12-20",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00002",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Cancelled",
+      "Recommendation": "Strong No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2025-12-20",
+      "Score": 1.8
+    },
+    "id": "rec4ut1NFvwq5AiNs"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Application": [
+        "rec0yM3MdyWBDkjXA"
+      ],
+      "Completed On": "2026-05-03",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00007",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-05-03",
+      "Score": 1.7
+    },
+    "id": "rec4zFi7LaW1LvjPZ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:55.000Z",
+    "fields": {
+      "Application": [
+        "recwQvsOOtVNFtfd6"
+      ],
+      "Completed On": "2026-06-08",
+      "Feedback": "Answers stayed surface level even after probing.",
+      "Interview ID": "INT-00072",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-08",
+      "Score": 2.6
+    },
+    "id": "rec6eWNBWnSVBcyG1"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "recM987VNlQ0cKbu3"
+      ],
+      "Completed On": "2026-04-30",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00126",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-04-30",
+      "Score": 1.4
+    },
+    "id": "rec6oVXx4yzxz45Dw"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "recCBinek7jNABwCa"
+      ],
+      "Completed On": "2026-04-11",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00104",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-04-11",
+      "Score": 1
+    },
+    "id": "rec6u0SNmvSL4HRlv"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "recteo4spjSG5Kgwd"
+      ],
+      "Completed On": "2026-07-25",
+      "Feedback": "Solid fundamentals. Needed a hint on the follow-up but recovered well.",
+      "Interview ID": "INT-00013",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-07-28",
+      "Score": 4.1
+    },
+    "id": "rec7SL2jo8M7TwS6x"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Application": [
+        "reciNqlMlx5mYgt5N"
+      ],
+      "Interview ID": "INT-00001",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Rescheduled",
+      "Round": "Screen",
+      "Scheduled On": "2025-10-26"
+    },
+    "id": "rec7qVu8f3RaIBtSW"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "recfTaOlRbflMgEDZ"
+      ],
+      "Completed On": "2026-04-06",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00130",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-04-06",
+      "Score": 1.2
+    },
+    "id": "rec96hJkgvN1UZueg"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "rechnInK82XF4MJmq"
+      ],
+      "Completed On": "2026-07-15",
+      "Feedback": "Could not complete the exercise. Defensive when given a hint.",
+      "Interview ID": "INT-00014",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-07-15",
+      "Score": 1.5
+    },
+    "id": "rec9V1QdYSKZTL4jE"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "recNgih4faJbKDtQE"
+      ],
+      "Completed On": "2026-03-09",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00119",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-03-09",
+      "Score": 2.7
+    },
+    "id": "rec9XmjERM9wSD5Vc"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:55.000Z",
+    "fields": {
+      "Application": [
+        "recgpzPd3FeSLRSpw"
+      ],
+      "Completed On": "2026-06-18",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00080",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-18",
+      "Score": 1.6
+    },
+    "id": "rec9wLhXEjl01moAo"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "recxWAKEkpJ1IL4qg"
+      ],
+      "Completed On": "2025-12-10",
+      "Feedback": "Struggled with the core problem. Could not explain their own prior work.",
+      "Interview ID": "INT-00046",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2025-12-10",
+      "Score": 3.1
+    },
+    "id": "recA8aRHHtqhoIUF8"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "rec5wIXqujmTJTRDz"
+      ],
+      "Completed On": "2026-01-28",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00120",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-01-28",
+      "Score": 2.3
+    },
+    "id": "recAILRzZAdYkye5y"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:59.000Z",
+    "fields": {
+      "Application": [
+        "recCPGIfZwJpFdhnM"
+      ],
+      "Interview ID": "INT-00147",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Cancelled",
+      "Round": "Bar Raiser",
+      "Scheduled On": "2026-05-30"
+    },
+    "id": "recAgYOr7M9ijPcuK"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:55.000Z",
+    "fields": {
+      "Application": [
+        "recr1FjDoXlTNKcpl"
+      ],
+      "Completed On": "2026-06-08",
+      "Feedback": "Good practical experience. Some gaps in scale but coachable.",
+      "Interview ID": "INT-00078",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-08",
+      "Score": 3.9
+    },
+    "id": "recC38c85AnZPOa1L"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "recDfVyRO74zcRaUv"
+      ],
+      "Interview ID": "INT-00054",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "No Show",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-08-06"
+    },
+    "id": "recCCYrNgXTci8TjZ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:59.000Z",
+    "fields": {
+      "Application": [
+        "recWxgJFdyMJoe101"
+      ],
+      "Completed On": "2026-05-10",
+      "Feedback": "Could not complete the exercise. Defensive when given a hint.",
+      "Interview ID": "INT-00145",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Hiring Manager",
+      "Scheduled On": "2026-05-10",
+      "Score": 4.5
+    },
+    "id": "recCEW4SFK0b2KN7C"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "recx0Lu59vy664xAT"
+      ],
+      "Completed On": "2026-05-17",
+      "Feedback": "Clear communicator, solved the problem two ways and compared them.",
+      "Interview ID": "INT-00107",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-05-17",
+      "Score": 4.1
+    },
+    "id": "recCUHcdg22QrX5v5"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "rec2Pe5ybeqwR9GMi"
+      ],
+      "Interview ID": "INT-00031",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "No Show",
+      "Round": "Technical 1",
+      "Scheduled On": "2025-11-13"
+    },
+    "id": "recCnGdxfsf5m9HpY"
+  },
+  {
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Application": [
+        "reckKPw0f6RVy2xyO"
+      ],
+      "Completed On": "2025-12-25",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00154",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Hiring Manager",
+      "Scheduled On": "2025-12-25",
+      "Score": 2.5
+    },
+    "id": "recCo5HU1SbFu6uZv"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "rec1VdEJeKJcPDrha"
+      ],
+      "Completed On": "2026-04-05",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00058",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-04-05",
+      "Score": 1.5
+    },
+    "id": "recDJ661cqkffF4ar"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "recCPGIfZwJpFdhnM"
+      ],
+      "Completed On": "2026-05-10",
+      "Feedback": "Excellent depth on system design. Explained trade-offs without prompting.",
+      "Interview ID": "INT-00021",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-05-10",
+      "Score": 5
+    },
+    "id": "recDOvFu4nVne6F58"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "rectkjxsh4uGWNykj"
+      ],
+      "Completed On": "2026-06-08",
+      "Feedback": "Clear communicator, solved the problem two ways and compared them.",
+      "Interview ID": "INT-00137",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-08",
+      "Score": 4.2
+    },
+    "id": "recDvwqrsOxNp84Ta"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "recbREVW4oalJ8QXB"
+      ],
+      "Completed On": "2025-10-04",
+      "Feedback": "Answers stayed surface level even after probing.",
+      "Interview ID": "INT-00121",
+      "Interviewer": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2025-10-04",
+      "Score": 2.6
+    },
+    "id": "recFe81wmXCtcl687"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "recJlSS5dXchVubxO"
+      ],
+      "Completed On": "2026-05-25",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00114",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-05-25",
+      "Score": 1.2
+    },
+    "id": "recG8QQKiRoLY2O9Y"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "rec4tIAjfR9uo9mk7"
+      ],
+      "Interview ID": "INT-00093",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Cancelled",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-03"
+    },
+    "id": "recGUDnUCjQZBbYeO"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "reclcNbf9SnO98Vbi"
+      ],
+      "Completed On": "2026-03-31",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00048",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-03-31",
+      "Score": 3.4
+    },
+    "id": "recGgUIlFvgQyKtzd"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "recyxlSQULfaakULY"
+      ],
+      "Completed On": "2026-04-06",
+      "Feedback": "Struggled with the core problem. Could not explain their own prior work.",
+      "Interview ID": "INT-00129",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-04-06",
+      "Score": 1.9
+    },
+    "id": "recH8Jl0EnikBkY06"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "rechzU39BX1VZbMQu"
+      ],
+      "Completed On": "2026-07-18",
+      "Feedback": "Solid fundamentals. Needed a hint on the follow-up but recovered well.",
+      "Interview ID": "INT-00095",
+      "Interviewer": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-07-18",
+      "Score": 2.9
+    },
+    "id": "recHIDB6leK2VlW5H"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "recXD3bchspEJMPgF"
+      ],
+      "Completed On": "2026-06-17",
+      "Feedback": "Good practical experience. Some gaps in scale but coachable.",
+      "Interview ID": "INT-00064",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-17",
+      "Score": 3.8
+    },
+    "id": "recHi00FWyvCEhASD"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "recJ9qRWl1tCTNUjR"
+      ],
+      "Completed On": "2026-05-18",
+      "Feedback": "Struggled with the core problem. Could not explain their own prior work.",
+      "Interview ID": "INT-00100",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-05-18",
+      "Score": 3.4
+    },
+    "id": "recIrprBZmYXKvoXi"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "rect4WxvR2TvMdhxV"
+      ],
+      "Completed On": "2026-03-23",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00035",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-03-23",
+      "Score": 1.2
+    },
+    "id": "recJ6HWZk1gxSv1AC"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "reckCcrFYbLgERpDO"
+      ],
+      "Completed On": "2026-01-15",
+      "Feedback": "Struggled with the core problem. Could not explain their own prior work.",
+      "Interview ID": "INT-00110",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-01-15",
+      "Score": 2.4
+    },
+    "id": "recJhqjixPXdmxQgy"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "recoQ4eljmgHiNlaT"
+      ],
+      "Completed On": "2026-03-21",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00053",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-03-21",
+      "Score": 2.1
+    },
+    "id": "recK1boLMvk7gLcXI"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "rec6towTNzRkmKpCB"
+      ],
+      "Completed On": "2026-05-16",
+      "Feedback": "Struggled with the core problem. Could not explain their own prior work.",
+      "Interview ID": "INT-00115",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-05-16",
+      "Score": 2.6
+    },
+    "id": "recKdUPLv39e6A7OL"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "recZuz7sr2fpSPd5U"
+      ],
+      "Completed On": "2026-05-31",
+      "Feedback": "Strongest candidate in this loop. Would hire on the spot.",
+      "Interview ID": "INT-00112",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-05-31",
+      "Score": 4.9
+    },
+    "id": "recL2zdQWGVjNA0RZ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "recbNY3B2mWPRFPdB"
+      ],
+      "Completed On": "2026-05-22",
+      "Feedback": "Solid fundamentals. Needed a hint on the follow-up but recovered well.",
+      "Interview ID": "INT-00085",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-05-22",
+      "Score": 4.5
+    },
+    "id": "recL6HbKOiEcfK6zh"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "recrrfZqvvgi2GjpB"
+      ],
+      "Completed On": "2026-07-13",
+      "Feedback": "Struggled with the core problem. Could not explain their own prior work.",
+      "Interview ID": "INT-00022",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-07-13",
+      "Score": 2.8
+    },
+    "id": "recL86le4vtE35fpn"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "recmpmJRqVU7AMHJ2"
+      ],
+      "Completed On": "2025-09-12",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00040",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2025-09-12",
+      "Score": 2.7
+    },
+    "id": "recL8ub1iPRexGDV3"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "recFnaFpEhCywsWwl"
+      ],
+      "Completed On": "2026-05-12",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00094",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-05-12",
+      "Score": 3.6
+    },
+    "id": "recLY0SvgSbmv8VCT"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "recDYP2CZcx7nuGNm"
+      ],
+      "Completed On": "2026-06-23",
+      "Feedback": "Struggled with the core problem. Could not explain their own prior work.",
+      "Interview ID": "INT-00020",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-23",
+      "Score": 2.1
+    },
+    "id": "recLc4q6VnXMH4q3x"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "recOw5S3niDaulLoE"
+      ],
+      "Completed On": "2026-01-15",
+      "Feedback": "Strongest candidate in this loop. Would hire on the spot.",
+      "Interview ID": "INT-00111",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-01-15",
+      "Score": 3.8
+    },
+    "id": "recMUAgaQlM5vbA8a"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "rec5EHcqYRoWmEZKL"
+      ],
+      "Completed On": "2026-06-22",
+      "Feedback": "Strongest candidate in this loop. Would hire on the spot.",
+      "Interview ID": "INT-00116",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-22",
+      "Score": 3.9
+    },
+    "id": "recN0zmfdmpuIwm6S"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "recRmWbRbxcPOUxrC"
+      ],
+      "Completed On": "2026-05-12",
+      "Feedback": "Could not complete the exercise. Defensive when given a hint.",
+      "Interview ID": "INT-00067",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-05-12",
+      "Score": 1
+    },
+    "id": "recN7IXU1MJKqC4Tc"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "recxs6FshN7Ughb5b"
+      ],
+      "Completed On": "2026-06-28",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00032",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-06-28",
+      "Score": 1.8
+    },
+    "id": "recNK238350MhxvUi"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "recrCOYOF6KWpUmqW"
+      ],
+      "Completed On": "2026-01-23",
+      "Feedback": "Excellent depth on system design. Explained trade-offs without prompting.",
+      "Interview ID": "INT-00017",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-01-23",
+      "Score": 4.8
+    },
+    "id": "recNXbAlWs1NmBBAT"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "reclvmFsKkhQ8xGyW"
+      ],
+      "Completed On": "2026-02-28",
+      "Feedback": "Reasonable answers throughout. No red flags.",
+      "Interview ID": "INT-00045",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-02-28",
+      "Score": 4.8
+    },
+    "id": "recNiAvP05JxuHS9J"
+  },
+  {
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Application": [
+        "recvYxw0fYaudKGlO"
+      ],
+      "Completed On": "2026-06-06",
+      "Feedback": "Solid fundamentals. Needed a hint on the follow-up but recovered well.",
+      "Interview ID": "INT-00158",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Bar Raiser",
+      "Scheduled On": "2026-06-06",
+      "Score": 4.1
+    },
+    "id": "recNisf0nalrAbi6j"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "recCSHD8xCQBZ5QXA"
+      ],
+      "Completed On": "2026-06-13",
+      "Feedback": "Struggled with the core problem. Could not explain their own prior work.",
+      "Interview ID": "INT-00136",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-06-13",
+      "Score": 2
+    },
+    "id": "recOROl49QMaytwBj"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:55.000Z",
+    "fields": {
+      "Application": [
+        "recFWL62cHiMjCN1w"
+      ],
+      "Completed On": "2026-01-25",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00073",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-01-25",
+      "Score": 4.5
+    },
+    "id": "recOdFXKRnehtC5Kz"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "reclRucrAH5sJJpTb"
+      ],
+      "Interview ID": "INT-00043",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "No Show",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-10"
+    },
+    "id": "recPO7rDD2RaicVGc"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "recCeQ8EDYbkRp312"
+      ],
+      "Completed On": "2025-11-30",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00124",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2025-11-30",
+      "Score": 2.1
+    },
+    "id": "recPSCPhsRA44Uk30"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "recH5dTJ9BzdKYvc1"
+      ],
+      "Completed On": "2026-06-12",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00018",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-06-12",
+      "Score": 2.4
+    },
+    "id": "recPisFoFDz06MQxK"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "reclknN0dV51IQY7K"
+      ],
+      "Completed On": "2026-04-24",
+      "Feedback": "Reasonable answers throughout. No red flags.",
+      "Interview ID": "INT-00109",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-04-24",
+      "Score": 4.1
+    },
+    "id": "recQUGOeYfZjz4zTE"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "recGdC91TC4ICTdyu"
+      ],
+      "Interview ID": "INT-00037",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Rescheduled",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-04-30"
+    },
+    "id": "recR3yIVKGYmWIWu5"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:59.000Z",
+    "fields": {
+      "Application": [
+        "recZhULRett5ltIvH"
+      ],
+      "Completed On": "2026-06-23",
+      "Feedback": "Reasonable answers throughout. No red flags.",
+      "Interview ID": "INT-00141",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-23",
+      "Score": 4
+    },
+    "id": "recRAMhy7gBahR6cD"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "recZKgvnqrieblhZ8"
+      ],
+      "Completed On": "2025-10-12",
+      "Feedback": "Answers stayed surface level even after probing.",
+      "Interview ID": "INT-00042",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2025-10-12",
+      "Score": 2.4
+    },
+    "id": "recRVHJVPfuqzdraL"
+  },
+  {
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Application": [
+        "rec5EHcqYRoWmEZKL"
+      ],
+      "Completed On": "2026-06-29",
+      "Feedback": "Excellent depth on system design. Explained trade-offs without prompting.",
+      "Interview ID": "INT-00156",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Technical 2",
+      "Scheduled On": "2026-06-29",
+      "Score": 4.9
+    },
+    "id": "recRW0l7bmea10ide"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "recsXHlBWuLQDcVQC"
+      ],
+      "Completed On": "2026-04-26",
+      "Feedback": "Could not complete the exercise. Defensive when given a hint.",
+      "Interview ID": "INT-00056",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-04-26",
+      "Score": 1
+    },
+    "id": "recS98Qq2HETblHsf"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Application": [
+        "rec3do5Lr0vNEt35R"
+      ],
+      "Completed On": "2026-05-02",
+      "Feedback": "Strongest candidate in this loop. Would hire on the spot.",
+      "Interview ID": "INT-00006",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-05-02",
+      "Score": 4
+    },
+    "id": "recSdGEuTsriCZXgs"
+  },
+  {
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Application": [
+        "recCeQ8EDYbkRp312"
+      ],
+      "Completed On": "2025-12-16",
+      "Feedback": "Solid fundamentals. Needed a hint on the follow-up but recovered well.",
+      "Interview ID": "INT-00153",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Bar Raiser",
+      "Scheduled On": "2025-12-16",
+      "Score": 4.2
+    },
+    "id": "recTD5qADIMSLF3rn"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "recxk4AzL8ntHG13g"
+      ],
+      "Completed On": "2026-07-01",
+      "Feedback": "Solid fundamentals. Needed a hint on the follow-up but recovered well.",
+      "Interview ID": "INT-00060",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-07-01",
+      "Score": 4
+    },
+    "id": "recTPvSkdvJQlM5KO"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "recwP2FumcSYmnZP8"
+      ],
+      "Completed On": "2025-12-17",
+      "Feedback": "Good practical experience. Some gaps in scale but coachable.",
+      "Interview ID": "INT-00090",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Screen",
+      "Scheduled On": "2025-12-17",
+      "Score": 3.4
+    },
+    "id": "recU6qaPncbF3hmUy"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "rec4ll7eaOYuZhPak"
+      ],
+      "Completed On": "2026-06-09",
+      "Feedback": "Solid fundamentals. Needed a hint on the follow-up but recovered well.",
+      "Interview ID": "INT-00034",
+      "Interviewer": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-09",
+      "Score": 4
+    },
+    "id": "recU9RJQ0r0AtNLLk"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "recyET1rOj1gPmIkT"
+      ],
+      "Completed On": "2026-04-26",
+      "Feedback": "Reasonable answers throughout. No red flags.",
+      "Interview ID": "INT-00113",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-04-26",
+      "Score": 3.9
+    },
+    "id": "recUCCOaylrzzduFW"
+  },
+  {
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Application": [
+        "reclMghrkElLbrFAk"
+      ],
+      "Completed On": "2025-10-16",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00152",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Bar Raiser",
+      "Scheduled On": "2025-10-16",
+      "Score": 2.9
+    },
+    "id": "recV7R9AJQ2743YBu"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "reclMghrkElLbrFAk"
+      ],
+      "Completed On": "2025-10-11",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00135",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2025-10-11",
+      "Score": 1.9
+    },
+    "id": "recVV9VxNXmpWxxNp"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "recpTfLaxtqwd6Zml"
+      ],
+      "Completed On": "2026-04-16",
+      "Feedback": "Solid fundamentals. Needed a hint on the follow-up but recovered well.",
+      "Interview ID": "INT-00039",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-04-16",
+      "Score": 4.3
+    },
+    "id": "recVeLFh0Ztq9Qfar"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:55.000Z",
+    "fields": {
+      "Application": [
+        "recLDjEcOw0gL5Ew0"
+      ],
+      "Completed On": "2026-06-28",
+      "Feedback": "Strongest candidate in this loop. Would hire on the spot.",
+      "Interview ID": "INT-00079",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-28",
+      "Score": 4.7
+    },
+    "id": "recW7i1NK3DssVjMi"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "recjENzuhpcxqL4ud"
+      ],
+      "Completed On": "2026-02-25",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00082",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-02-25",
+      "Score": 2
+    },
+    "id": "recWO79CXUsFf4YP8"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:59.000Z",
+    "fields": {
+      "Application": [
+        "recFnaFpEhCywsWwl"
+      ],
+      "Completed On": "2026-05-17",
+      "Feedback": "Answers stayed surface level even after probing.",
+      "Interview ID": "INT-00149",
+      "Interviewer": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Hiring Manager",
+      "Scheduled On": "2026-05-17",
+      "Score": 3
+    },
+    "id": "recWQw4ah4bVxYGPS"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "recmQozSPHQsfsGLa"
+      ],
+      "Interview ID": "INT-00070",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Rescheduled",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-05-21"
+    },
+    "id": "recWxNIVFhjgZK46e"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:59.000Z",
+    "fields": {
+      "Application": [
+        "rec4iYmQoziFjJ9fL"
+      ],
+      "Completed On": "2025-10-29",
+      "Feedback": "Answers stayed surface level even after probing.",
+      "Interview ID": "INT-00143",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2025-10-29",
+      "Score": 2.5
+    },
+    "id": "recX6nXDl6svNZTu0"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:59.000Z",
+    "fields": {
+      "Application": [
+        "recFWL62cHiMjCN1w"
+      ],
+      "Completed On": "2026-02-07",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00150",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Hiring Manager",
+      "Scheduled On": "2026-02-07",
+      "Score": 1.5
+    },
+    "id": "recX8B4KCe2l0p0MD"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:55.000Z",
+    "fields": {
+      "Application": [
+        "recmp9OGqDBkzjCDx"
+      ],
+      "Completed On": "2026-07-08",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00077",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-07-08",
+      "Score": 2
+    },
+    "id": "recXXAVZEgWy4Kxeq"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "recnPKdhvQjakaFXo"
+      ],
+      "Completed On": "2025-08-29",
+      "Feedback": "Answers stayed surface level even after probing.",
+      "Interview ID": "INT-00029",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2025-08-29",
+      "Score": 1.8
+    },
+    "id": "recYXB654IcxxrH5D"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Application": [
+        "recGmP6tLajPeKMGj"
+      ],
+      "Completed On": "2026-06-23",
+      "Feedback": "Reasonable answers throughout. No red flags.",
+      "Interview ID": "INT-00004",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "No Show",
+      "Recommendation": "Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-07-06",
+      "Score": 3.9
+    },
+    "id": "recYkOt2cyPyzNxGh"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "rec8Lca2OO74RaGOk"
+      ],
+      "Completed On": "2026-04-21",
+      "Feedback": "Good practical experience. Some gaps in scale but coachable.",
+      "Interview ID": "INT-00057",
+      "Interviewer": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-04-21",
+      "Score": 3.4
+    },
+    "id": "recYoIMoqjHG4D5XH"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "recf4k6ym9Cl8Cz6O"
+      ],
+      "Completed On": "2026-03-22",
+      "Feedback": "Solid fundamentals. Needed a hint on the follow-up but recovered well.",
+      "Interview ID": "INT-00027",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-03-22",
+      "Score": 3.7
+    },
+    "id": "recYzvk2knYy17PR9"
+  },
+  {
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Application": [
+        "recJlSS5dXchVubxO"
+      ],
+      "Interview ID": "INT-00151",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Cancelled",
+      "Round": "Hiring Manager",
+      "Scheduled On": "2026-05-29"
+    },
+    "id": "recZ0dIpeZp8HXXKw"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "recmXb8MbeTw1s5yg"
+      ],
+      "Completed On": "2026-04-11",
+      "Feedback": "Clear communicator, solved the problem two ways and compared them.",
+      "Interview ID": "INT-00096",
+      "Interviewer": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-04-11",
+      "Score": 5
+    },
+    "id": "recZH4vRoVpGUZIPA"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "rec67UuualnJrrfMz"
+      ],
+      "Completed On": "2026-06-21",
+      "Feedback": "Solid fundamentals. Needed a hint on the follow-up but recovered well.",
+      "Interview ID": "INT-00102",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-06-21",
+      "Score": 4
+    },
+    "id": "recZRXcMrqdHEKGKO"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "recwWJd2EICQGDxSK"
+      ],
+      "Completed On": "2025-12-25",
+      "Feedback": "Answers stayed surface level even after probing.",
+      "Interview ID": "INT-00012",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-01-03",
+      "Score": 2.5
+    },
+    "id": "recZW3WdOdZ2DwiRi"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "recMBzp7YysYXWeKE"
+      ],
+      "Completed On": "2025-12-20",
+      "Feedback": "Excellent depth on system design. Explained trade-offs without prompting.",
+      "Interview ID": "INT-00134",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Screen",
+      "Scheduled On": "2025-12-20",
+      "Score": 4.7
+    },
+    "id": "recZqHwa3noPgRHo7"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "recMQNh6TlP4ciHoT"
+      ],
+      "Completed On": "2026-04-23",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00062",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-04-23",
+      "Score": 2.4
+    },
+    "id": "recZyszZfQLO9Ilwm"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "recCUNIerZyc7XBWv"
+      ],
+      "Completed On": "2026-04-23",
+      "Feedback": "Clear communicator, solved the problem two ways and compared them.",
+      "Interview ID": "INT-00106",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-04-23",
+      "Score": 4.5
+    },
+    "id": "recaRx9jLJp1CcPpn"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "recHDyuTBwroN2WBm"
+      ],
+      "Completed On": "2026-06-23",
+      "Feedback": "Missed the main edge case and did not test the solution.",
+      "Interview ID": "INT-00047",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-23",
+      "Score": 2.2
+    },
+    "id": "recbEWiROvQFH1j6g"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:59.000Z",
+    "fields": {
+      "Application": [
+        "recCUNIerZyc7XBWv"
+      ],
+      "Completed On": "2026-05-09",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00146",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Hiring Manager",
+      "Scheduled On": "2026-05-09",
+      "Score": 1.5
+    },
+    "id": "reccNafswoMSNoWrx"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:59.000Z",
+    "fields": {
+      "Application": [
+        "rec4ll7eaOYuZhPak"
+      ],
+      "Completed On": "2026-06-21",
+      "Feedback": "Significant gaps against the level. Not close on the fundamentals.",
+      "Interview ID": "INT-00144",
+      "Interviewer": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Bar Raiser",
+      "Scheduled On": "2026-06-21",
+      "Score": 1
+    },
+    "id": "recd2wrilRtWQ5LNT"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "recwCbFOqNVF09X1Y"
+      ],
+      "Completed On": "2026-06-01",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00041",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-01",
+      "Score": 1.5
+    },
+    "id": "recdMI952CtVNKsD5"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "recPbK7TgsHhA1YyW"
+      ],
+      "Completed On": "2026-06-13",
+      "Feedback": "Answers stayed surface level even after probing.",
+      "Interview ID": "INT-00127",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-06-13",
+      "Score": 1.9
+    },
+    "id": "recdivecL3P3z874D"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Application": [
+        "recKWSoAgLTGK1MB1"
+      ],
+      "Interview ID": "INT-00009",
+      "Interviewer": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Outcome": "Rescheduled",
+      "Round": "Screen",
+      "Scheduled On": "2025-11-13"
+    },
+    "id": "recdtT8sKQgUTb1Yi"
+  },
+  {
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Application": [
+        "recsXHlBWuLQDcVQC"
+      ],
+      "Interview ID": "INT-00155",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Cancelled",
+      "Round": "Bar Raiser",
+      "Scheduled On": "2026-05-10"
+    },
+    "id": "receG09OJI1bsVaY3"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "recTuo7BwM8gORZ7a"
+      ],
+      "Completed On": "2026-03-06",
+      "Feedback": "Could not complete the exercise. Defensive when given a hint.",
+      "Interview ID": "INT-00139",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-03-06",
+      "Score": 1
+    },
+    "id": "receGctXFEoKHCLcu"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "recnbPvxEbyi8T3cy"
+      ],
+      "Completed On": "2026-06-01",
+      "Feedback": "Reasonable answers throughout. No red flags.",
+      "Interview ID": "INT-00098",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-01",
+      "Score": 4.2
+    },
+    "id": "receT1BjObIirFEzb"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "recygkO8Y6gYVRXcj"
+      ],
+      "Completed On": "2026-05-11",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00138",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-05-11",
+      "Score": 2
+    },
+    "id": "recfHPUeIKevUpz6T"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "recWxgJFdyMJoe101"
+      ],
+      "Completed On": "2026-04-29",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00089",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-04-29",
+      "Score": 1.5
+    },
+    "id": "recfV0hWUeHpP2d1C"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "recU7X60PAopuJfji"
+      ],
+      "Completed On": "2025-11-23",
+      "Feedback": "Good practical experience. Some gaps in scale but coachable.",
+      "Interview ID": "INT-00086",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2025-11-23",
+      "Score": 3.3
+    },
+    "id": "recfXhcBRxgTZ436k"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "recRAyDBrdQqQOVyP"
+      ],
+      "Completed On": "2026-03-24",
+      "Feedback": "Solid fundamentals. Needed a hint on the follow-up but recovered well.",
+      "Interview ID": "INT-00011",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-03-24",
+      "Score": 4.1
+    },
+    "id": "recgPL6VStZdLdCnP"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Application": [
+        "recP47ZJ2xJ54FFWg"
+      ],
+      "Completed On": "2025-08-10",
+      "Feedback": "Struggled with the core problem. Could not explain their own prior work.",
+      "Interview ID": "INT-00008",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2025-08-10",
+      "Score": 3.2
+    },
+    "id": "recgXEUVzEOX2YYhS"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "recpM4mTuHZO6rsoO"
+      ],
+      "Completed On": "2026-07-23",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00088",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-07-23",
+      "Score": 1.3
+    },
+    "id": "recgcHZjCMTeBgzMq"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "recOQKvwlqxac6vRX"
+      ],
+      "Completed On": "2025-10-03",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00122",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2025-10-03",
+      "Score": 1.4
+    },
+    "id": "rechMNUDtUcqmaTY4"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "recF6Nq4dyCozd9Cs"
+      ],
+      "Completed On": "2026-06-25",
+      "Feedback": "Excellent depth on system design. Explained trade-offs without prompting.",
+      "Interview ID": "INT-00133",
+      "Interviewer": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-25",
+      "Score": 4.3
+    },
+    "id": "reci3fVL8MdK9tbLk"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "recr6RgGJM6mh14gM"
+      ],
+      "Completed On": "2025-11-20",
+      "Feedback": "Solid fundamentals. Needed a hint on the follow-up but recovered well.",
+      "Interview ID": "INT-00052",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2025-11-20",
+      "Score": 3.3
+    },
+    "id": "reciD25s5L0504u0T"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Application": [
+        "recspd5m3Ua7jScMR"
+      ],
+      "Completed On": "2026-04-23",
+      "Feedback": "Reasonable answers throughout. No red flags.",
+      "Interview ID": "INT-00010",
+      "Interviewer": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-05-05",
+      "Score": 3.4
+    },
+    "id": "reciQu0aUhVUh9gmJ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "recWW3UtH3mzTAYgU"
+      ],
+      "Completed On": "2026-06-05",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00033",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-06-05",
+      "Score": 1.7
+    },
+    "id": "recicYY0DdfWaSwgQ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "recHlHHOMl1lKNj9P"
+      ],
+      "Completed On": "2026-05-20",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00084",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-05-20",
+      "Score": 1.5
+    },
+    "id": "recie0BLE8NTJkTDn"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "recUmLNLg8ijNksvd"
+      ],
+      "Completed On": "2026-07-09",
+      "Feedback": "Good practical experience. Some gaps in scale but coachable.",
+      "Interview ID": "INT-00108",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-07-09",
+      "Score": 3.9
+    },
+    "id": "recirXOmz46H1xViY"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "recEVH7oDto8NcjXa"
+      ],
+      "Completed On": "2026-07-09",
+      "Feedback": "Could not complete the exercise. Defensive when given a hint.",
+      "Interview ID": "INT-00065",
+      "Interviewer": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-07-09",
+      "Score": 1.2
+    },
+    "id": "recjQtmHyiUpKT5cq"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "recGBuBnWhJkCTNIm"
+      ],
+      "Completed On": "2026-04-16",
+      "Feedback": "Strongest candidate in this loop. Would hire on the spot.",
+      "Interview ID": "INT-00131",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-04-16",
+      "Score": 5
+    },
+    "id": "recjhdBDzpYV943Df"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:59.000Z",
+    "fields": {
+      "Application": [
+        "recCzw9CidMQTjaJ4"
+      ],
+      "Completed On": "2026-05-23",
+      "Feedback": "Answers stayed surface level even after probing.",
+      "Interview ID": "INT-00142",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-05-23",
+      "Score": 2.1
+    },
+    "id": "reck8A8FrvgHsHTuK"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "recuAEYSg32syGYNn"
+      ],
+      "Completed On": "2026-06-27",
+      "Feedback": "Reasonable answers throughout. No red flags.",
+      "Interview ID": "INT-00118",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-27",
+      "Score": 3.8
+    },
+    "id": "reckfSE9FEOIfZJJQ"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:55.000Z",
+    "fields": {
+      "Application": [
+        "recY65PmkuY7qx3uA"
+      ],
+      "Completed On": "2026-06-02",
+      "Feedback": "Clear communicator, solved the problem two ways and compared them.",
+      "Interview ID": "INT-00074",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-06-02",
+      "Score": 4.6
+    },
+    "id": "reclG8XNK2woIOeQm"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "recVRICfbNWTgRfnw"
+      ],
+      "Completed On": "2026-06-20",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00117",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-20",
+      "Score": 1.4
+    },
+    "id": "reclHZMtWqHvCtikW"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "recSviugwQ3oGfCf1"
+      ],
+      "Completed On": "2026-06-13",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00036",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-13",
+      "Score": 1.4
+    },
+    "id": "recmV1Ppbrustofau"
+  },
+  {
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Application": [
+        "rec8Lca2OO74RaGOk"
+      ],
+      "Completed On": "2026-04-30",
+      "Feedback": "Solid fundamentals. Needed a hint on the follow-up but recovered well.",
+      "Interview ID": "INT-00159",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 2",
+      "Scheduled On": "2026-04-30",
+      "Score": 2.5
+    },
+    "id": "recmhD0JwM8KMUlxX"
+  },
+  {
+    "createdTime": "2026-08-27T16:40:00.000Z",
+    "fields": {
+      "Application": [
+        "recH5dTJ9BzdKYvc1"
+      ],
+      "Completed On": "2026-06-30",
+      "Feedback": "Struggled with the core problem. Could not explain their own prior work.",
+      "Interview ID": "INT-00160",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 2",
+      "Scheduled On": "2026-06-30",
+      "Score": 3.7
+    },
+    "id": "recmimte8WtB0uTkH"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "recqNTRxap8Wr4Gm6"
+      ],
+      "Completed On": "2026-04-29",
+      "Feedback": "Could not complete the exercise. Defensive when given a hint.",
+      "Interview ID": "INT-00103",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-04-29",
+      "Score": 2.1
+    },
+    "id": "recmiyZapefKnLbe5"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:57.000Z",
+    "fields": {
+      "Application": [
+        "recOhPAo3U9UBylfw"
+      ],
+      "Completed On": "2026-05-25",
+      "Feedback": "Solid fundamentals. Needed a hint on the follow-up but recovered well.",
+      "Interview ID": "INT-00101",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-05-25",
+      "Score": 3
+    },
+    "id": "recnfshJLnoGWSEcD"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "rec7I3mPH5xXVdXgH"
+      ],
+      "Completed On": "2026-06-06",
+      "Feedback": "Reasonable answers throughout. No red flags.",
+      "Interview ID": "INT-00038",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-06-06",
+      "Score": 3.8
+    },
+    "id": "reco5Gi69GKyu1bP7"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:58.000Z",
+    "fields": {
+      "Application": [
+        "reclkeeZCve9HMAWx"
+      ],
+      "Interview ID": "INT-00123",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "No Show",
+      "Round": "Screen",
+      "Scheduled On": "2026-03-06"
+    },
+    "id": "reco5lb794OnycxxL"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "recq2BWf9QUTLKL72"
+      ],
+      "Completed On": "2026-03-17",
+      "Feedback": "Good practical experience. Some gaps in scale but coachable.",
+      "Interview ID": "INT-00015",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-03-17",
+      "Score": 4.1
+    },
+    "id": "recoHPPTIlrS6jglf"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "rec8n7ktHYBuzeY1h"
+      ],
+      "Completed On": "2026-05-04",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00019",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-05-04",
+      "Score": 2
+    },
+    "id": "recpNpQNnP4M4xtC1"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "recPpd93vTUyron7j"
+      ],
+      "Completed On": "2026-06-09",
+      "Feedback": "Solid fundamentals. Needed a hint on the follow-up but recovered well.",
+      "Interview ID": "INT-00066",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-06-09",
+      "Score": 3.8
+    },
+    "id": "recpOyxXP2ehJFwm8"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "reck6Q8cKZCFcG1dx"
+      ],
+      "Completed On": "2026-07-19",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00026",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-07-19",
+      "Score": 2
+    },
+    "id": "recqX5pEP2bRmspAS"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "reciuG6OiDYMSnuRd"
+      ],
+      "Completed On": "2026-06-16",
+      "Feedback": "Answers stayed surface level even after probing.",
+      "Interview ID": "INT-00081",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-06-16",
+      "Score": 2.6
+    },
+    "id": "recqzOWKa4gFqTumc"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "reccPhC7vgbocR943"
+      ],
+      "Interview ID": "INT-00024",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "No Show",
+      "Round": "Screen",
+      "Scheduled On": "2025-09-05"
+    },
+    "id": "recsEA7oyfYHoooxr"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "recupenJ77lfvWBqr"
+      ],
+      "Interview ID": "INT-00091",
+      "Interviewer": [
+        "rec25IaBcJAP9TN3h"
+      ],
+      "Outcome": "No Show",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-14"
+    },
+    "id": "recsLOGBd6c4nded3"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "recpFoECf76f8X1K3"
+      ],
+      "Completed On": "2026-04-04",
+      "Feedback": "Not convinced. Did not meet the bar for this level.",
+      "Interview ID": "INT-00068",
+      "Interviewer": [
+        "recyNjT2YZqOFbyMW"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-04-04",
+      "Score": 1.5
+    },
+    "id": "recsxSb3Q52lrPcvu"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "rec7YBqlMxYExhaB2"
+      ],
+      "Completed On": "2026-05-13",
+      "Feedback": "Answers stayed surface level even after probing.",
+      "Interview ID": "INT-00099",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-05-13",
+      "Score": 2.1
+    },
+    "id": "rectDJh9JlmgsCf60"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:56.000Z",
+    "fields": {
+      "Application": [
+        "recMLNhmKjNLJiJ2F"
+      ],
+      "Completed On": "2026-06-23",
+      "Feedback": "Struggled with the core problem. Could not explain their own prior work.",
+      "Interview ID": "INT-00092",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-06-23",
+      "Score": 2.4
+    },
+    "id": "rectmKQOu6Coab9qk"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "recsdeVhzRIUksTkR"
+      ],
+      "Completed On": "2026-06-10",
+      "Feedback": "Struggled with the core problem. Could not explain their own prior work.",
+      "Interview ID": "INT-00061",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-06-10",
+      "Score": 2.6
+    },
+    "id": "rectwd1L5vZ1JEtwg"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:55.000Z",
+    "fields": {
+      "Application": [
+        "reckKPw0f6RVy2xyO"
+      ],
+      "Completed On": "2025-12-08",
+      "Feedback": "Could not complete the exercise. Defensive when given a hint.",
+      "Interview ID": "INT-00075",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2025-12-08",
+      "Score": 1.4
+    },
+    "id": "recu3vBoEHoHNFPJ4"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "reccN3z84lRYFX3HM"
+      ],
+      "Completed On": "2026-06-18",
+      "Feedback": "Struggled with the core problem. Could not explain their own prior work.",
+      "Interview ID": "INT-00051",
+      "Interviewer": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-06-18",
+      "Score": 1.8
+    },
+    "id": "recubeVmxAk2yqmNu"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Application": [
+        "receTg6LaCev39dRp"
+      ],
+      "Completed On": "2026-05-13",
+      "Feedback": "Struggled with the core problem. Could not explain their own prior work.",
+      "Interview ID": "INT-00005",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "No Show",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-05-13",
+      "Score": 3
+    },
+    "id": "recwOLmkyNUx8771C"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "rec0PaJV3hGNinKGA"
+      ],
+      "Interview ID": "INT-00028",
+      "Interviewer": [
+        "recMQs1GOLeXg16VI"
+      ],
+      "Outcome": "Cancelled",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-05-11"
+    },
+    "id": "recx473Od1ZpfXv3f"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:51.000Z",
+    "fields": {
+      "Application": [
+        "recsf6EmTqvMtB5m9"
+      ],
+      "Completed On": "2025-11-23",
+      "Feedback": "Excellent depth on system design. Explained trade-offs without prompting.",
+      "Interview ID": "INT-00003",
+      "Interviewer": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Outcome": "No Show",
+      "Recommendation": "Strong Hire",
+      "Round": "Screen",
+      "Scheduled On": "2025-11-23",
+      "Score": 4.2
+    },
+    "id": "recx6G0nSe0Ywjk3f"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:55.000Z",
+    "fields": {
+      "Application": [
+        "recpgUKDzHrCaSRdv"
+      ],
+      "Completed On": "2026-06-20",
+      "Feedback": "Answers stayed surface level even after probing.",
+      "Interview ID": "INT-00071",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-06-20",
+      "Score": 1.8
+    },
+    "id": "recxA8u9kOtDKXyDB"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:54.000Z",
+    "fields": {
+      "Application": [
+        "recvYxw0fYaudKGlO"
+      ],
+      "Completed On": "2026-05-19",
+      "Feedback": "Struggled with the core problem. Could not explain their own prior work.",
+      "Interview ID": "INT-00059",
+      "Interviewer": [
+        "rec4scgKf7PDfcfqU"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "No Hire",
+      "Round": "Screen",
+      "Scheduled On": "2026-05-19",
+      "Score": 2.7
+    },
+    "id": "recy59Q6h8x8e8UT5"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "recryJuaBpPNMp6I6"
+      ],
+      "Completed On": "2025-11-10",
+      "Feedback": "Significant gaps against the level. Not close on the fundamentals.",
+      "Interview ID": "INT-00025",
+      "Interviewer": [
+        "recR0E2DVCw6F0ovN"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2025-11-10",
+      "Score": 2
+    },
+    "id": "recyHT2cuAC4voDQ8"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:52.000Z",
+    "fields": {
+      "Application": [
+        "rec8YT2zzqA4mIguO"
+      ],
+      "Completed On": "2026-07-07",
+      "Feedback": "Significant gaps against the level. Not close on the fundamentals.",
+      "Interview ID": "INT-00030",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Completed",
+      "Recommendation": "Strong No Hire",
+      "Round": "Technical 1",
+      "Scheduled On": "2026-07-07",
+      "Score": 1.1
+    },
+    "id": "recyaD7DwKysVgWqi"
+  },
+  {
+    "createdTime": "2026-08-27T16:39:53.000Z",
+    "fields": {
+      "Application": [
+        "recKf6QR0hCR0JH7k"
+      ],
+      "Interview ID": "INT-00050",
+      "Interviewer": [
+        "recdvkS4V1ArShjWO"
+      ],
+      "Outcome": "Cancelled",
+      "Round": "Screen",
+      "Scheduled On": "2026-01-08"
+    },
+    "id": "recylJ9CFLa5Lyh1n"
+  }
+]
