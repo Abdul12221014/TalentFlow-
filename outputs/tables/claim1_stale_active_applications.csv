@@ -1,0 +1,5 @@
+cohort,applied_on_or_before,cohort applications,cohort hires,cohort hire rate %,cohort still Active,tail applications,tail still Active,tail hires
+before: every application,2026-08-27,350,26,7.43,105,0,0,0
+after: applied >= p90 time to hire (58d) before as-of,2026-06-30,304,26,8.55,83,46,22,0
+after: applied >= slowest observed hire (60d) before as-of,2026-06-28,299,26,8.7,82,51,23,0
+after: applied >= slowest observed outcome (79d) before as-of,2026-06-09,264,23,8.71,70,86,35,3

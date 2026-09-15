@@ -1,0 +1,21 @@
+metric,numerator,denominator,value,definition
+candidates with Source = Referral,8,300,2.67%,Candidates.Source == 'Referral'
+candidates with a Referred By link on any application,21,300,7.00%,any Applications.Referred By present
+candidates in both,3,300,1.00%,intersection of the two sets above
+rule 8.6 records (SCOPE),34,300,11.33%,"Notes = 'Referred internally...', Source not Referral, no Referred By on any application"
+candidates with 2 applications,50,300,16.67%,len(Candidates.Applications) == 2
+applications belonging to them,100,350,28.57%,Applications.Candidate in that set
+hires whose candidate has 2 applications,12,25,48.00%,25-hire basis
+hires with Source = Referral and no Referred By,6,25,24.00%,25-hire basis
+hires with a Referred By link and Source not Referral,3,25,12.00%,25-hire basis
+hires where the two referral fields disagree,9,25,36.00%,sum of the two rows above
+hires among rule 3.2 candidate records,3,25,12.00%,candidates sharing name + last 10 phone digits
+"job-board share, 24 hires, B1 Source as recorded",7,24,29.17%,decision 2 alternative: CAND-00015's later hire also dropped
+"first vs second, 24 hires, B1 Source as recorded: Job Board 7 vs Referral 5",7,12,p = 0.7744,exact two-sided binomial of first-place hires against a 50/50 split
+"job-board share, 24 hires, B2 LinkedIn merged into Job Board",10,24,41.67%,decision 2 alternative: CAND-00015's later hire also dropped
+"first vs second, 24 hires, B2 LinkedIn merged into Job Board: Job Board + LinkedIn 10 vs Referral 5",10,15,p = 0.3018,exact two-sided binomial of first-place hires against a 50/50 split
+"job-board share, 24 hires, B3 any Referred By link counts as Referral",6,24,25.00%,decision 2 alternative: CAND-00015's later hire also dropped
+"first vs second, 24 hires, B3 any Referred By link counts as Referral: Referral 8 vs Job Board 6",8,14,p = 0.7905,exact two-sided binomial of first-place hires against a 50/50 split
+"first vs second, 26 hires, B1 Source as recorded: Referral 7 vs Job Board 7",7,14,p = 1.0000,exact two-sided binomial of first-place hires against a 50/50 split
+"first vs second, 26 hires, B2 LinkedIn merged into Job Board: Job Board + LinkedIn 10 vs Referral 7",10,17,p = 0.6291,exact two-sided binomial of first-place hires against a 50/50 split
+"first vs second, 26 hires, B3 any Referred By link counts as Referral: Referral 10 vs Job Board 6",10,16,p = 0.4545,exact two-sided binomial of first-place hires against a 50/50 split

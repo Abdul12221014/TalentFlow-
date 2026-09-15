@@ -1,0 +1,10 @@
+term,formula,value
+p1,accepted / offers = 25/35 (defended rate),0.714286
+p2,p1 + 0.05 (the 5-point move),0.764286
+p_bar,"(p1 + p2) / 2, the pooled proportion",0.739286
+z_0.975,standard normal quantile for two-sided alpha 0.05,1.959964
+z_0.80,standard normal quantile for 80% power,0.841621
+alpha_term,"z_0.975 * sqrt(2 * p_bar * (1 - p_bar)), pooled variance",1.216891
+power_term,"z_0.80 * sqrt(p1 * (1 - p1) + p2 * (1 - p2)), unpooled variance",0.521693
+n_before_rounding,"(alpha_term + power_term)^2 / (p2 - p1)^2, no continuity correction",1209.069594
+n_per_period,n_before_rounding rounded up; equals metrics.n_two_proportions and claim2_offers_needed_for_5pt_move.csv,1210.0

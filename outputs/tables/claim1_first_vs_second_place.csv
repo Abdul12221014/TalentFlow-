@@ -1,0 +1,4 @@
+bucketing,first,second,exact_binomial_p,separable at 0.05,hires needed if these shares held (80% power),years at current hire volume,current hires per month (trailing 12m)
+B1 Source as recorded,Job Board 7/25,Referral 6/25,1.0,False,2544,101.8,2.08
+B2 LinkedIn merged into Job Board,Job Board + LinkedIn 10/25,Referral 6/25,0.4545,False,189,7.6,2.08
+B3 any Referred By link counts as Referral,Referral 9/25,Job Board 6/25,0.6072,False,320,12.8,2.08

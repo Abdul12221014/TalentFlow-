@@ -1,0 +1,9 @@
+bucketing,channel,conversion,job_board_conversion,fisher_p,below_0.05,below_bonferroni_0.0125
+B1 Source as recorded,Referral,6/12,7/195,1.299375658771305e-05,True,True
+B1 Source as recorded,Career Site,5/26,7/195,0.006853989413482977,True,True
+B1 Source as recorded,Agency,4/33,7/195,0.05749163179391911,False,False
+B1 Source as recorded,LinkedIn,3/28,7/195,0.11625124401109507,False,False
+B2 LinkedIn merged into Job Board,Referral,6/12,10/223,2.6785053311024695e-05,True,True
+B2 LinkedIn merged into Job Board,Career Site,5/26,10/223,0.01220330243568232,True,True
+B3 any Referred By link counts as Referral,Referral,9/34,6/179,6.177973593920378e-05,True,True
+B3 any Referred By link counts as Referral,Career Site,4/23,6/179,0.01709089288392926,True,False

@@ -1,0 +1,4 @@
+bucketing,rank,channel,hires,of hires,share %,ci95 low %,ci95 high %,small_n
+B1 Source as recorded,1,Job Board,7,25,28.0,14.28,47.58,True
+B2 LinkedIn merged into Job Board,1,Job Board + LinkedIn,10,25,40.0,23.4,59.26,True
+B3 any Referred By link counts as Referral,2,Job Board,6,25,24.0,11.5,43.43,True

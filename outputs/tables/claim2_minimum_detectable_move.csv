@@ -1,0 +1,2 @@
+question,offers per period,periods,offers in total,months at trailing-12m volume,months at trailing-6m volume,note
+smallest upward move detectable comparing two 12-month periods (~35 offers each),35,2,70,24.0,18.3,minimum detectable move = 24.4% (71.4% -> 95.8%)

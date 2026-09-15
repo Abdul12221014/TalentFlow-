@@ -1,0 +1,32 @@
+population,step,rule,removed,count_after
+"applications, conversion cohort (denominator of 195/298)",0,start,,350
+"applications, conversion cohort (denominator of 195/298)",1,"Applied On on or before 2026-06-28 (2026-08-27 minus 60 days, the slowest recorded hire)",51,299
+"applications, conversion cohort (denominator of 195/298)",2,not a duplicate hire record (APP-00335: CAND-00035 hired again into the same opening),1,298
+"applications, p90 cut (denominator of 25/303)",0,start,,350
+"applications, p90 cut (denominator of 25/303)",1,"Applied On on or before 2026-06-30 (2026-08-27 minus 58 days, the p90 time to hire)",46,304
+"applications, p90 cut (denominator of 25/303)",2,not a duplicate hire record (APP-00335: CAND-00035 hired again into the same opening),1,303
+"applications, no cut (denominator of 25/349)",0,start,,350
+"applications, no cut (denominator of 25/349)",1,not a duplicate hire record (APP-00335: CAND-00035 hired again into the same opening),1,349
+hires (denominator of 7/25),0,start,,350
+hires (denominator of 7/25),1,Stage = Hired,324,26
+hires (denominator of 7/25),2,not a duplicate hire record (APP-00335: CAND-00035 hired again into the same opening),1,25
+"hires, CAND-00015 alternative (denominator of 10/24)",0,start,,350
+"hires, CAND-00015 alternative (denominator of 10/24)",1,Stage = Hired,324,26
+"hires, CAND-00015 alternative (denominator of 10/24)",2,not a duplicate hire record (APP-00335: CAND-00035 hired again into the same opening),1,25
+"hires, CAND-00015 alternative (denominator of 10/24)",3,not CAND-00015's later hire (APP-00015),1,24
+"offers, defended (denominator of 25/35)",0,start,,36
+"offers, defended (denominator of 25/35)",1,not the offer on the duplicate hire record (OFF-00035),1,35
+"offers, defended (denominator of 25/35)",2,"Offered On on or before 2026-08-07 (2026-08-27 minus 20 days, the slowest recorded decision)",0,35
+"offers, decided only (denominator of 25/30)",0,start,,36
+"offers, decided only (denominator of 25/30)",1,not the offer on the duplicate hire record (OFF-00035),1,35
+"offers, decided only (denominator of 25/30)",2,"Offered On on or before 2026-08-07 (2026-08-27 minus 20 days, the slowest recorded decision)",0,35
+"offers, decided only (denominator of 25/30)",3,Status is not Pending,5,30
+"offers, On Hold Pending excluded (denominator of 25/33)",0,start,,36
+"offers, On Hold Pending excluded (denominator of 25/33)",1,not the offer on the duplicate hire record (OFF-00035),1,35
+"offers, On Hold Pending excluded (denominator of 25/33)",2,"Offered On on or before 2026-08-07 (2026-08-27 minus 20 days, the slowest recorded decision)",0,35
+"offers, On Hold Pending excluded (denominator of 25/33)",3,not a Pending offer on an On Hold requisition,2,33
+Active applications (82/105),0,start,,350
+Active applications (82/105),1,Status = Active,245,105
+Active applications (82/105),2,Applied On on or before 2026-06-28,23,82
+completed interviews (denominator of 4/142),0,start,,160
+completed interviews (denominator of 4/142),1,Completed On present,18,142
