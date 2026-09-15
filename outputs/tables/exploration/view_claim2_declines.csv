@@ -1,0 +1,7 @@
+group,reason,offers
+Declined offers,Counter Offer,3
+Declined offers,Location,1
+Declined offers,Compensation,1
+Stale Pending offers (not accepted under the defended definition),no decline reason; opening On Hold; application rejection reason none,2
+Stale Pending offers (not accepted under the defended definition),no decline reason; opening Open; application rejection reason Withdrew,1
+Stale Pending offers (not accepted under the defended definition),no decline reason; opening Open; application rejection reason none,2

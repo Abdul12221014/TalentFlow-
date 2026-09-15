@@ -1,0 +1,18 @@
+bucketing,rank,channel,hires,of hires,share %,ci95 low %,ci95 high %,small_n
+B1 Source as recorded,1,Job Board,7,25,28.0,14.28,47.58,True
+B1 Source as recorded,2,Referral,6,25,24.0,11.5,43.43,True
+B1 Source as recorded,3,Career Site,5,25,20.0,8.86,39.13,True
+B1 Source as recorded,4,Agency,4,25,16.0,6.4,34.65,True
+B1 Source as recorded,5,LinkedIn,3,25,12.0,4.17,29.96,True
+B1 Source as recorded,6,Campus,0,25,0.0,0.0,13.32,True
+B2 LinkedIn merged into Job Board,1,Job Board + LinkedIn,10,25,40.0,23.4,59.26,True
+B2 LinkedIn merged into Job Board,2,Referral,6,25,24.0,11.5,43.43,True
+B2 LinkedIn merged into Job Board,3,Career Site,5,25,20.0,8.86,39.13,True
+B2 LinkedIn merged into Job Board,4,Agency,4,25,16.0,6.4,34.65,True
+B2 LinkedIn merged into Job Board,5,Campus,0,25,0.0,0.0,13.32,True
+B3 any Referred By link counts as Referral,1,Referral,9,25,36.0,20.25,55.48,True
+B3 any Referred By link counts as Referral,2,Job Board,6,25,24.0,11.5,43.43,True
+B3 any Referred By link counts as Referral,3,Career Site,4,25,16.0,6.4,34.65,True
+B3 any Referred By link counts as Referral,4,Agency,3,25,12.0,4.17,29.96,True
+B3 any Referred By link counts as Referral,4,LinkedIn,3,25,12.0,4.17,29.96,True
+B3 any Referred By link counts as Referral,6,Campus,0,25,0.0,0.0,13.32,True

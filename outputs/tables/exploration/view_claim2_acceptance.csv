@@ -1,0 +1,6 @@
+definition,accepted,offers,rate %,ci95 low %,ci95 high %,small_n,note
+DEFENDED: accepted / offers past the slowest recorded decision; stale Pending count as not accepted,25,35,71.43,54.95,83.67,False,"5 Pending, all offered >= 20d before 2026-08-27; 0 offers still in flight"
+sensitivity: Pending on On Hold requisitions excluded (company-side pause),25,33,75.76,58.98,87.17,False,2 excluded
+sensitivity: Pending excluded (decided offers only),25,30,83.33,66.44,92.66,False,5 excluded
+bound: every Pending offer was in fact accepted,30,35,85.71,70.62,93.74,False,upper bound
+reference: VP-reproducing raw count (duplicate hire kept),26,36,72.22,56.01,84.15,False,from metrics claim-2 grid
