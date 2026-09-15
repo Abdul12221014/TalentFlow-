@@ -1,0 +1,36 @@
+population,channel,applications,hires,hire rate,hire rate %,small_n
+before: every application,Agency,35,4,4/35,11.43,False
+before: every application,Campus,4,0,0/4,0.0,True
+before: every application,Career Site,31,5,5/31,16.13,False
+before: every application,Job Board,236,7,7/236,2.97,False
+before: every application,LinkedIn,31,3,3/31,9.68,False
+before: every application,Referral,13,7,7/13,53.85,True
+before: every application,All channels,350,26,26/350,7.43,False
+after: applied >= p90 time to hire (58d) before as-of,Agency,33,4,4/33,12.12,False
+after: applied >= p90 time to hire (58d) before as-of,Campus,4,0,0/4,0.0,True
+after: applied >= p90 time to hire (58d) before as-of,Career Site,26,5,5/26,19.23,True
+after: applied >= p90 time to hire (58d) before as-of,Job Board,200,7,7/200,3.5,False
+after: applied >= p90 time to hire (58d) before as-of,LinkedIn,28,3,3/28,10.71,True
+after: applied >= p90 time to hire (58d) before as-of,Referral,13,7,7/13,53.85,True
+after: applied >= p90 time to hire (58d) before as-of,All channels,304,26,26/304,8.55,False
+after: applied >= slowest observed hire (60d) before as-of,Agency,33,4,4/33,12.12,False
+after: applied >= slowest observed hire (60d) before as-of,Campus,4,0,0/4,0.0,True
+after: applied >= slowest observed hire (60d) before as-of,Career Site,26,5,5/26,19.23,True
+after: applied >= slowest observed hire (60d) before as-of,Job Board,195,7,7/195,3.59,False
+after: applied >= slowest observed hire (60d) before as-of,LinkedIn,28,3,3/28,10.71,True
+after: applied >= slowest observed hire (60d) before as-of,Referral,13,7,7/13,53.85,True
+after: applied >= slowest observed hire (60d) before as-of,All channels,299,26,26/299,8.7,False
+after: applied >= slowest observed outcome (79d) before as-of,Agency,30,4,4/30,13.33,False
+after: applied >= slowest observed outcome (79d) before as-of,Campus,3,0,0/3,0.0,True
+after: applied >= slowest observed outcome (79d) before as-of,Career Site,24,4,4/24,16.67,True
+after: applied >= slowest observed outcome (79d) before as-of,Job Board,172,7,7/172,4.07,False
+after: applied >= slowest observed outcome (79d) before as-of,LinkedIn,23,2,2/23,8.7,True
+after: applied >= slowest observed outcome (79d) before as-of,Referral,12,6,6/12,50.0,True
+after: applied >= slowest observed outcome (79d) before as-of,All channels,264,23,23/264,8.71,False
+resolved only: Status = Closed,Agency,25,4,4/25,16.0,True
+resolved only: Status = Closed,Campus,3,0,0/3,0.0,True
+resolved only: Status = Closed,Career Site,19,5,5/19,26.32,True
+resolved only: Status = Closed,Job Board,164,7,7/164,4.27,False
+resolved only: Status = Closed,LinkedIn,23,3,3/23,13.04,True
+resolved only: Status = Closed,Referral,11,7,7/11,63.64,True
+resolved only: Status = Closed,All channels,245,26,26/245,10.61,False

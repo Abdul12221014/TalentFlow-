@@ -1,0 +1,7 @@
+cohort,offered_on_or_before,offers,accepted,declined,pending,pending_with_decision_date,accepted/all,accepted/all %,accepted/decided,accepted/decided %,small_n
+before: every offer,2026-08-27,36,26,5,5,4,26/36,72.22,26/31,83.87,False
+after: offered >= p90 decision time (17d) before as-of,2026-08-10,36,26,5,5,4,26/36,72.22,26/31,83.87,False
+after: offered >= slowest observed decision (20d) before as-of,2026-08-07,36,26,5,5,4,26/36,72.22,26/31,83.87,False
+sensitivity: offered >= 30d before as-of,2026-07-28,34,26,5,3,2,26/34,76.47,26/31,83.87,False
+sensitivity: offered >= 60d before as-of,2026-06-28,28,20,5,3,2,20/28,71.43,20/25,80.0,True
+sensitivity: offered >= 90d before as-of,2026-05-29,20,14,4,2,1,14/20,70.0,14/18,77.78,True

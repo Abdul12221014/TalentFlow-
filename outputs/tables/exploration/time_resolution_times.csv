@@ -1,0 +1,4 @@
+measure,n,min,p50,p90,max,small_n
+offer decision: Offered On -> Decision On (Accepted/Declined offers),31,2,10,17,20,False
+application outcome: Applied On -> Closed On (Status = Closed),245,1,19,47,79,False
+time to hire: Applied On -> Closed On (Stage = Hired),26,18,41,58,60,True
