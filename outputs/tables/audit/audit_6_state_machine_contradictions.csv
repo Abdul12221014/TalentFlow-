@@ -1,0 +1,82 @@
+rule_id,rule,table,record_id,key,detail
+R6.2,Requisition Filled/Cancelled but still has Active applications,Job Openings,rec1hXVrOPLSyiC6Y,REQ-2025-013,"Status=Filled; active_applications=4; active_stages=Applied,Interview,Screening"
+R6.2,Requisition Filled/Cancelled but still has Active applications,Job Openings,rec810iCfuNrOnIYU,REQ-2025-015,"Status=Cancelled; active_applications=4; active_stages=Applied,Screening"
+R6.2,Requisition Filled/Cancelled but still has Active applications,Job Openings,recDWPyPdsjzjzYEx,REQ-2025-024,"Status=Filled; active_applications=9; active_stages=Applied,Interview,Screening"
+R6.2,Requisition Filled/Cancelled but still has Active applications,Job Openings,recN2CRitgJbTxrMs,REQ-2026-017,"Status=Filled; active_applications=7; active_stages=Applied,Interview,Screening"
+R6.2,Requisition Filled/Cancelled but still has Active applications,Job Openings,recRf0sg8Gga7o7w9,REQ-2026-008,"Status=Filled; active_applications=4; active_stages=Interview,Screening"
+R6.2,Requisition Filled/Cancelled but still has Active applications,Job Openings,recZHFjeFl5dHlCgF,REQ-2026-002,"Status=Filled; active_applications=17; active_stages=Applied,Interview,Screening"
+R6.2,Requisition Filled/Cancelled but still has Active applications,Job Openings,recfHWdP7FhYmzOhw,REQ-2026-011,"Status=Filled; active_applications=6; active_stages=Applied,Interview,Screening"
+R6.2,Requisition Filled/Cancelled but still has Active applications,Job Openings,recolz9ocG5Wv9YGc,REQ-2026-014,"Status=Filled; active_applications=2; active_stages=Interview,Screening"
+R6.2,Requisition Filled/Cancelled but still has Active applications,Job Openings,recsz6wxHxrxGkre3,REQ-2025-019,"Status=Filled; active_applications=6; active_stages=Applied,Interview,Screening"
+R6.5,"Stage and Status disagree (terminal stage but Active, or open stage but Closed)",Applications,rec8n7ktHYBuzeY1h,APP-00039,Stage=Offer; Status=Closed; offer_status=Declined
+R6.5,"Stage and Status disagree (terminal stage but Active, or open stage but Closed)",Applications,recCPGIfZwJpFdhnM,APP-00043,Stage=Offer; Status=Closed; offer_status=Declined
+R6.5,"Stage and Status disagree (terminal stage but Active, or open stage but Closed)",Applications,recRAyDBrdQqQOVyP,APP-00019,Stage=Offer; Status=Closed; offer_status=Declined
+R6.5,"Stage and Status disagree (terminal stage but Active, or open stage but Closed)",Applications,recpTfLaxtqwd6Zml,APP-00087,Stage=Offer; Status=Closed; offer_status=Declined
+R6.5,"Stage and Status disagree (terminal stage but Active, or open stage but Closed)",Applications,recwP2FumcSYmnZP8,APP-00223,Stage=Offer; Status=Closed; offer_status=Declined
+R6.6,Offer Pending but it carries a Decision On date,Offers,rec5GeU3frNNkZrws,OFF-00020,Status=Pending; Decision On=2026-08-15
+R6.6,Offer Pending but it carries a Decision On date,Offers,recMJLFhIqQcUh6A9,OFF-00013,Status=Pending; Decision On=2026-07-05
+R6.6,Offer Pending but it carries a Decision On date,Offers,recQq6ghz7ksCfsKV,OFF-00007,Status=Pending; Decision On=2026-08-20
+R6.6,Offer Pending but it carries a Decision On date,Offers,recUzh2Vj5NyAPwRO,OFF-00002,Status=Pending; Decision On=2026-02-02
+R6.9,Rejection Reason set on an application that is not Rejected/Withdrawn,Applications,recGmP6tLajPeKMGj,APP-00008,Stage=Interview; Rejection Reason=Culture Fit; offer_status=
+R6.9,Rejection Reason set on an application that is not Rejected/Withdrawn,Applications,reciNqlMlx5mYgt5N,APP-00002,Stage=Hired; Rejection Reason=Better Candidate; offer_status=Accepted
+R6.9,Rejection Reason set on an application that is not Rejected/Withdrawn,Applications,reckLPXA8xRgWsC1l,APP-00001,Stage=Offer; Rejection Reason=Withdrew; offer_status=Pending
+R6.9,Rejection Reason set on an application that is not Rejected/Withdrawn,Applications,recsf6EmTqvMtB5m9,APP-00004,Stage=Hired; Rejection Reason=Culture Fit; offer_status=Accepted
+R6.13,Hire on a Cancelled or On Hold requisition,Applications,recCeQ8EDYbkRp312,APP-00319,Req ID=REQ-2025-005; opening_status=Cancelled; Source=Job Board
+R6.13,Hire on a Cancelled or On Hold requisition,Applications,recaFt6waPJsgv4Ct,APP-00334,Req ID=REQ-2025-015; opening_status=Cancelled; Source=Job Board
+R6.13,Hire on a Cancelled or On Hold requisition,Applications,reciNqlMlx5mYgt5N,APP-00002,Req ID=REQ-2025-015; opening_status=Cancelled; Source=Referral
+R6.13,Hire on a Cancelled or On Hold requisition,Applications,reclvmFsKkhQ8xGyW,APP-00103,Req ID=REQ-2025-015; opening_status=Cancelled; Source=Career Site
+R6.14,Offer still Pending on a Cancelled or On Hold requisition,Offers,rec5GeU3frNNkZrws,OFF-00020,Req ID=REQ-2026-006; opening_status=On Hold
+R6.14,Offer still Pending on a Cancelled or On Hold requisition,Offers,recMJLFhIqQcUh6A9,OFF-00013,Req ID=REQ-2026-006; opening_status=On Hold
+R6.15,Requisition with more hires than Headcount,Job Openings,rec810iCfuNrOnIYU,REQ-2025-015,Status=Cancelled; Headcount=1; hires=3
+R6.15,Requisition with more hires than Headcount,Job Openings,recDWPyPdsjzjzYEx,REQ-2025-024,Status=Filled; Headcount=1; hires=2
+R6.15,Requisition with more hires than Headcount,Job Openings,recMQPbjDBoBakTk9,REQ-2025-007,Status=Open; Headcount=1; hires=2
+R6.15,Requisition with more hires than Headcount,Job Openings,recRf0sg8Gga7o7w9,REQ-2026-008,Status=Filled; Headcount=1; hires=2
+R6.16,Requisition Filled with fewer hires than Headcount,Job Openings,recN2CRitgJbTxrMs,REQ-2026-017,Headcount=1; hires=0
+R6.16,Requisition Filled with fewer hires than Headcount,Job Openings,recfHWdP7FhYmzOhw,REQ-2026-011,Headcount=2; hires=0
+R6.17,Requisition still Open although hires already meet Headcount,Job Openings,recMQPbjDBoBakTk9,REQ-2025-007,Headcount=1; hires=2
+R6.17,Requisition still Open although hires already meet Headcount,Job Openings,recVwQPU98RDxJM0q,REQ-2025-012,Headcount=2; hires=2
+R6.17,Requisition still Open although hires already meet Headcount,Job Openings,recXjrSsLdnbn00zJ,REQ-2025-003,Headcount=1; hires=1
+R6.17,Requisition still Open although hires already meet Headcount,Job Openings,recamYDoZyTqXNmoE,REQ-2025-016,Headcount=1; hires=1
+R6.17,Requisition still Open although hires already meet Headcount,Job Openings,recpCBZeXgyxZLpiR,REQ-2025-010,Headcount=1; hires=1
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,rec42NcT9OGY8NOQC,APP-00206,Source=Job Board; Stage=Screening; Candidate ID=CAND-00206
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,rec4iYmQoziFjJ9fL,APP-00349,Source=Job Board; Stage=Rejected; Candidate ID=CAND-00049
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,rec5EHcqYRoWmEZKL,APP-00293,Source=Agency; Stage=Hired; Candidate ID=CAND-00293
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,rec6W1jdOjlvcdpG5,APP-00136,Source=Job Board; Stage=Screening; Candidate ID=CAND-00136
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,recCg355T7dWJq5wC,APP-00080,Source=Agency; Stage=Withdrawn; Candidate ID=CAND-00080
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,recM987VNlQ0cKbu3,APP-00321,Source=Job Board; Stage=Rejected; Candidate ID=CAND-00021
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,recOQKvwlqxac6vRX,APP-00310,Source=Job Board; Stage=Hired; Candidate ID=CAND-00010
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,recP47ZJ2xJ54FFWg,APP-00016,Source=Job Board; Stage=Rejected; Candidate ID=CAND-00016
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,recUG5BEPoPgyzx34,APP-00083,Source=Agency; Stage=Rejected; Candidate ID=CAND-00083
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,recXmd9qCH1puDGaE,APP-00108,Source=Agency; Stage=Screening; Candidate ID=CAND-00108
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,recY5fy2hGQT06YVz,APP-00053,Source=Career Site; Stage=Applied; Candidate ID=CAND-00053
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,recZhULRett5ltIvH,APP-00347,Source=Job Board; Stage=Interview; Candidate ID=CAND-00047
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,reccPhC7vgbocR943,APP-00047,Source=Job Board; Stage=Rejected; Candidate ID=CAND-00047
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,recfTaOlRbflMgEDZ,APP-00330,Source=Job Board; Stage=Rejected; Candidate ID=CAND-00030
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,recgQKatztTQFAtLe,APP-00316,Source=Job Board; Stage=Applied; Candidate ID=CAND-00016
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,recgrME10OXKxRXqT,APP-00142,Source=Job Board; Stage=Interview; Candidate ID=CAND-00142
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,reclvmFsKkhQ8xGyW,APP-00103,Source=Career Site; Stage=Hired; Candidate ID=CAND-00103
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,recmp9OGqDBkzjCDx,APP-00190,Source=Job Board; Stage=Interview; Candidate ID=CAND-00190
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,recnPKdhvQjakaFXo,APP-00056,Source=Career Site; Stage=Rejected; Candidate ID=CAND-00056
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,recq2BWf9QUTLKL72,APP-00030,Source=Job Board; Stage=Rejected; Candidate ID=CAND-00030
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,recryJuaBpPNMp6I6,APP-00049,Source=Job Board; Stage=Rejected; Candidate ID=CAND-00049
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,recv6eHiU4xrWC2zh,APP-00118,Source=Job Board; Stage=Screening; Candidate ID=CAND-00118
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,recwtKmNj2n1Xe36T,APP-00021,Source=Job Board; Stage=Applied; Candidate ID=CAND-00021
+R6.18,Application has Referred By but the candidate's Source is not Referral,Applications,recxPVkspAJrZQp25,APP-00010,Source=Job Board; Stage=Rejected; Candidate ID=CAND-00010
+R6.19,Candidate Source is Referral but the application has no Referred By,Applications,rec0yM3MdyWBDkjXA,APP-00015,Source=Referral; Stage=Hired; Candidate ID=CAND-00015
+R6.19,Candidate Source is Referral but the application has no Referred By,Applications,rec3do5Lr0vNEt35R,APP-00014,Source=Referral; Stage=Hired; Candidate ID=CAND-00014
+R6.19,Candidate Source is Referral but the application has no Referred By,Applications,rec5wIXqujmTJTRDz,APP-00302,Source=Referral; Stage=Rejected; Candidate ID=CAND-00002
+R6.19,Candidate Source is Referral but the application has no Referred By,Applications,recF6Nq4dyCozd9Cs,APP-00335,Source=Referral; Stage=Hired; Candidate ID=CAND-00035
+R6.19,Candidate Source is Referral but the application has no Referred By,Applications,recLNdKwi9zNyzj65,APP-00314,Source=Referral; Stage=Rejected; Candidate ID=CAND-00014
+R6.19,Candidate Source is Referral but the application has no Referred By,Applications,recdRVWLR1wpfKcGW,APP-00304,Source=Referral; Stage=Rejected; Candidate ID=CAND-00004
+R6.19,Candidate Source is Referral but the application has no Referred By,Applications,reciNqlMlx5mYgt5N,APP-00002,Source=Referral; Stage=Hired; Candidate ID=CAND-00002
+R6.19,Candidate Source is Referral but the application has no Referred By,Applications,reclkeeZCve9HMAWx,APP-00315,Source=Referral; Stage=Hired; Candidate ID=CAND-00015
+R6.19,Candidate Source is Referral but the application has no Referred By,Applications,recrCOYOF6KWpUmqW,APP-00035,Source=Referral; Stage=Hired; Candidate ID=CAND-00035
+R6.19,Candidate Source is Referral but the application has no Referred By,Applications,recsf6EmTqvMtB5m9,APP-00004,Source=Referral; Stage=Hired; Candidate ID=CAND-00004
+R6.20,Same person (name + phone) hired more than once,Applications,rec0yM3MdyWBDkjXA,APP-00015,group=709bb4d0f5; Candidate ID=CAND-00015; Req ID=REQ-2026-008; Closed On=2026-07-13; Source=Referral
+R6.20,Same person (name + phone) hired more than once,Applications,recF6Nq4dyCozd9Cs,APP-00335,group=050f26b835; Candidate ID=CAND-00035; Req ID=REQ-2025-019; Closed On=2026-07-09; Source=Referral
+R6.20,Same person (name + phone) hired more than once,Applications,reclkeeZCve9HMAWx,APP-00315,group=709bb4d0f5; Candidate ID=CAND-00015; Req ID=REQ-2025-024; Closed On=2026-03-30; Source=Referral
+R6.20,Same person (name + phone) hired more than once,Applications,recrCOYOF6KWpUmqW,APP-00035,group=050f26b835; Candidate ID=CAND-00035; Req ID=REQ-2025-019; Closed On=2026-02-11; Source=Referral
+R6.21,"Interview result fields contradict Outcome (not Completed but scored, or Completed but unscored)",Interviews,rec4ut1NFvwq5AiNs,INT-00002,Outcome=Cancelled; Completed On=2025-12-20; Score=1.8; Recommendation=Strong No Hire
+R6.21,"Interview result fields contradict Outcome (not Completed but scored, or Completed but unscored)",Interviews,recYkOt2cyPyzNxGh,INT-00004,Outcome=No Show; Completed On=2026-06-23; Score=3.9; Recommendation=Hire
+R6.21,"Interview result fields contradict Outcome (not Completed but scored, or Completed but unscored)",Interviews,recwOLmkyNUx8771C,INT-00005,Outcome=No Show; Completed On=2026-05-13; Score=3.0; Recommendation=No Hire
+R6.21,"Interview result fields contradict Outcome (not Completed but scored, or Completed but unscored)",Interviews,recx6G0nSe0Ywjk3f,INT-00003,Outcome=No Show; Completed On=2025-11-23; Score=4.2; Recommendation=Strong Hire

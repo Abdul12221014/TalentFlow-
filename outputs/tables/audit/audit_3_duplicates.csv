@@ -1,0 +1,34 @@
+rule_id,rule,table,record_id,key,detail
+R3.2,Candidates sharing a normalised name + last 10 phone digits,Candidates,recYBZ7f5H1rG3LzK,CAND-00008,group=38b80ec738; group_size=2; Source=Job Board; Created On=2025-04-13
+R3.2,Candidates sharing a normalised name + last 10 phone digits,Candidates,recLjmGxXiilpV6n8,CAND-00007,group=38b80ec738; group_size=2; Source=Job Board; Created On=2026-06-26
+R3.2,Candidates sharing a normalised name + last 10 phone digits,Candidates,recJYEsd93C0FgfMW,CAND-00001,group=52eb012ac5; group_size=2; Source=Job Board; Created On=2025-04-08
+R3.2,Candidates sharing a normalised name + last 10 phone digits,Candidates,recyRCSer7xBH1pe3,CAND-00002,group=52eb012ac5; group_size=2; Source=Referral; Created On=2026-06-07
+R3.2,Candidates sharing a normalised name + last 10 phone digits,Candidates,rec7Iz8z4Yub5PTlV,CAND-00009,group=7809ee234a; group_size=2; Source=Job Board; Created On=2025-04-28
+R3.2,Candidates sharing a normalised name + last 10 phone digits,Candidates,rec40qlITVvfTqKUW,CAND-00010,group=7809ee234a; group_size=2; Source=Job Board; Created On=2025-07-27
+R3.2,Candidates sharing a normalised name + last 10 phone digits,Candidates,recY2oL9jE7i5hCgV,CAND-00004,group=bd27c48127; group_size=2; Source=Referral; Created On=2026-04-14
+R3.2,Candidates sharing a normalised name + last 10 phone digits,Candidates,recx4ndA3SWBtMoEL,CAND-00003,group=bd27c48127; group_size=2; Source=Job Board; Created On=2026-05-30
+R3.2,Candidates sharing a normalised name + last 10 phone digits,Candidates,recPesXb2MJfzC0vQ,CAND-00006,group=d96eb0bf61; group_size=2; Source=Job Board; Created On=2025-03-11
+R3.2,Candidates sharing a normalised name + last 10 phone digits,Candidates,recLgLkua5p2iEjnU,CAND-00005,group=d96eb0bf61; group_size=2; Source=Job Board; Created On=2025-08-13
+R3.2,Candidates sharing a normalised name + last 10 phone digits,Candidates,rec8v1V35Qxg2qsjL,CAND-00012,group=ee66969535; group_size=2; Source=Job Board; Created On=2025-07-04
+R3.2,Candidates sharing a normalised name + last 10 phone digits,Candidates,recCHwuvmFEnREk0M,CAND-00011,group=ee66969535; group_size=2; Source=Job Board; Created On=2025-10-26
+R3.3,"Applications sharing (candidate record, opening)",Applications,recwwFHgFJVvqXjbl,APP-00005,group=09f164ed62; Candidate ID=CAND-00005; Req ID=REQ-2026-017; Stage=Rejected; Applied On=2025-08-30
+R3.3,"Applications sharing (candidate record, opening)",Applications,recjqevDefQTd1YgU,APP-00305,group=09f164ed62; Candidate ID=CAND-00005; Req ID=REQ-2026-017; Stage=Applied; Applied On=2026-07-04
+R3.3,"Applications sharing (candidate record, opening)",Applications,rec2boXJI2mO6NvdL,APP-00311,group=909c45960d; Candidate ID=CAND-00011; Req ID=REQ-2025-007; Stage=Rejected; Applied On=2025-10-29
+R3.3,"Applications sharing (candidate record, opening)",Applications,receoLsZYU1qm4tPS,APP-00010,group=909c45960d; Candidate ID=CAND-00011; Req ID=REQ-2025-007; Stage=Applied; Applied On=2025-11-07
+R3.3,"Applications sharing (candidate record, opening)",Applications,recrCOYOF6KWpUmqW,APP-00035,group=a5c5e05ecb; Candidate ID=CAND-00035; Req ID=REQ-2025-019; Stage=Hired; Applied On=2026-01-14
+R3.3,"Applications sharing (candidate record, opening)",Applications,recF6Nq4dyCozd9Cs,APP-00335,group=a5c5e05ecb; Candidate ID=CAND-00035; Req ID=REQ-2025-019; Stage=Hired; Applied On=2026-06-13
+R3.4,"Applications sharing (person by name + phone, opening)",Applications,recwwFHgFJVvqXjbl,APP-00005,group=ab8791a353; Candidate ID=CAND-00005; Req ID=REQ-2026-017; Stage=Rejected; Applied On=2025-08-30
+R3.4,"Applications sharing (person by name + phone, opening)",Applications,recjqevDefQTd1YgU,APP-00305,group=ab8791a353; Candidate ID=CAND-00005; Req ID=REQ-2026-017; Stage=Applied; Applied On=2026-07-04
+R3.4,"Applications sharing (person by name + phone, opening)",Applications,rec2boXJI2mO6NvdL,APP-00311,group=ba510bd93c; Candidate ID=CAND-00011; Req ID=REQ-2025-007; Stage=Rejected; Applied On=2025-10-29
+R3.4,"Applications sharing (person by name + phone, opening)",Applications,receoLsZYU1qm4tPS,APP-00010,group=ba510bd93c; Candidate ID=CAND-00011; Req ID=REQ-2025-007; Stage=Applied; Applied On=2025-11-07
+R3.4,"Applications sharing (person by name + phone, opening)",Applications,recrCOYOF6KWpUmqW,APP-00035,group=c50f5edb5f; Candidate ID=CAND-00035; Req ID=REQ-2025-019; Stage=Hired; Applied On=2026-01-14
+R3.4,"Applications sharing (person by name + phone, opening)",Applications,recF6Nq4dyCozd9Cs,APP-00335,group=c50f5edb5f; Candidate ID=CAND-00035; Req ID=REQ-2025-019; Stage=Hired; Applied On=2026-06-13
+R3.5.Applications,Applications.Application ID used by more than one record,Applications,reckLPXA8xRgWsC1l,APP-00001,Application ID=APP-00001
+R3.5.Applications,Applications.Application ID used by more than one record,Applications,recsWENinZHkh9BBS,APP-00001,Application ID=APP-00001
+R3.5.Applications,Applications.Application ID used by more than one record,Applications,recGSUwByKNRw5ugN,APP-00005,Application ID=APP-00005
+R3.5.Applications,Applications.Application ID used by more than one record,Applications,recwwFHgFJVvqXjbl,APP-00005,Application ID=APP-00005
+R3.5.Applications,Applications.Application ID used by more than one record,Applications,recPKXgzmuoBaSLui,APP-00007,Application ID=APP-00007
+R3.5.Applications,Applications.Application ID used by more than one record,Applications,recsR2Y6HZo9GiSb7,APP-00007,Application ID=APP-00007
+R3.5.Applications,Applications.Application ID used by more than one record,Applications,receoLsZYU1qm4tPS,APP-00010,Application ID=APP-00010
+R3.5.Applications,Applications.Application ID used by more than one record,Applications,recxPVkspAJrZQp25,APP-00010,Application ID=APP-00010
+R3.2,Candidates sharing a normalised name + last 10 phone digits,Candidates,(note),,"Tie-break sensitivity, computed once on snapshot 2026-09-14T18:07:35Z and not re-run: earliest Created On (implemented), latest Created On and earliest application each give Job Board 8/26; the hired record keeping its own Source gives 7/26; the range 7/26-8/26 changes no verdict (channel conversion order unchanged, first vs second not separable). The grouping key (name + phone) is identifier-dependent and the tie-break key Candidates.Created On contradicts the application dates of CAND-00002, CAND-00003 and CAND-00004, so no precision beyond the range is available."

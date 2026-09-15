@@ -1,0 +1,37 @@
+rule_id,rule,table,record_id,key,detail
+R7.4,Offer Base CTC outside its requisition's salary band,Offers,rec9zR8IYJSOcp70l,OFF-00003,Base CTC=2258706; Salary Band Min=800000; Salary Band Max=1600000; Status=Accepted; Decline Reason=
+R7.4,Offer Base CTC outside its requisition's salary band,Offers,recSz6g6gyqkXsMhe,OFF-00004,Base CTC=880000; Salary Band Min=1600000; Salary Band Max=3000000; Status=Accepted; Decline Reason=
+R7.4,Offer Base CTC outside its requisition's salary band,Offers,recUzh2Vj5NyAPwRO,OFF-00002,Base CTC=440000; Salary Band Min=800000; Salary Band Max=1600000; Status=Pending; Decline Reason=
+R7.4,Offer Base CTC outside its requisition's salary band,Offers,recXLjOhQeRS6ds3g,OFF-00006,Base CTC=2850000; Salary Band Min=400000; Salary Band Max=800000; Status=Declined; Decline Reason=Counter Offer
+R7.4,Offer Base CTC outside its requisition's salary band,Offers,recYKkt6k6hHTt6Qt,OFF-00016,Base CTC=4180000; Salary Band Min=800000; Salary Band Max=1600000; Status=Accepted; Decline Reason=
+R7.4,Offer Base CTC outside its requisition's salary band,Offers,rechC6yLXnUv4oXCD,OFF-00001,Base CTC=1093624; Salary Band Min=400000; Salary Band Max=800000; Status=Accepted; Decline Reason=
+R7.4,Offer Base CTC outside its requisition's salary band,Offers,recv2V6Cfju1dWKmd,OFF-00011,Base CTC=670000; Salary Band Min=1600000; Salary Band Max=3000000; Status=Accepted; Decline Reason=
+R7.6.interview completion,Negative duration: interview completion (Scheduled On -> Completed On),Interviews,rec7SL2jo8M7TwS6x,INT-00013,days=-3.0; Scheduled On=2026-07-28; Completed On=2026-07-25
+R7.6.interview completion,Negative duration: interview completion (Scheduled On -> Completed On),Interviews,recYkOt2cyPyzNxGh,INT-00004,days=-13.0; Scheduled On=2026-07-06; Completed On=2026-06-23
+R7.6.interview completion,Negative duration: interview completion (Scheduled On -> Completed On),Interviews,recZW3WdOdZ2DwiRi,INT-00012,days=-9.0; Scheduled On=2026-01-03; Completed On=2025-12-25
+R7.6.interview completion,Negative duration: interview completion (Scheduled On -> Completed On),Interviews,reciQu0aUhVUh9gmJ,INT-00010,days=-12.0; Scheduled On=2026-05-05; Completed On=2026-04-23
+R7.6.offer to start,Negative duration: offer to start (Decision On -> Proposed Start Date),Offers,rec9zR8IYJSOcp70l,OFF-00003,days=-16.0; Decision On=2026-01-01; Proposed Start Date=2025-12-16
+R7.6.offer to start,Negative duration: offer to start (Decision On -> Proposed Start Date),Offers,recJ0AWDZSiO7mxXQ,OFF-00005,days=-24.0; Decision On=2026-07-17; Proposed Start Date=2026-06-23
+R7.6.offer to start,Negative duration: offer to start (Decision On -> Proposed Start Date),Offers,recSz6g6gyqkXsMhe,OFF-00004,days=-18.0; Decision On=2026-06-25; Proposed Start Date=2026-06-07
+R7.6.offer to start,Negative duration: offer to start (Decision On -> Proposed Start Date),Offers,rechC6yLXnUv4oXCD,OFF-00001,days=-23.0; Decision On=2025-12-22; Proposed Start Date=2025-11-29
+R7.6.offer to hire record,Negative duration: offer to hire record (Decision On -> Closed On),Applications,rec0yM3MdyWBDkjXA,APP-00015,days=-4; offer_decision_on=2026-07-17; Closed On=2026-07-13
+R7.6.offer to hire record,Negative duration: offer to hire record (Decision On -> Closed On),Applications,rec5EHcqYRoWmEZKL,APP-00293,days=-8; offer_decision_on=2026-07-21; Closed On=2026-07-13
+R7.6.offer to hire record,Negative duration: offer to hire record (Decision On -> Closed On),Applications,recCUNIerZyc7XBWv,APP-00260,days=-8; offer_decision_on=2026-05-26; Closed On=2026-05-18
+R7.6.offer to hire record,Negative duration: offer to hire record (Decision On -> Closed On),Applications,recCeQ8EDYbkRp312,APP-00319,days=-2; offer_decision_on=2025-12-24; Closed On=2025-12-22
+R7.6.offer to hire record,Negative duration: offer to hire record (Decision On -> Closed On),Applications,recF6Nq4dyCozd9Cs,APP-00335,days=-14; offer_decision_on=2026-07-23; Closed On=2026-07-09
+R7.6.offer to hire record,Negative duration: offer to hire record (Decision On -> Closed On),Applications,recGBuBnWhJkCTNIm,APP-00331,days=-6; offer_decision_on=2026-05-03; Closed On=2026-04-27
+R7.6.offer to hire record,Negative duration: offer to hire record (Decision On -> Closed On),Applications,recMBzp7YysYXWeKE,APP-00336,days=-6; offer_decision_on=2026-01-15; Closed On=2026-01-09
+R7.6.offer to hire record,Negative duration: offer to hire record (Decision On -> Closed On),Applications,recOhPAo3U9UBylfw,APP-00248,days=-7; offer_decision_on=2026-06-28; Closed On=2026-06-21
+R7.6.offer to hire record,Negative duration: offer to hire record (Decision On -> Closed On),Applications,recZuz7sr2fpSPd5U,APP-00281,days=-9; offer_decision_on=2026-06-18; Closed On=2026-06-09
+R7.6.offer to hire record,Negative duration: offer to hire record (Decision On -> Closed On),Applications,recbNY3B2mWPRFPdB,APP-00210,days=-14; offer_decision_on=2026-06-28; Closed On=2026-06-14
+R7.6.offer to hire record,Negative duration: offer to hire record (Decision On -> Closed On),Applications,reciNqlMlx5mYgt5N,APP-00002,days=-10; offer_decision_on=2025-12-22; Closed On=2025-12-12
+R7.6.offer to hire record,Negative duration: offer to hire record (Decision On -> Closed On),Applications,reclvmFsKkhQ8xGyW,APP-00103,days=-6; offer_decision_on=2026-03-24; Closed On=2026-03-18
+R7.6.offer to hire record,Negative duration: offer to hire record (Decision On -> Closed On),Applications,recmQozSPHQsfsGLa,APP-00174,days=-2; offer_decision_on=2026-06-08; Closed On=2026-06-06
+R7.6.offer to hire record,Negative duration: offer to hire record (Decision On -> Closed On),Applications,recsf6EmTqvMtB5m9,APP-00004,days=-3; offer_decision_on=2026-01-01; Closed On=2025-12-29
+R7.6.offer to hire record,Negative duration: offer to hire record (Decision On -> Closed On),Applications,recuAEYSg32syGYNn,APP-00298,days=-5; offer_decision_on=2026-07-22; Closed On=2026-07-17
+R7.6.offer to hire record,Negative duration: offer to hire record (Decision On -> Closed On),Applications,recx0Lu59vy664xAT,APP-00265,days=-2; offer_decision_on=2026-06-17; Closed On=2026-06-15
+R7.6.offer to hire record,Negative duration: offer to hire record (Decision On -> Closed On),Applications,recxs6FshN7Ughb5b,APP-00067,days=-4; offer_decision_on=2026-07-30; Closed On=2026-07-26
+R7.9,Candidate Expected CTC below Current CTC,Candidates,recJYEsd93C0FgfMW,CAND-00001,Current CTC=1030000; Expected CTC=718566
+R7.9,Candidate Expected CTC below Current CTC,Candidates,recY2oL9jE7i5hCgV,CAND-00004,Current CTC=2470000; Expected CTC=1532972
+R7.9,Candidate Expected CTC below Current CTC,Candidates,recx4ndA3SWBtMoEL,CAND-00003,Current CTC=2120000; Expected CTC=1395659
+R7.9,Candidate Expected CTC below Current CTC,Candidates,recyRCSer7xBH1pe3,CAND-00002,Current CTC=420000; Expected CTC=286858

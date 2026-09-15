@@ -41,7 +41,9 @@ MANIFEST_PATH = RAW_DIR / "_manifest.json"
 SCHEMA_FILE = "_schema.json"
 
 OUTPUTS_DIR = ROOT / "outputs"
-TABLES_OUT_DIR = OUTPUTS_DIR / "tables"
+TABLES_OUT_DIR = OUTPUTS_DIR / "tables"          # citation tables only: one CSV per cited number
+AUDIT_DIR = TABLES_OUT_DIR / "audit"              # audit per-check evidence and the ranked summary
+EXPLORATION_DIR = TABLES_OUT_DIR / "exploration"  # definition grids and working tables, never cited directly
 LOGS_DIR = OUTPUTS_DIR / "logs"
 PULL_LOG = LOGS_DIR / "pull.log"
 
