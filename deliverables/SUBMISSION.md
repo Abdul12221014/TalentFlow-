@@ -618,7 +618,7 @@ Every candidate email (300/300) and every employee work email (14/14) is on the 
 
 <!-- One page. -->
 
-**Duration:** approximately 20 hours across two sittings.
+**Duration:** approximately 20 hours of active work across two sittings, spanning about two calendar days.
 
 What would have been cut to fit the two-hour cap, settled: <!-- decisions.md #12 -->
 - the 11,598-definition sweeps (2,580 for claim 1, 9,018 for claim 2), reduced to roughly twenty hand-picked definitions; <!-- decisions.md #12 -->
