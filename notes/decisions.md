@@ -135,7 +135,7 @@ the reason, and the numbers that move under the alternative. All figures come fr
 ## 12. Session duration disclosed in the memo
 - **Choice:** state the session's duration in the memo.
 - **Rejected:** leaving the grader to find it in the transcript.
-- **Reason:** per the PM, PROCESS.md prints minutes elapsed per message, so the figure reaches the submission either way. The file itself is not in this repo, or anywhere under /Users/abdulkadir to depth 5. The brief prefers fewer deliverables the author stands behind.
+- **Reason:** per the PM, PROCESS.md prints minutes elapsed per message, so the figure reaches the submission either way. The file itself was nowhere on disk when this entry was written, and was later written from the session transcript and committed as PROCESS.md on 2026-09-16. The brief prefers fewer deliverables the author stands behind.
 - **Recorded span:** outputs/logs/pull.log runs from 2026-09-14T18:07:13Z to 2026-09-15T10:08:25Z at the time of writing, with an overnight break inside it.
 - **What would have been cut to fit two hours:**
   - the 11,598-definition sweeps (2,580 for claim 1, 9,018 for claim 2), reduced to roughly twenty hand-picked definitions;
